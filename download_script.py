@@ -5,7 +5,7 @@ import urllib.request
 df = pd.read_csv("ponteiros.csv")
 
 #defining values to download
-valores = df.iloc[1][1:]
+valores = df.iloc[1][1:].unique()
 
 print('Beginning file download with urllib2...')
 download_fail = []
