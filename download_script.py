@@ -7,7 +7,7 @@ df = pd.read_csv("ponteiros.csv")
 #defining values to download
 valores = df.iloc[1][1:].unique()
 
-print('Beginning file download with urllib2...')
+print('Beginning file download...')
 download_fail = []
 for item in valores:
     dir_name = item[:5] + "nnn"
