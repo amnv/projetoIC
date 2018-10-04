@@ -10,7 +10,7 @@ valores = df.iloc[1][1:].unique()
 print('Beginning file download...')
 download_fail = []
 for item in valores:
-    dir_name = item[:5] + "nnn"
+    dir_name = "data/" + item[:5] + "nnn"
     print("downloading file ", item)
     try:
         url = "https://ftp.ncbi.nlm.nih.gov/geo/series/{0}/{1}/matrix/{1}_series_matrix.txt.gz".format(dir_name, item)
