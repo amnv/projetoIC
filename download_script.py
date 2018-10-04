@@ -8,6 +8,7 @@ df = pd.read_csv("ponteiros.csv")
 valores = df.iloc[1][1:]
 
 print('Beginning file download with urllib2...')
+download_fail = []
 for item in valores:
     dir_name = item[:5] + "nnn"
     print("downloading file ", item)
@@ -17,4 +18,12 @@ for item in valores:
         urllib.request.urlretrieve(url, file_name)  
     except Exception:
         print("arquivo não localizado")
+        download_fail.append(item)
+
 print("downloads finalizados")
+
+#build file to sabe err
+log_err = open("log_err.txt", "w")
+for i in download_fail:
+    log_err.write(i + "\n")
+log_err.close()
