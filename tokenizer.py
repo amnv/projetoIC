@@ -7,7 +7,7 @@ def split_lines(text):
     lines = []
     for i in text:
         if ("!series_matrix_table_begin") in i:
-            print("parou")
+            print("separação por linha finalizada")
             break
 
         lines.append(i)
@@ -16,9 +16,8 @@ def split_lines(text):
 
 def remove_tag(lines):
     processed_lines = []
-    print("Imprimindo linhas")
+    print("removendo tags")
     for line in lines:
-        print(line)
         if not line.startswith("\n"):
             processed_lines.append(line.split("\t")[1].split("\n")[0])
     
@@ -33,6 +32,7 @@ for file in files:
     untagged_text = remove_tag(splited_text)
 
     #export as csv
+    print("Salvando em csv")
     aux = file.split(".")
     output_file = aux[0] + ".csv"
     with open(output_file , "w") as output:
