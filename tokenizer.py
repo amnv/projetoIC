@@ -19,7 +19,9 @@ def remove_tag(lines):
     print("removendo tags")
     for line in lines:
         if not line.startswith("\n"):
-            processed_lines.append(line.split("\t")[1].split("\n")[0])
+            aux_list = line.split("\t")[1:]
+            for aux in aux_list:
+                processed_lines.append(aux.split("\n")[0])
     
     return processed_lines
 
