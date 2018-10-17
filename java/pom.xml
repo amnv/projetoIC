@@ -7,6 +7,8 @@
 	<name>luceneIndexacao</name>
 	<properties>
 		<lucene.version>6.6.2</lucene.version>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
 	<dependencies>
 		<dependency>
