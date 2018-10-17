@@ -5,6 +5,16 @@
 	<artifactId>lucene.indexacao</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>luceneIndexacao</name>
+	<plugins>
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>exec-maven-plugin</artifactId>
+                <version>1.2.1</version>
+                <configuration>
+                    <mainClass>indexacao.Start</mainClass>
+                </configuration>
+            </plugin>
+     </plugins>
 	<properties>
 		<lucene.version>6.6.2</lucene.version>
 		<maven.compiler.source>1.8</maven.compiler.source>

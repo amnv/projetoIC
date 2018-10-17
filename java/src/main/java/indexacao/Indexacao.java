@@ -26,7 +26,7 @@ import org.apache.lucene.store.FSDirectory;
 
 public class Indexacao {
 	
-	  public static void main(String[] args)
+	  public static void indexar()
 	    {
 	        //Input folder
 	        String docsPath = "../data/processed_text";

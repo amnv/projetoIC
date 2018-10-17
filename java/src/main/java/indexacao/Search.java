@@ -21,7 +21,7 @@ public class Search {
 	 //directory contains the lucene indexes
     private static final String INDEX_DIR = "../data/luceneIndex";
  
-    public static void main(String[] args) throws Exception
+    public static void searching() throws Exception
     {
     	Scanner in = new Scanner(System.in);
     	String searchText = in.nextLine();
