@@ -33,10 +33,23 @@ def remove_small_text(lines, threshold = 3):
     
     return ret
 
-def change_name_file(name):
+def change_name_csv_file(name):
     ret = name.split("/")[-1]
     ret = ret.split(".txt")[0]
     return "../data/processed_text/" + ret + ".csv"
+
+def change_name_txt_file(name, number_line):
+    ret = name.split("/")[-1]
+    ret = ret.split(".txt")[0]
+    return "../data/processed_text/" + ret + "_" + str(number_line) + ".txt"
+
+def savingCSVs(file, output_file_name):
+    print("Salvando em csv")
+    output_file_name = change_name_csv_file(file)
+    with open(output_file_name , "w") as output:
+        writer = csv.writer(output, lineterminator='\n')
+        for val in processed_lines:
+            writer.writerow([val])
 
 
 #Read and preprocess text files
@@ -48,9 +61,10 @@ for file in files:
     processed_lines = remove_small_text(untagged_text)
 
     #export as csv
-    print("Salvando em csv")
-    output_file_name = change_name_file(file)
-    with open(output_file_name , "w") as output:
-        writer = csv.writer(output, lineterminator='\n')
-        for val in processed_lines:
-            writer.writerow([val])
+    #savingCSVs(file, output_file_name)
+    
+    #export as files .txt
+    for line in range(len(processed_lines)):
+        output_file_name = change_name_txt_file(file, line)
+        with open(output_file_name , "w") as output:
+            output.write(processed_lines[line])
