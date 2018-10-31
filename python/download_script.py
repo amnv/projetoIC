@@ -2,19 +2,19 @@ import pandas as pd
 import urllib.request
 
 #build dataframe
-df = pd.read_csv("ponteiros.csv")
+df = pd.read_csv("../ponteiros.csv", header=None)
 
 #defining values to download
-valores = df.iloc[1][1:].unique()
+valores = df[0].unique()
 
 print('Beginning file download...')
 download_fail = []
 for item in valores:
-    dir_name = "data/" + item[:5] + "nnn"
+    dir_name = item[:5] + "nnn"
     print("downloading file ", item)
     try:
         url = "https://ftp.ncbi.nlm.nih.gov/geo/series/{0}/{1}/matrix/{1}_series_matrix.txt.gz".format(dir_name, item)
-        file_name = "{0}_series_matrix.txt.gz".format(item)
+        file_name = "../data/{0}_series_matrix.txt.gz".format(item)
         urllib.request.urlretrieve(url, file_name)  
     except Exception:
         print("arquivo não localizado")
