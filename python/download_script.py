@@ -23,7 +23,7 @@ for item in valores:
 print("downloads finalizados")
 
 #build file to sabe err
-log_err = open("log_err.txt", "w")
+log_err = open("../log_err.txt", "w")
 for i in download_fail:
     log_err.write(i + "\n")
 log_err.close()
