@@ -5,8 +5,8 @@ import shutil
 files = glob.glob("../data/*.txt.gz")
 for fname in files:
     #defene file name
-    print(fname)
-    fname_out = fname.split(".")[0] + ".txt"
+   ## print(fname)
+    fname_out = fname.split(".gz")[0]
     print("Extraindo arquivo ", fname_out)
 
     with gzip.open(fname, 'rb') as f_in:
