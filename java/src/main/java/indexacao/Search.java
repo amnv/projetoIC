@@ -2,6 +2,8 @@ package indexacao;
 
 import java.io.IOException;
 import java.nio.file.Paths;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
@@ -21,11 +23,33 @@ public class Search {
 	 //directory contains the lucene indexes
     private static final String INDEX_DIR = "../data/luceneIndex";
  
+    public static List<Document> searchDocuments(String searchText) throws Exception
+    {
+ 	
+        //Create lucene searcher. It search over a single IndexReader.
+        IndexSearcher searcher = createSearcher();
+         
+        //Search indexed contents using search term
+        TopDocs foundDocs = searchInContent(searchText, searcher);
+         
+        //Total found documents
+        System.out.println("Total Results :: " + foundDocs.totalHits);
+       
+        List<Document> docs = new ArrayList<Document>();
+        //Let's print out the path of files which have searched term
+        for (ScoreDoc sd : foundDocs.scoreDocs)
+        {
+            docs.add(searcher.doc(sd.doc));
+         
+        }
+        
+        return docs;
+    }
+    
     public static void searching() throws Exception
     {
     	Scanner in = new Scanner(System.in);
-    	String searchText = in.nextLine();
-    	
+    	String searchText = in.nextLine();	
     	
         //Create lucene searcher. It search over a single IndexReader.
         IndexSearcher searcher = createSearcher();
@@ -45,6 +69,8 @@ public class Search {
         in.close();
     }
      
+    
+    
     private static TopDocs searchInContent(String textToFind, IndexSearcher searcher) throws Exception
     {
         //Create search query
@@ -52,7 +78,7 @@ public class Search {
         Query query = qp.parse(textToFind);
          
         //search the index
-        TopDocs hits = searcher.search(query, 10);
+        TopDocs hits = searcher.search(query, 10000);
         return hits;
     }
  
