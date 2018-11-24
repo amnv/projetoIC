@@ -17,7 +17,7 @@ public class Save {
 		if (docs.size() > 0) {
 			BufferedWriter writer = null;
 			try {
-				File file = new File("../data/seed/	" + docName + ".txt");
+				File file = new File("../data/seed/" + docName + ".txt");
 
 				// This will output the full path where the file will be written to...
 				System.out.println(file.getCanonicalPath());
