@@ -25,6 +25,7 @@ public class Save {
 				writer = new BufferedWriter(new FileWriter(file));
 				for (int i = 0; i < docs.size(); i++) {
 					writer.write(docs.get(i).get("contents"));
+					writer.write("\n\n");
 				}
 			} catch (Exception e) {
 				e.printStackTrace();
