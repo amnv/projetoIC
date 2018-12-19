@@ -1,8 +1,13 @@
+import sys
 import nltk
 from nltk.tokenize import sent_tokenize, word_tokenize
 
-def sentences_segmentation():
-    raw_text = open("../data/seed/Adipose Tissue.txt", "r").read()
+def sentences_segmentation(file_name = None):
+    if file_name == None:
+        raw_text = open("../data/seed/Adipose Tissue.txt", "r").read()
+    else:
+        raw_text = open("../data/seed/" + file_name, "r").read()
+
     sent_tokenizer=nltk.data.load('tokenizers/punkt/english.pickle')
     return sent_tokenizer.tokenize(raw_text)
 
@@ -10,7 +15,7 @@ def sentences_segmentation():
 def pos_tag(text):
     tokens = word_tokenize(text)
     pos = nltk.pos_tag(tokens)
-    print(pos)
+    #print(pos)
     return [i[1] for i in pos]
 
 def is_candidate(sentence):
@@ -21,8 +26,12 @@ def is_candidate(sentence):
             break
     return candidate
 
+file_name = None
+if len(sys.argv) > 1:
+    file_name = sys.argv[1]
+
 print("Segmenting sentences")
-sentences = sentences_segmentation()
+sentences = sentences_segmentation(file_name)
 candidate_sentences = []
 
 print("pos tagging")
@@ -32,7 +41,7 @@ for sentence in sentences:
         candidate_sentences.append(sentence)
 
 print("writing")
-s = open("../data/seed/teste", "w")
+s = open("../data/seed/" + file_name + "_sentencas_candidatas.txt", "w")
 for i in candidate_sentences:
     s.write(i + "\n")
 
