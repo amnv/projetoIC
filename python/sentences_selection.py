@@ -26,6 +26,9 @@ def is_candidate(sentence):
             break
     return candidate
 
+def get_file_name(file_name):
+    return file_name.split(".")[0]
+
 file_name = None
 if len(sys.argv) > 1:
     file_name = sys.argv[1]
@@ -41,6 +44,7 @@ for sentence in sentences:
         candidate_sentences.append(sentence)
 
 print("writing")
+file_name = get_file_name(file_name)
 s = open("../data/seed/" + file_name + "_sentencas_candidatas.txt", "w")
 for i in candidate_sentences:
     s.write(i + "\n")
