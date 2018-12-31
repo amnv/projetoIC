@@ -1,0 +1,2542 @@
+"HSC of normal bone marrow"
+
+"Bone marrow biopsy, DAC"
+
+"tissue: fetal bone marrow"
+
+"Bone marrow biopsy, DAC"
+
+"Density centrifuged bone marrow"
+
+"GMP of normal bone marrow"
+
+"GMP of normal bone marrow"
+
+"MEP of normal bone marrow"
+
+"tissue: fetal bone marrow"
+
+"Bone marrow biopsy, AraC"
+
+"tissue: fetal bone marrow"
+
+"HSC of normal bone marrow"
+
+"Density centrifuged bone marrow"
+
+"tissue: fetal bone marrow"
+
+"MPP of normal bone marrow"
+
+"tissue: fetal bone marrow"
+
+"Density centrifuged bone marrow"
+
+"Bone marrow biopsy, AraC"
+
+"Bone marrow biopsy, mock"
+
+"CMP of normal bone marrow"
+
+"HSC of normal bone marrow"
+
+"Bone marrow biopsy, DAC"
+
+"Bone marrow biopsy, mock"
+
+"Bone marrow biopsy, AraC"
+
+"Bone marrow biopsy, AraC"
+
+"tissue: fetal bone marrow"
+
+"Bone marrow biopsy, DAC"
+
+"tissue: fetal bone marrow"
+
+"Bone marrow biopsy, mock"
+
+"Bone marrow biopsy, AraC"
+
+"tissue: fetal bone marrow"
+
+"Bone marrow biopsy, DAC"
+
+"tissue: fetal bone marrow"
+
+"Bone marrow biopsy, DAC"
+
+"tissue: fetal bone marrow"
+
+"Bone marrow biopsy, AraC"
+
+"Bone marrow biopsy, DAC"
+
+"Bone marrow biopsy, mock"
+
+"GMP of normal bone marrow"
+
+"HSC of normal bone marrow"
+
+"Bone marrow biopsy, DAC"
+
+"Density centrifuged bone marrow"
+
+"MPP of normal bone marrow"
+
+"Bone marrow biopsy, DAC"
+
+"Bone marrow biopsy, AraC"
+
+"Bone marrow biopsy, AraC"
+
+"tissue: fetal bone marrow"
+
+"Bone marrow biopsy, DAC"
+
+"Bone marrow biopsy, DAC"
+
+"Density centrifuged bone marrow"
+
+"Bone marrow biopsy, mock"
+
+"tissue: fetal bone marrow"
+
+"GMP of normal bone marrow"
+
+"Bone marrow biopsy, AraC"
+
+"Bone marrow biopsy, mock"
+
+"tissue: fetal bone marrow"
+
+"tissue: fetal bone marrow"
+
+"MPP of normal bone marrow"
+
+"Bone marrow biopsy, DAC"
+
+"Bone marrow biopsy, AraC"
+
+"tissue: fetal bone marrow"
+
+"MPP of normal bone marrow"
+
+"tissue: fetal bone marrow"
+
+"CMP of normal bone marrow"
+
+"Bone marrow biopsy, AraC"
+
+"MEP of normal bone marrow"
+
+"Bone marrow biopsy, AraC"
+
+"GMP of normal bone marrow"
+
+"Bone marrow biopsy, DAC"
+
+"HSC of normal bone marrow"
+
+"Density centrifuged bone marrow"
+
+"tissue: fetal bone marrow"
+
+"Bone marrow biopsy, AraC"
+
+"CMP of normal bone marrow"
+
+"Bone marrow biopsy, AraC"
+
+"Bone marrow biopsy, DAC"
+
+"MPP of normal bone marrow"
+
+"Bone marrow biopsy, DAC"
+
+"tissue: fetal bone marrow"
+
+"Density centrifuged bone marrow"
+
+"Density centrifuged bone marrow"
+
+"tissue: fetal bone marrow"
+
+"Bone marrow biopsy, AraC"
+
+"tissue: fetal bone marrow"
+
+"Bone marrow biopsy, mock"
+
+"Bone marrow biopsy, mock"
+
+"tissue: fetal bone marrow"
+
+"MEP of normal bone marrow"
+
+"Bone marrow biopsy, mock"
+
+"Bone marrow biopsy, mock"
+
+"Bone marrow biopsy, mock"
+
+"Bone marrow biopsy, mock"
+
+"Bone marrow biopsy, mock"
+
+"Bone marrow biopsy, DAC"
+
+"CMP of normal bone marrow"
+
+"Density centrifuged bone marrow"
+
+"MEP of normal bone marrow"
+
+"Bone marrow biopsy, mock"
+
+"Bone marrow biopsy, AraC"
+
+"CMP of normal bone marrow"
+
+"MEP of normal bone marrow"
+
+"Bone marrow biopsy, mock"
+
+"tissue: fetal bone marrow"
+
+"Bone marrow biopsy, mock"
+
+"disease state: normal bone marrow"
+
+"normal bone marrow progenitor cells"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"bone marrow mononuclear cells, leukemia"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"disease state: normal bone marrow"
+
+"sample type: Remission bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"Bone marrow sample grown in cultutre"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"bone marrow mononuclear cells, leukemia"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"Bone marrow mononuclear cells, 05_170"
+
+"tissue: bone marrow / peripheral blood"
+
+"Normal human bone marrow cells"
+
+"Normal human bone marrow cells"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"Normal human bone marrow cells"
+
+"disease state: normal bone marrow"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"Normal human bone marrow cells"
+
+"L-MPP of normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"bone marrow mononuclear cells, leukemia"
+
+"tissue: bone marrow / peripheral blood"
+
+"Bone marrow mononuclear cells, 03_106"
+
+"Normal human bone marrow cells"
+
+"bone marrow mononuclear cells, leukemia"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"Bone marrow mononuclear cells, 02_723"
+
+"normal bone marrow progenitor cells"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"sample type: Remission bone marrow"
+
+"bone marrow mononuclear cells, leukemia"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"L-MPP of normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"Bone marrow mononuclear cells, 04_126"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"bone marrow mononuclear cells, leukemia"
+
+"Bone marrow mononuclear cells, 06_758"
+
+"Normal human bone marrow cells"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"Bone marrow mononuclear cells, 08_774"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"normal bone marrow progenitor cells"
+
+"disease state: normal bone marrow"
+
+"Bone marrow sample grown in cultutre"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"Normal human bone marrow cells"
+
+"normal bone marrow progenitor cells"
+
+"tissue: bone marrow / peripheral blood"
+
+"bone marrow mononuclear cells, leukemia"
+
+"bone marrow mononuclear cells, leukemia"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"bone marrow mononuclear cells, leukemia"
+
+"Normal human bone marrow cells"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"normal bone marrow progenitor cells"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"Bone marrow mononuclear cells, 02_1505"
+
+"Normal human bone marrow cells"
+
+"tissue: bone marrow / peripheral blood"
+
+"Bone marrow mononuclear cells, 00_751"
+
+"bone marrow mononuclear cells, leukemia"
+
+"Bone marrow sample grown in cultutre"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"L-MPP of normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"Normal human bone marrow cells"
+
+"disease state: normal bone marrow"
+
+"bone marrow mononuclear cells, leukemia"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"normal bone marrow progenitor cells"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"Bone marrow sample grown in cultutre"
+
+"disease state: normal bone marrow"
+
+"normal bone marrow progenitor cells"
+
+"disease state: normal bone marrow"
+
+"Normal human bone marrow cells"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"Bone marrow mononuclear cells, 02_1522"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"bone marrow mononuclear cells, leukemia"
+
+"disease state: normal bone marrow"
+
+"disease state: normal bone marrow"
+
+"disease state: normal bone marrow"
+
+"disease state: normal bone marrow"
+
+"Bone marrow mononuclear cells, 03_1380"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"normal bone marrow progenitor cells"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"Normal human bone marrow cells"
+
+"Bone marrow mononuclear cells, 01_1808"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"bone marrow mononuclear cells, leukemia"
+
+"tissue: bone marrow / peripheral blood"
+
+"normal bone marrow progenitor cells"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"Bone marrow sample grown in cultutre"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"sample type: Remission bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"disease state: normal bone marrow"
+
+"normal bone marrow progenitor cells"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"Bone marrow sample grown in cultutre"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"normal bone marrow progenitor cells"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"Bone marrow mononuclear cells, 04_6"
+
+"Bone marrow sample grown in cultutre"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"Bone marrow sample grown in cultutre"
+
+"disease state: normal bone marrow"
+
+"bone marrow mononuclear cells, leukemia"
+
+"normal bone marrow progenitor cells"
+
+"normal bone marrow progenitor cells"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"Normal human bone marrow cells"
+
+"tissue: bone marrow / peripheral blood"
+
+"bone marrow mononuclear cells, leukemia"
+
+"disease state: normal bone marrow"
+
+"bone marrow mononuclear cells, leukemia"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"L-MPP of normal bone marrow"
+
+"disease state: normal bone marrow"
+
+"Normal human bone marrow cells"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"disease state: normal bone marrow"
+
+"disease state: normal bone marrow"
+
+"disease state: normal bone marrow"
+
+"Normal human bone marrow cells"
+
+"tissue: bone marrow / peripheral blood"
+
+"normal bone marrow progenitor cells"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"Normal human bone marrow cells"
+
+"Bone marrow mononuclear cells, 06_2096"
+
+"Bone marrow sample grown in cultutre"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"normal bone marrow progenitor cells"
+
+"Normal human bone marrow cells"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"bone marrow mononuclear cells, leukemia"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"normal bone marrow progenitor cells"
+
+"tissue: bone marrow / peripheral blood"
+
+"Bone marrow mononuclear cells, 10_1420"
+
+"bone marrow mononuclear cells, leukemia"
+
+"tissue: bone marrow / peripheral blood"
+
+"bone marrow mononuclear cells, leukemia"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"Bone marrow mononuclear cells, 05_579"
+
+"disease state: normal bone marrow"
+
+"Bone marrow mononuclear cells, 07_1962"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"Bone marrow mononuclear cells, 05_1464"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"Normal human bone marrow cells"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"Bone marrow mononuclear cells, 11_834"
+
+"tissue: bone marrow / peripheral blood"
+
+"Bone marrow mononuclear cells, 07_2252"
+
+"tissue: bone marrow / peripheral blood"
+
+"Bone marrow mononuclear cells, 08_930"
+
+"Bone marrow mononuclear cells, 12_254"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"Bone marrow sample grown in cultutre"
+
+"Bone marrow mononuclear cells, 03_1310"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"sample type: Remission bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"Normal human bone marrow cells"
+
+"Normal human bone marrow cells"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"bone marrow mononuclear cells, leukemia"
+
+"Bone marrow sample grown in cultutre"
+
+"disease state: normal bone marrow"
+
+"bone marrow mononuclear cells, leukemia"
+
+"disease state: normal bone marrow"
+
+"Bone marrow sample grown in cultutre"
+
+"Normal human bone marrow cells"
+
+"bone marrow mononuclear cells, leukemia"
+
+"Bone marrow mononuclear cells, 10_1789"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"bone marrow mononuclear cells, leukemia"
+
+"tissue: bone marrow / peripheral blood"
+
+"Bone marrow mononuclear cells, 08_723"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"bone marrow mononuclear cells, leukemia"
+
+"bone marrow mononuclear cells, leukemia"
+
+"disease state: normal bone marrow"
+
+"disease state: normal bone marrow"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"Bone marrow mononuclear cells, 02_1550"
+
+"bone marrow mononuclear cells, leukemia"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"bone marrow mononuclear cells, leukemia"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"Bone marrow mononuclear cells, 08_785"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"Bone marrow sample grown in cultutre"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"disease state: normal bone marrow"
+
+"Bone marrow sample grown in cultutre"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"normal bone marrow progenitor cells"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"normal bone marrow progenitor cells"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"Bone marrow mononuclear cells, 08_151"
+
+"Bone marrow sample grown in cultutre"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"tissue: bone marrow / peripheral blood"
+
+"Bone marrow mononuclear cells, 06_518"
+
+"tissue: bone marrow / peripheral blood"
+
+"bone marrow mononuclear cells, leukemia"
+
+"normal bone marrow progenitor cells"
+
+"bone marrow mononuclear cells, leukemia"
+
+"disease state: normal bone marrow"
+
+"disease state: normal bone marrow"
+
+"normal bone marrow progenitor cells"
+
+"tissue: bone marrow / peripheral blood"
+
+"Bone marrow mononuclear cells, 07_1768"
+
+"tissue: bone marrow / peripheral blood"
+
+"disease state: normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"Bone marrow sample grown in cultutre"
+
+"L-MPP of normal bone marrow"
+
+"tissue: bone marrow / peripheral blood"
+
+"bone marrow-derived MSC (iP-MSC)"
+
+"cells isolated from healthy bone marrow"
+
+"tisse source for mscs: bone marrow (BM)"
+
+"cell type: normal bone marrow progenitor cells"
+
+"cell type: bone marrow mononuclear cells"
+
+"Bone marrow MSC-derived iPS cells (iPSCs)"
+
+"bone marrow-derived MSC (iP-MSC)"
+
+"cell type: bone marrow mononuclear cells"
+
+"cell type: normal bone marrow progenitor cells"
+
+"cells isolated from healthy bone marrow"
+
+"cell type: bone marrow mononuclear cells"
+
+"tisse source for mscs: bone marrow (BM)"
+
+"cells isolated from healthy bone marrow"
+
+"cell type: bone marrow mononuclear cells"
+
+"cell type: bone marrow mononuclear cells"
+
+"cell type: bone marrow mononuclear cells"
+
+"cells isolated from healthy bone marrow"
+
+"cells isolated from healthy bone marrow"
+
+"cell type: bone marrow mononuclear cells"
+
+"cells isolated from healthy bone marrow"
+
+"cell type: bone marrow mononuclear cells"
+
+"cell type: bone marrow mononuclear cells"
+
+"cell type: normal bone marrow progenitor cells"
+
+"cell type: bone marrow mononuclear cells"
+
+"cell type: bone marrow mononuclear cells"
+
+"bone marrow-derived MSC (iP-MSC)"
+
+"tisse source for mscs: bone marrow (BM)"
+
+"cell type: normal bone marrow progenitor cells"
+
+"cell type: bone marrow mononuclear cells"
+
+"bone marrow-derived MSC (iP-MSC)"
+
+"cells isolated from healthy bone marrow"
+
+"cell type: bone marrow mononuclear cells"
+
+"cell type: bone marrow mononuclear cells"
+
+"cells isolated from healthy bone marrow"
+
+"bone marrow-derived MSC (iP-MSC)"
+
+"Bone marrow MSC-derived iPS cells (iPSCs)"
+
+"bone marrow-derived MSC (iP-MSC)"
+
+"cell type: bone marrow mononuclear cells"
+
+"bone marrow-derived MSC (iP-MSC)"
+
+"cell type: bone marrow mononuclear cells"
+
+"cell type: bone marrow mononuclear cells"
+
+"cell type: bone marrow mononuclear cells"
+
+"bone marrow-derived MSC (iP-MSC)"
+
+"bone marrow-derived MSC (iP-MSC)"
+
+"cells isolated from healthy bone marrow"
+
+"cell type: normal bone marrow progenitor cells"
+
+"cell type: bone marrow mononuclear cells"
+
+"cell type: bone marrow mononuclear cells"
+
+"cell type: bone marrow mononuclear cells"
+
+"bone marrow-derived MSC (iP-MSC)"
+
+"cell type: bone marrow mononuclear cells"
+
+"cell type: bone marrow mononuclear cells"
+
+"cell type: bone marrow mononuclear cells"
+
+"cell type: normal bone marrow progenitor cells"
+
+"bone marrow-derived MSC (iP-MSC)"
+
+"bone marrow-derived MSC (iP-MSC)"
+
+"bone marrow-derived MSC (iP-MSC)"
+
+"cell type: normal bone marrow progenitor cells"
+
+"cells isolated from healthy bone marrow"
+
+"Bone marrow MSC-derived iPS cells (iPSCs)"
+
+"cells isolated from healthy bone marrow"
+
+"cell type: normal bone marrow progenitor cells"
+
+"cell type: bone marrow mononuclear cells"
+
+"cell type: bone marrow mononuclear cells"
+
+"cell type: bone marrow mononuclear cells"
+
+"cell type: normal bone marrow progenitor cells"
+
+"cells isolated from healthy bone marrow"
+
+"cell type: normal bone marrow progenitor cells"
+
+"cell type: bone marrow mononuclear cells"
+
+"cell type: bone marrow mononuclear cells"
+
+"bone marrow-derived MSC (iP-MSC)"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"genomic DNA from MPP of normal bone marrow ID2712"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"genomic DNA from bone marrow CD34+ cells 8363800011_RO1CO1"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"genomic DNA from HSC of normal bone marrow ID2710"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"genomic DNA from HSC of normal bone marrow ID2627"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"genomic DNA from CMP of normal bone marrow ID2753"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"genomic DNA from MPP of normal bone marrow ID2748"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"genomic DNA from CMP of normal bone marrow ID2627"
+
+"genomic DNA from L-MPP of normal bone marrow ID2710"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"genomic DNA from GMP of normal bone marrow ID2753"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"sample origin: Human bone marrow-derived mesenchymal stromal cell"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"genomic DNA from bone marrow CD34+ cells 8359018137_RO1CO1"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"genomic DNA from MEP of normal bone marrow ID2627"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"genomic DNA from L-MPP of normal bone marrow ID2753"
+
+"genomic DNA from GMP of normal bone marrow ID2748"
+
+"genomic DNA from bone marrow CD34+ cells 8363800011_RO2CO1"
+
+"Sorted normal bone marrow cells from healthy volunteers at Washington University"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"sample origin: Human bone marrow-derived mesenchymal stromal cell"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"genomic DNA from MEP of normal bone marrow ID2748"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"genomic DNA from bone marrow CD34+ cells 8363800026_RO2CO1"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"genomic DNA from GMP of normal bone marrow ID2710"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"genomic DNA from L-MPP of normal bone marrow ID2627"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"genomic DNA from MPP of normal bone marrow ID2627"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"genomic DNA from HSC of normal bone marrow ID2712"
+
+"genomic DNA from GMP of normal bone marrow ID2712"
+
+"genomic DNA from bone marrow CD34+ cells 8359018152_RO1CO1"
+
+"sample origin: Human bone marrow-derived mesenchymal stromal cell"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"genomic DNA from bone marrow CD34+ cells 5729917060_RO6CO2"
+
+"sample origin: Human bone marrow-derived mesenchymal stromal cell"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"genomic DNA from L-MPP of normal bone marrow ID2748"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"genomic DNA from MEP of normal bone marrow ID2712"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"Mesenchymal stem and progenitor cells (MSPCs) from human bone marrow"
+
+"genomic DNA from GMP of normal bone marrow ID2627"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"genomic DNA from CMP of normal bone marrow ID2748"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"genomic DNA from bone marrow CD34+ cells 8363800026_RO1CO1"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"Mesenchymal stem and progenitor cells (MSPCs) from human bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"genomic DNA from CMP of normal bone marrow ID2712"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"genomic DNA from MPP of normal bone marrow ID2710"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"Mesenchymal stem and progenitor cells (MSPCs) from human bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"sample origin: Human bone marrow-derived mesenchymal stromal cell"
+
+"genomic DNA from HSC of normal bone marrow ID2748"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"genomic DNA from bone marrow CD34+ cells 5729917060_RO5CO2"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"genomic DNA from CMP of normal bone marrow ID2710"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"genomic DNA from HSC of normal bone marrow ID2753"
+
+"genomic DNA from MEP of normal bone marrow ID2710"
+
+"genomic DNA from L-MPP of normal bone marrow ID2712"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"genomic DNA from bone marrow CD34+ cells 5729917060_RO3CO2"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"sample origin: Human bone marrow-derived mesenchymal stromal cell"
+
+"genomic DNA from bone marrow CD34+ cells 5729917060_RO4CO2"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"genomic DNA from MEP of normal bone marrow ID2753"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"genomic DNA from MPP of normal bone marrow ID2753"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"primary cells isolated from patient's blood or bone marrow"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Human bone and marrow niche formation by mesenchymal progenitors in vivo is predefined by an organotypic epigenetic signature"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Immortalized human bone marrow-derived mesenchymal stromal cell line DNA methylation [iMSC#3 (Culture II)]"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Immortalized human bone marrow-derived mesenchymal stromal cell line DNA methylation [iMSC#3 (Culture I)]"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"Genomic DNA was extracted and purified from AML and normal bone marrow samples using Epicentre Kit according to standard instructions"
+
+"DNA was extracted from patient bone marrow samples and xenograft bone marrow samples using Qiagen Allprep kit. Bisulphite converted DNA from all samples were hybridised to the Illumina Infinium 450 Human Methylation arrays and for each analysis the drug treated sample was compared to the corresponding PBS control sample."
+
+"Bone marrow cells collected from healthy donors were sorted and DNA extracted at Washington University in St. Louis, microarrays were then run at USC"
+
+"In this study, we have analyzed DNA methylation characteristics of human mesenchymal stem and progenitor cells (MSPCs) form different tissue sources including bone marrow (BM), white adipose tissue (WAT ), umbilical cord (UC) as well as dermal fibroblasts by using the HumanMethylation450K array. Cells able to form bone through endochondral ossification and attract bone marrow in an innovative in vivo model were compared to cells lacking these capacities. Interestingly only BM-derived MSPCs were capable of bone formation and marrow attraction. These features correlated with unique epigenetic characteristics potentially enabling BM-derived cells to undergo endochondral ossification."
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Mixed blood + marrow"
+
+"Despite similarities in morphology, phenotype and in vitro behavior, Mesenchymal Stromal Cells (MSC) form various tissue sources show striking differences in their in vivo potential to form bone, cartilage and hematopoietic support tissue.  Comparing four commonly use MSC sources (bone marrow (BM), white adipose tissue (WAT), umbilical cord (UC) and skin) we found only bone marrow (BM)-derived MSCs capable of endochondral ossification and marrow attraction. To gain mechanistic insights explaining this differences we analyzed gene expression characteristics of MSC from all four tissue sources using  Affymetrix Genechip Human Gene 2.0 ST Array."
+
+"genomic DNA from bone of subject 36"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 4"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 20"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 32"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 6"
+
+"genomic DNA from bone of subject 40"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 34"
+
+"genomic DNA from bone of subject 12"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 18"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 25"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 14"
+
+"genomic DNA from bone of subject 7"
+
+"genomic DNA from bone of subject 47"
+
+"genomic DNA from bone of subject 25"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 9"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 37"
+
+"genomic DNA from bone of subject 30"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 22"
+
+"genomic DNA from bone of subject 48"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 26"
+
+"genomic DNA from bone of subject 42"
+
+"genomic DNA from bone of subject 1"
+
+"genomic DNA from bone of subject 20"
+
+"genomic DNA from bone of subject 11"
+
+"genomic DNA from bone of subject 43"
+
+"genomic DNA from bone of subject 35"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 1"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 38"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 32"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA methylation profiles of human bone samples"
+
+"genomic DNA from bone of subject 46"
+
+"genomic DNA from bone of subject 21"
+
+"genomic DNA from bone of subject 24"
+
+"genomic DNA from bone of subject 10"
+
+"genomic DNA from bone of subject 36"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 28"
+
+"genomic DNA from bone of subject 31"
+
+"genomic DNA from bone of subject 27"
+
+"genomic DNA from bone of subject 27"
+
+"genomic DNA from bone of subject 40"
+
+"genomic DNA from bone of subject 18"
+
+"genomic DNA from bone of subject 15"
+
+"genomic DNA from bone of subject 48"
+
+"genomic DNA from bone of subject 10"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 44"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 16"
+
+"genomic DNA from bone of subject 8"
+
+"genomic DNA from bone of subject 34"
+
+"genomic DNA from bone of subject 43"
+
+"genomic DNA from bone of subject 5"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 29"
+
+"genomic DNA from bone of subject 45"
+
+"genomic DNA from bone of subject 16"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 35"
+
+"genomic DNA from bone of subject 29"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 11"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 13"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 7"
+
+"genomic DNA from bone of subject 19"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 30"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 12"
+
+"genomic DNA from bone of subject 33"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 9"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 23"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 3"
+
+"genomic DNA from bone of subject 41"
+
+"genomic DNA from bone of subject 6"
+
+"genomic DNA from bone of subject 23"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 41"
+
+"genomic DNA from bone of subject 47"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 28"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 3"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 21"
+
+"genomic DNA from bone of subject 46"
+
+"genomic DNA from bone of subject 37"
+
+"genomic DNA from bone of subject 24"
+
+"genomic DNA from bone of subject 31"
+
+"genomic DNA from bone of subject 4"
+
+"genomic DNA from bone of subject 39"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 19"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 2"
+
+"genomic DNA from bone of subject 14"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 8"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 39"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 45"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 22"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 26"
+
+"genomic DNA from bone of subject 13"
+
+"genomic DNA from bone of subject 44"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 15"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 17"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 17"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 42"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"genomic DNA from bone of subject 33"
+
+"genomic DNA from bone of subject 5"
+
+"genomic DNA from bone of subject 2"
+
+"genomic DNA from bone of subject 38"
+
+"DNA extracted from fresh frozen bone"
+
+"DNA extracted from fresh frozen bone"
+
+"Human DNA methylation Beadchip v1.2 was used to obtain DNA methylation profiles across approximately 486,000 CpGs. The trabecular bone pieces were obtained from the central part of the femoral head of Spanish (Caucasian) patients with hip fractures (due to osteoporosis) or subjects with osteoarthritis. About 85% of the cell population in this bone tissue are osteocytes and the remainder are osteoblasts, bone marrow, etc."
+
+"genomic DNA from Bone of a 112 year old female subject (Sample14)"
+
+"genomic DNA from Bone of a 112 year old female subject (Sample38)"
+
+"genomic DNA from Bone of a 112 year old female subject (Sample14)"
+
+"genomic DNA from Bone of a 112 year old female subject (Sample62)"
+
+"genomic DNA from Bone of a 112 year old female subject (Sample22)"
+
+"genomic DNA from Bone of a 112 year old female subject (Sample38)"
+
+"genomic DNA from Bone of a 112 year old female subject (Sample62)"
+
+"genomic DNA from Bone of a 112 year old female subject (Sample22)"
+
+"We examined DNA methylation and RNA expression status during early B-cell development by sorting multiple replicates of four separate stages of pre-B cells derived from normal human fetal bone marrow and applied high-dimension DNA methylation scanning and expression arrays."
+
+"The study investigated the changes in DNA-methylation and gene expression during granulopoiesis. To this end CMP, GMP, PMC and PMN cell populations were isolated by FACS from bone marrow from healthy donors and analysed by CAGE as well as expression and DNA microarrays."
+
+"The study investigated the abberrent DNA methylation in correlation with gene expression in cytogenetic normal acute myeloid leukemia. CN-AML blasts isolated from patient bone marrow aspriation were compared to CD34+ cell population from healthy donors by DNA methylation array and affymetrix gene expression microarray."
+
+"cell description: neuroblastoma, BE-C is a clone of the SK-N-BE neuroblastoma cell line (see ATCC CRL-2271) that was established in November of 1972 from a bone marrow biopsy taken from a 2-year-old individual with disseminated neuroblastoma after repeated courses of chemotherapy and radiotherapy."
+
+"Genome wide DNA methylation profiling of leukemia stem, blast cells obtained from 15 AML patients and of normal hematopoietic stem/progenitor cells from 5 normal bone marrow. The Illumina Infinium 450k Human DNA methylation Beadchip was used to obtain DNA methylation profiles across approximately 450,000 CpGs in the samples. Samples included 20 leukemia stem cells, 24 blast cells and 30 normal hematopoietic stem and progenitor cells (6 different types from 5 normal bone marrows)."
+
+"MSCs from BM, WAT, UC and skin were isolated using plastic adherence. Cells were expanded in standard alpha-MEM supplemented with pooled human platelet lysate fully replacing fetal bovine serum. MSCs were subcutaneously implanted into immune-compromised mice to comparatively evaluate bone formation and subsequent bone marrow attraction. In parallel we have isolated RNA from all sources to analyze tissue source specific gene expression profile."
+
+"Human DNA methylation Beadchip v1.2 was used to obtain n=64 Illumina DNA methylation arrays from 30 tissues. For each of the following tissues, we obtained at least 2 replicates: adipose, adrenal gland, aorta, bone, bone-marrow, breast, buccal cells, cartilage, cerebellum, colon, diaphragm, esophagus , frontal cortex, kidney, heart, hippocampus, liver, lung, lymph node, midbrain,  muscle, occipital cortex, pancreas, pericardium skin, spleen, stomach, temporal cortex, thyroid, whole blood."
+
+"Human none marrow-derived mesenchymal stromal primary culture DNA methylation [hMSC_Female]"
+
+"Human none marrow-derived mesenchymal stromal primary culture DNA methylation [hMSC_Male]"
+
+"A total of 231 pediatric patients with B-ALL were utilized from the California Childhood Cancer Study. After informed consent, bone marrow specimens packed with leukemic blasts were obtained in each patient. Expression and methylation data of purified Pre-B cells in four developmental stages were retrieved from our previous study (Lee et al., Nucleic Acids Res 2012)."
+
+"Patient and donor samples were obtained either from blood or bone marrow. Lymphoprep extraction of leukocytes was performed following 30 min no brake centrifugation. Enrichment for CD34 and CD117 were checked via FACS analysis. For CD14 samples, enricment for CD14 was controlled by FACS analysis. Where available, purification was performed using MACS columns following anti-CD34 bead conjugation to samples (anti-CD14 for CD14 samles)."
+
+"Patient and donor samples were obtained either from blood or bone marrow. Lymphoprep extraction of leukocytes was performed following 30 min no brake centrifugation. Enrichment for CD34 and CD117 were checked via FACS analysis. For CD14 samples, enricment for CD14 was controlled by FACS analysis. Where available, purification was performed using MACS columns following anti-CD34 bead conjugation to samples (anti-CD14 for CD14 samles)."
+
+"Patient and donor samples were obtained either from blood or bone marrow. Lymphoprep extraction of leukocytes was performed following 30 min no brake centrifugation. Enrichment for CD34 and CD117 were checked via FACS analysis. For CD14 samples, enricment for CD14 was controlled by FACS analysis. Where available, purification was performed using MACS columns following anti-CD34 bead conjugation to samples (anti-CD14 for CD14 samles)."
+
+"Patient and donor samples were obtained either from blood or bone marrow. Lymphoprep extraction of leukocytes was performed following 30 min no brake centrifugation. Enrichment for CD34 and CD117 were checked via FACS analysis. For CD14 samples, enricment for CD14 was controlled by FACS analysis. Where available, purification was performed using MACS columns following anti-CD34 bead conjugation to samples (anti-CD14 for CD14 samles)."
+
+"Patient and donor samples were obtained either from blood or bone marrow. Lymphoprep extraction of leukocytes was performed following 30 min no brake centrifugation. Enrichment for CD34 and CD117 were checked via FACS analysis. For CD14 samples, enricment for CD14 was controlled by FACS analysis. Where available, purification was performed using MACS columns following anti-CD34 bead conjugation to samples (anti-CD14 for CD14 samles)."
+
+"Patient and donor samples were obtained either from blood or bone marrow. Lymphoprep extraction of leukocytes was performed following 30 min no brake centrifugation. Enrichment for CD34 and CD117 were checked via FACS analysis. For CD14 samples, enricment for CD14 was controlled by FACS analysis. Where available, purification was performed using MACS columns following anti-CD34 bead conjugation to samples (anti-CD14 for CD14 samles)."
+
+"Patient and donor samples were obtained either from blood or bone marrow. Lymphoprep extraction of leukocytes was performed following 30 min no brake centrifugation. Enrichment for CD34 and CD117 were checked via FACS analysis. For CD14 samples, enricment for CD14 was controlled by FACS analysis. Where available, purification was performed using MACS columns following anti-CD34 bead conjugation to samples (anti-CD14 for CD14 samles)."
+
+"Patient and donor samples were obtained either from blood or bone marrow. Lymphoprep extraction of leukocytes was performed following 30 min no brake centrifugation. Enrichment for CD34 and CD117 were checked via FACS analysis. For CD14 samples, enricment for CD14 was controlled by FACS analysis. Where available, purification was performed using MACS columns following anti-CD34 bead conjugation to samples (anti-CD14 for CD14 samles)."
+
+"Patient and donor samples were obtained either from blood or bone marrow. Lymphoprep extraction of leukocytes was performed following 30 min no brake centrifugation. Enrichment for CD34 and CD117 were checked via FACS analysis. For CD14 samples, enricment for CD14 was controlled by FACS analysis. Where available, purification was performed using MACS columns following anti-CD34 bead conjugation to samples (anti-CD14 for CD14 samles)."
+
+"During embryogenesis, body growth and repair the bone substance is formed by osteoblasts, which are derived from mesenchymal stem cells. Bone marrow-derived mesenchymal stroma cells (MSCs) have many of the properties of multipotent stem cells, and can be differentiated towards osteoblasts in vitro, making these cells a convenient tool for investigation of osteogenesis. We here describe the pattern of gene expression, histone modification and DNA binding of the bone master regulator RUNX2 during osteogenic differentiation of an immortalized human bone marrow-derived MSC cell line. By sequencing of immuno¬precipi¬tated chromatin we generated high resolution maps of enrichment of five histone H3 modifications associated with different functional states of chromatin, and identified differentiation-induced epigenetic changes. By the same approach, several thousand binding sites for the transcription factor RUNX2 was mapped to around 1900 target genes in differentiated osteoblasts. RUNX2 target genes were associated with cellular growth, movement, apoptosis and PDGF BB and p53 signaling. Surprisingly, RUNX2 was found to bind both at the 5’ and 3’ ends of genes, and also at distal regulatory elements, and was co-localized with activating histone modifications at approximately half of bound sites. This is to our knowledge the first genome-wide description of RUNX2 targets in bone biology. Further, we identified GTF2I and TEAD2 as regulators of differentiation by computational prediction of over-represented transcription factor motifs in regions with differential histone modification enrichment. The predictions were confirmed by siRNA knockdown of the transcription factors which lead to inhibition of differentiation."
+
+"Human fetal bone marrow was obtained, and using flow cytometry antibodies, four populations of B-cell developmental stages including stage 1 (S1; predominantly multipotent progenitors before lineage commitment and common lymphoid progenitors), stage II (S2; pre-B-I cells), stage 3 (S3; pre-B-II cells) and stage 4 cells (S4; immature B cells). For 8 indibiduals, DNAs and RNAs were isolated and the methylation and expression changes during early B-cell development were identified using the Illumina HumanMethylation450 Beadchip (Illumina) and GeneChip Human Gene 1.0 ST Array (Affymetrix)."
+
+"Primary hMSCs were obtained from the hip of a healthy donor after informed consent. Mononuclear cells from the bone marrow were isolated using standard density centrifugation and cultured in minimum essential medium (MEM) Alpha medium (cat. no. 22561) supplemented with 20% FBS (PAA Laboratories), GlutaMAX, penicillin (100U/mL), and streptomycin (100 mg/mL) (all from Life Technologies) at 37C and 5% CO2. Non-adherent cells were removed after approximately 24 h by replacement of the medium. Subsequently, the adherent cells were allowed to expand until 70% confluence (5–6 days) before they were harvested and further expanded. iMSC#3 were grown under the same condition as hMSCs, but the medium was supplemented with 10% FBS."
+
+"Primary hMSCs were obtained from the hip of a healthy donor after informed consent. Mononuclear cells from the bone marrow were isolated using standard density centrifugation and cultured in minimum essential medium (MEM) Alpha medium (cat. no. 22561) supplemented with 20% FBS (PAA Laboratories), GlutaMAX, penicillin (100U/mL), and streptomycin (100 mg/mL) (all from Life Technologies) at 37C and 5% CO2. Non-adherent cells were removed after approximately 24 h by replacement of the medium. Subsequently, the adherent cells were allowed to expand until 70% confluence (5–6 days) before they were harvested and further expanded. iMSC#3 were grown under the same condition as hMSCs, but the medium was supplemented with 10% FBS."
+
+"Primary hMSCs were obtained from the hip of a healthy donor after informed consent. Mononuclear cells from the bone marrow were isolated using standard density centrifugation and cultured in minimum essential medium (MEM) Alpha medium (cat. no. 22561) supplemented with 20% FBS (PAA Laboratories), GlutaMAX, penicillin (100U/mL), and streptomycin (100 mg/mL) (all from Life Technologies) at 37C and 5% CO2. Non-adherent cells were removed after approximately 24 h by replacement of the medium. Subsequently, the adherent cells were allowed to expand until 70% confluence (5–6 days) before they were harvested and further expanded. iMSC#3 were grown under the same condition as hMSCs, but the medium was supplemented with 10% FBS."
+
+"Primary hMSCs were obtained from the hip of a healthy donor after informed consent. Mononuclear cells from the bone marrow were isolated using standard density centrifugation and cultured in minimum essential medium (MEM) Alpha medium (cat. no. 22561) supplemented with 20% FBS (PAA Laboratories), GlutaMAX, penicillin (100U/mL), and streptomycin (100 mg/mL) (all from Life Technologies) at 37C and 5% CO2. Non-adherent cells were removed after approximately 24 h by replacement of the medium. Subsequently, the adherent cells were allowed to expand until 70% confluence (5–6 days) before they were harvested and further expanded. iMSC#3 were grown under the same condition as hMSCs, but the medium was supplemented with 10% FBS."
+
+"Human mesenchymal stromal cells (hMSCs) show great potential for clinical and experimental use. Self-renewal and multipotent differentiation capacity are key elements in the increasing interest of this cell type. However, a disadvantage of primary hMSCs is the limited in vitro lifespan, but this can be overcome by introduction of the catalytic subunit of human telomerase reverse transcriptase (TERT). In this paper, the generation and characterization of a TERT-immortalized, non-tumorigenic human bone marrow-derived stromal mesenchymal model cell line is described. The resulting cell line, iMSC#3, maintained capacity to differentiate into osteoblasts and adipocytes, and growth characteristics comparable to primary hMSCs into after long-term culturing (155 population doublings). A detailed characterization of the mRNA- and microRNA transcriptomes during adipocyte differentiation also showed that the iMSC#3 recapitulates this process at the molecular level. Furthermore, iMSC#3 showed no major differences from hMSCs regarding surface marker expression. The cell line had a normal karyotype, and high-resolution array comparative genomic hybridization confirmed that the cells in general had normal copy number. The gene expression profiles of immortalized and primary hMSCs were also similar, whereas the corresponding methylation profiles were more diverse. In conclusion, a human bone marrow-derived stromal cell line was developed, which can be used for basic studies of mesenchymal cells and to functionally study transgenes that might play a role in oncogenic transformation."
+
+"The main goal of the study was to measure the epigenetic age (also known as DNA methylation age) of human bone tissue and to relate it to chronological age. Toward this end, we used the epigenetic clock software described in Horvath S (2013) DNA methylation age of human tissues and cell types. Genome Biology.2013, 14:R115. DOI: 10.1186/10.1186/gb-2013-14-10-r115 PMID: 24138928"
+
+"MSCs were isolated from bone marrow (tibia plateau) after written consent using guidelines approved by the Ethic Committee of the Use of Human Subjects at the University of Aachen (permit number: EK128/09). MSCs from three donors were infected with pMXs based retroviruses (Addgene, Cambridge, MA, USA) carrying the OCT3/4, SOX2, KLF4, and c-MYC genes. Established iPSCs were maintained on MEFs in DMEM/F12 medium supplemented with Glutamax, 20% knockout serum replacer, 1% nonessential amino acids, 1x penicillin/streptomycin, 1x L-glutamine, 0.1 mM β-Mercaptoethanol, and 50 ng/ml basic fibroblast growth factor (Peprotech, Hamburg, Germany). To exclude contamination of feeder layer cells, iPSCs were adjusted to a feeder-free system on matrigel (BD Biosciences, San Jose, CA, USA) in mTeSR™1 medium (Stemcell Technologies, Vancouver, BC, Canada) for at least three passages. Cells were passaged every 5-6 days enzymatically with dispase (1 g/ml, Stemcell Technologies). For re-differentiation of iPSC towards iPS-MSCs medium was simply exchanged for MSC standard medium supplemented with 10% human platelet lysate (hPL) for 7 days, and cells were then further passaged in culture wells coated with 0.1% gelatin (Sigma-Aldrich, St. Louis, CA, USA)."
+
+"MSCs were isolated from bone marrow (tibia plateau) after written consent using guidelines approved by the Ethic Committee of the Use of Human Subjects at the University of Aachen (permit number: EK128/09). MSCs from three donors were infected with pMXs based retroviruses (Addgene, Cambridge, MA, USA) carrying the OCT3/4, SOX2, KLF4, and c-MYC genes. Established iPSCs were maintained on MEFs in DMEM/F12 medium supplemented with Glutamax, 20% knockout serum replacer, 1% nonessential amino acids, 1x penicillin/streptomycin, 1x L-glutamine, 0.1 mM β-Mercaptoethanol, and 50 ng/ml basic fibroblast growth factor (Peprotech, Hamburg, Germany). To exclude contamination of feeder layer cells, iPSCs were adjusted to a feeder-free system on matrigel (BD Biosciences, San Jose, CA, USA) in mTeSR™1 medium (Stemcell Technologies, Vancouver, BC, Canada) for at least three passages. Cells were passaged every 5-6 days enzymatically with dispase (1 g/ml, Stemcell Technologies). For re-differentiation of iPSC towards iPS-MSCs medium was simply exchanged for MSC standard medium supplemented with 10% human platelet lysate (hPL) for 7 days, and cells were then further passaged in culture wells coated with 0.1% gelatin (Sigma-Aldrich, St. Louis, CA, USA)."
+
+"The origin of aberrant DNA methylation in cancer remains largely unknown. In this study, we elucidated the DNA methylome in primary Acute Promyelocytic Leukemia (APL) and the role of PML-RARa in establishing these patterns. APL patients showed increased genome-wide DNA methylation with higher variability than healthy CD34+ cells, promyelocytes and remission bone marrow. A core set of differentially methylated regions in APL was identified.  Age at diagnosis, Sanz score and Flt3-mutation status characterized methylation subtypes. Transcription factor binding sites, e.g. c-myc binding sites were associated with low methylation. SUZ12 and REST binding sites identified in embryonic stem cells were, however, preferentially DNA hypermethylated in APL. Unexpectedly, PML-RARa binding sites were also protected from aberrant DNA methylation in APL.  In line, myeloid cells from pre-leukemic PML-RARa knock-in mice did not show altered DNA methylation and expression of PML-RARa in hematopoietic progenitor cells prevented differentiation without affecting DNA methylation. ATRA treatment of APL blasts did also not result in DNA methylation changes. These results suggest that aberrant DNA methylation is associated with leukemia phenotype but not required for PML-RARa-mediated initiation of leukemogenesis."
+
+"MSCs were isolated from bone marrow (tibia plateau) after written consent using guidelines approved by the Ethic Committee of the Use of Human Subjects at the University of Aachen (permit number: EK128/09). MSCs from three donors were infected with pMXs based retroviruses (Addgene, Cambridge, MA, USA) carrying the OCT3/4, SOX2, KLF4, and c-MYC genes. Established iPSCs were maintained on MEFs in DMEM/F12 medium supplemented with Glutamax, 20% knockout serum replacer, 1% nonessential amino acids, 1x penicillin/streptomycin, 1x L-glutamine, 0.1 mM β-Mercaptoethanol, and 50 ng/ml basic fibroblast growth factor (Peprotech, Hamburg, Germany). To exclude contamination of feeder layer cells, iPSCs were adjusted to a feeder-free system on matrigel (BD Biosciences, San Jose, CA, USA) in mTeSR™1 medium (Stemcell Technologies, Vancouver, BC, Canada) for at least three passages. Cells were passaged every 5-6 days enzymatically with dispase (1 g/ml, Stemcell Technologies). For re-differentiation of iPSC towards iPS-MSCs medium was simply exchanged for MSC standard medium supplemented with 10% human platelet lysate (hPL) for 7 days, and cells were then further passaged in culture wells coated with 0.1% gelatin (Sigma-Aldrich, St. Louis, CA, USA)."
+
+"MSCs were isolated from bone marrow (tibia plateau) after written consent using guidelines approved by the Ethic Committee of the Use of Human Subjects at the University of Aachen (permit number: EK128/09). MSCs from three donors were infected with pMXs based retroviruses (Addgene, Cambridge, MA, USA) carrying the OCT3/4, SOX2, KLF4, and c-MYC genes. Established iPSCs were maintained on MEFs in DMEM/F12 medium supplemented with Glutamax, 20% knockout serum replacer, 1% nonessential amino acids, 1x penicillin/streptomycin, 1x L-glutamine, 0.1 mM β-Mercaptoethanol, and 50 ng/ml basic fibroblast growth factor (Peprotech, Hamburg, Germany). To exclude contamination of feeder layer cells, iPSCs were adjusted to a feeder-free system on matrigel (BD Biosciences, San Jose, CA, USA) in mTeSR™1 medium (Stemcell Technologies, Vancouver, BC, Canada) for at least three passages. Cells were passaged every 5-6 days enzymatically with dispase (1 g/ml, Stemcell Technologies). For re-differentiation of iPSC towards iPS-MSCs medium was simply exchanged for MSC standard medium supplemented with 10% human platelet lysate (hPL) for 7 days, and cells were then further passaged in culture wells coated with 0.1% gelatin (Sigma-Aldrich, St. Louis, CA, USA)."
+
+"MSCs were isolated from bone marrow (tibia plateau) after written consent using guidelines approved by the Ethic Committee of the Use of Human Subjects at the University of Aachen (permit number: EK128/09). MSCs from three donors were infected with pMXs based retroviruses (Addgene, Cambridge, MA, USA) carrying the OCT3/4, SOX2, KLF4, and c-MYC genes. Established iPSCs were maintained on MEFs in DMEM/F12 medium supplemented with Glutamax, 20% knockout serum replacer, 1% nonessential amino acids, 1x penicillin/streptomycin, 1x L-glutamine, 0.1 mM β-Mercaptoethanol, and 50 ng/ml basic fibroblast growth factor (Peprotech, Hamburg, Germany). To exclude contamination of feeder layer cells, iPSCs were adjusted to a feeder-free system on matrigel (BD Biosciences, San Jose, CA, USA) in mTeSR™1 medium (Stemcell Technologies, Vancouver, BC, Canada) for at least three passages. Cells were passaged every 5-6 days enzymatically with dispase (1 g/ml, Stemcell Technologies). For re-differentiation of iPSC towards iPS-MSCs medium was simply exchanged for MSC standard medium supplemented with 10% human platelet lysate (hPL) for 7 days, and cells were then further passaged in culture wells coated with 0.1% gelatin (Sigma-Aldrich, St. Louis, CA, USA)."
+
+"MSCs were isolated from bone marrow (tibia plateau) after written consent using guidelines approved by the Ethic Committee of the Use of Human Subjects at the University of Aachen (permit number: EK128/09). MSCs from three donors were infected with pMXs based retroviruses (Addgene, Cambridge, MA, USA) carrying the OCT3/4, SOX2, KLF4, and c-MYC genes. Established iPSCs were maintained on MEFs in DMEM/F12 medium supplemented with Glutamax, 20% knockout serum replacer, 1% nonessential amino acids, 1x penicillin/streptomycin, 1x L-glutamine, 0.1 mM β-Mercaptoethanol, and 50 ng/ml basic fibroblast growth factor (Peprotech, Hamburg, Germany). To exclude contamination of feeder layer cells, iPSCs were adjusted to a feeder-free system on matrigel (BD Biosciences, San Jose, CA, USA) in mTeSR™1 medium (Stemcell Technologies, Vancouver, BC, Canada) for at least three passages. Cells were passaged every 5-6 days enzymatically with dispase (1 g/ml, Stemcell Technologies). For re-differentiation of iPSC towards iPS-MSCs medium was simply exchanged for MSC standard medium supplemented with 10% human platelet lysate (hPL) for 7 days, and cells were then further passaged in culture wells coated with 0.1% gelatin (Sigma-Aldrich, St. Louis, CA, USA)."
+
+"MSCs were isolated from bone marrow (tibia plateau) after written consent using guidelines approved by the Ethic Committee of the Use of Human Subjects at the University of Aachen (permit number: EK128/09). MSCs from three donors were infected with pMXs based retroviruses (Addgene, Cambridge, MA, USA) carrying the OCT3/4, SOX2, KLF4, and c-MYC genes. Established iPSCs were maintained on MEFs in DMEM/F12 medium supplemented with Glutamax, 20% knockout serum replacer, 1% nonessential amino acids, 1x penicillin/streptomycin, 1x L-glutamine, 0.1 mM β-Mercaptoethanol, and 50 ng/ml basic fibroblast growth factor (Peprotech, Hamburg, Germany). To exclude contamination of feeder layer cells, iPSCs were adjusted to a feeder-free system on matrigel (BD Biosciences, San Jose, CA, USA) in mTeSR™1 medium (Stemcell Technologies, Vancouver, BC, Canada) for at least three passages. Cells were passaged every 5-6 days enzymatically with dispase (1 g/ml, Stemcell Technologies). For re-differentiation of iPSC towards iPS-MSCs medium was simply exchanged for MSC standard medium supplemented with 10% human platelet lysate (hPL) for 7 days, and cells were then further passaged in culture wells coated with 0.1% gelatin (Sigma-Aldrich, St. Louis, CA, USA)."
+
+"MSCs were isolated from bone marrow (tibia plateau) after written consent using guidelines approved by the Ethic Committee of the Use of Human Subjects at the University of Aachen (permit number: EK128/09). MSCs from three donors were infected with pMXs based retroviruses (Addgene, Cambridge, MA, USA) carrying the OCT3/4, SOX2, KLF4, and c-MYC genes. Established iPSCs were maintained on MEFs in DMEM/F12 medium supplemented with Glutamax, 20% knockout serum replacer, 1% nonessential amino acids, 1x penicillin/streptomycin, 1x L-glutamine, 0.1 mM β-Mercaptoethanol, and 50 ng/ml basic fibroblast growth factor (Peprotech, Hamburg, Germany). To exclude contamination of feeder layer cells, iPSCs were adjusted to a feeder-free system on matrigel (BD Biosciences, San Jose, CA, USA) in mTeSR™1 medium (Stemcell Technologies, Vancouver, BC, Canada) for at least three passages. Cells were passaged every 5-6 days enzymatically with dispase (1 g/ml, Stemcell Technologies). For re-differentiation of iPSC towards iPS-MSCs medium was simply exchanged for MSC standard medium supplemented with 10% human platelet lysate (hPL) for 7 days, and cells were then further passaged in culture wells coated with 0.1% gelatin (Sigma-Aldrich, St. Louis, CA, USA)."
+
+"MSCs were isolated from bone marrow (tibia plateau) after written consent using guidelines approved by the Ethic Committee of the Use of Human Subjects at the University of Aachen (permit number: EK128/09). MSCs from three donors were infected with pMXs based retroviruses (Addgene, Cambridge, MA, USA) carrying the OCT3/4, SOX2, KLF4, and c-MYC genes. Established iPSCs were maintained on MEFs in DMEM/F12 medium supplemented with Glutamax, 20% knockout serum replacer, 1% nonessential amino acids, 1x penicillin/streptomycin, 1x L-glutamine, 0.1 mM β-Mercaptoethanol, and 50 ng/ml basic fibroblast growth factor (Peprotech, Hamburg, Germany). To exclude contamination of feeder layer cells, iPSCs were adjusted to a feeder-free system on matrigel (BD Biosciences, San Jose, CA, USA) in mTeSR™1 medium (Stemcell Technologies, Vancouver, BC, Canada) for at least three passages. Cells were passaged every 5-6 days enzymatically with dispase (1 g/ml, Stemcell Technologies). For re-differentiation of iPSC towards iPS-MSCs medium was simply exchanged for MSC standard medium supplemented with 10% human platelet lysate (hPL) for 7 days, and cells were then further passaged in culture wells coated with 0.1% gelatin (Sigma-Aldrich, St. Louis, CA, USA)."
+
+"MSCs were isolated from bone marrow (tibia plateau) after written consent using guidelines approved by the Ethic Committee of the Use of Human Subjects at the University of Aachen (permit number: EK128/09). MSCs from three donors were infected with pMXs based retroviruses (Addgene, Cambridge, MA, USA) carrying the OCT3/4, SOX2, KLF4, and c-MYC genes. Established iPSCs were maintained on MEFs in DMEM/F12 medium supplemented with Glutamax, 20% knockout serum replacer, 1% nonessential amino acids, 1x penicillin/streptomycin, 1x L-glutamine, 0.1 mM β-Mercaptoethanol, and 50 ng/ml basic fibroblast growth factor (Peprotech, Hamburg, Germany). To exclude contamination of feeder layer cells, iPSCs were adjusted to a feeder-free system on matrigel (BD Biosciences, San Jose, CA, USA) in mTeSR™1 medium (Stemcell Technologies, Vancouver, BC, Canada) for at least three passages. Cells were passaged every 5-6 days enzymatically with dispase (1 g/ml, Stemcell Technologies). For re-differentiation of iPSC towards iPS-MSCs medium was simply exchanged for MSC standard medium supplemented with 10% human platelet lysate (hPL) for 7 days, and cells were then further passaged in culture wells coated with 0.1% gelatin (Sigma-Aldrich, St. Louis, CA, USA)."
+
+"MSCs were isolated from bone marrow (tibia plateau) after written consent using guidelines approved by the Ethic Committee of the Use of Human Subjects at the University of Aachen (permit number: EK128/09). MSCs from three donors were infected with pMXs based retroviruses (Addgene, Cambridge, MA, USA) carrying the OCT3/4, SOX2, KLF4, and c-MYC genes. Established iPSCs were maintained on MEFs in DMEM/F12 medium supplemented with Glutamax, 20% knockout serum replacer, 1% nonessential amino acids, 1x penicillin/streptomycin, 1x L-glutamine, 0.1 mM β-Mercaptoethanol, and 50 ng/ml basic fibroblast growth factor (Peprotech, Hamburg, Germany). To exclude contamination of feeder layer cells, iPSCs were adjusted to a feeder-free system on matrigel (BD Biosciences, San Jose, CA, USA) in mTeSR™1 medium (Stemcell Technologies, Vancouver, BC, Canada) for at least three passages. Cells were passaged every 5-6 days enzymatically with dispase (1 g/ml, Stemcell Technologies). For re-differentiation of iPSC towards iPS-MSCs medium was simply exchanged for MSC standard medium supplemented with 10% human platelet lysate (hPL) for 7 days, and cells were then further passaged in culture wells coated with 0.1% gelatin (Sigma-Aldrich, St. Louis, CA, USA)."
+
+"MSCs were isolated from bone marrow (tibia plateau) after written consent using guidelines approved by the Ethic Committee of the Use of Human Subjects at the University of Aachen (permit number: EK128/09). MSCs from three donors were infected with pMXs based retroviruses (Addgene, Cambridge, MA, USA) carrying the OCT3/4, SOX2, KLF4, and c-MYC genes. Established iPSCs were maintained on MEFs in DMEM/F12 medium supplemented with Glutamax, 20% knockout serum replacer, 1% nonessential amino acids, 1x penicillin/streptomycin, 1x L-glutamine, 0.1 mM β-Mercaptoethanol, and 50 ng/ml basic fibroblast growth factor (Peprotech, Hamburg, Germany). To exclude contamination of feeder layer cells, iPSCs were adjusted to a feeder-free system on matrigel (BD Biosciences, San Jose, CA, USA) in mTeSR™1 medium (Stemcell Technologies, Vancouver, BC, Canada) for at least three passages. Cells were passaged every 5-6 days enzymatically with dispase (1 g/ml, Stemcell Technologies). For re-differentiation of iPSC towards iPS-MSCs medium was simply exchanged for MSC standard medium supplemented with 10% human platelet lysate (hPL) for 7 days, and cells were then further passaged in culture wells coated with 0.1% gelatin (Sigma-Aldrich, St. Louis, CA, USA)."
+
+"Standardization of mesenchymal stromal cells (MSCs) remains a major obstacle in regenerative medicine. Starting material and culture expansion affect cell preparations and render comparison between studies difficult. In contrast, induced pluripotent stem cells (iPSCs) assimilate towards a ground-state and may therefore give rise to more standardized cell preparations. We reprogrammed bone marrow MSCs into iPSCs which were subsequently re-differentiated towards MSCs. These iPS-MSCs revealed similar morphology, immunophenotype, in vitro differentiation potential, and gene expression profiles as primary MSCs. DNA methylation (DNAm) profiles of iPSCs maintained some donor-specific characteristics, whereas tissue-specific, senescence-associated, and age-related DNAm patterns were erased during reprogramming. iPS-MSCs reacquired senescence-associated DNAm during culture expansion but they remained rejuvenated with regard to age-related DNAm. Overall, iPS-MSCs and MSCs are similar in function but differ in their epigenetic makeup."
+
+"""Epigenetic and in vivo comparison of diverse mesenchymal stromal cell sources reveals an endochonrdal signature for human hematopoietic niche formation """
+"""Public on Apr 30 2014"""
+"""Despite similarities in morphology, phenotype and in vitro behavior, Mesenchymal Stromal Cells (MSC) form various tissue sources show striking differences in their in vivo potential to form bone, cartilage and hematopoietic support tissue.  Comparing four commonly use MSC sources (bone marrow (BM), white adipose tissue (WAT), umbilical cord (UC) and skin) we found only bone marrow (BM)-derived MSCs capable of endochondral ossification and marrow attraction. To gain mechanistic insights explaining this differences we analyzed gene expression characteristics of MSC from all four tissue sources using  Affymetrix Genechip Human Gene 2.0 ST Array."""
+"""MSCs from BM, WAT, UC and skin were isolated using plastic adherence. Cells were expanded in standard alpha-MEM supplemented with pooled human platelet lysate fully replacing fetal bovine serum. MSCs were subcutaneously implanted into immune-compromised mice to comparatively evaluate bone formation and subsequent bone marrow attraction. In parallel we have isolated RNA from all sources to analyze tissue source specific gene expression profile."""
+"""Expression profiling by array"""
+"""GSM1376241 GSM1376242 GSM1376243 GSM1376244 GSM1376245 GSM1376246 GSM1376247 GSM1376248 GSM1376249 GSM1376250 GSM1376251 """
+"""Institute for Stem Cell Biology and Regenerative Medicine"""
+"""RNA from BM MSC donor 1"""
+"""RNA from BM MSC donor 2"""
+"""RNA from BM MSC donor 3"""
+"""RNA from WAT MSC donor 1"""
+"""RNA from WAT MSC donor 2"""
+"""RNA from WAT MSC donor 3"""
+"""RNA from UC MSC donor 1"""
+"""RNA from UC MSC donor 2"""
+"""RNA from UC MSC donor 3"""
+"""RNA from skin MSC donor 1"""
+"""RNA from skin MSC donor 2"""
+"""Public on Apr 30 2014"""
+"""Public on Apr 30 2014"""
+"""Public on Apr 30 2014"""
+"""Public on Apr 30 2014"""
+"""Public on Apr 30 2014"""
+"""Public on Apr 30 2014"""
+"""Public on Apr 30 2014"""
+"""Public on Apr 30 2014"""
+"""Public on Apr 30 2014"""
+"""Public on Apr 30 2014"""
+"""Public on Apr 30 2014"""
+"""donor id: donor 1"""
+"""donor id: donor 2"""
+"""donor id: donor 3"""
+"""donor id: donor 1"""
+"""donor id: donor 2"""
+"""donor id: donor 3"""
+"""donor id: donor 1"""
+"""donor id: donor 2"""
+"""donor id: donor 3"""
+"""donor id: donor 1"""
+"""donor id: donor 2"""
+"""tisse source for mscs: bone marrow (BM)"""
+"""tisse source for mscs: bone marrow (BM)"""
+"""tisse source for mscs: bone marrow (BM)"""
+"""tisse source for mscs: white adipose tissue (WAT)"""
+"""tisse source for mscs: white adipose tissue (WAT)"""
+"""tisse source for mscs: white adipose tissue (WAT)"""
+"""tisse source for mscs: umbilical cord (UC)"""
+"""tisse source for mscs: umbilical cord (UC)"""
+"""tisse source for mscs: umbilical cord (UC)"""
+"""tisse source for mscs: skin"""
+"""tisse source for mscs: skin"""
+"""cell type: Mesenchymal Stromal Cells (MSC)"""
+"""cell type: Mesenchymal Stromal Cells (MSC)"""
+"""cell type: Mesenchymal Stromal Cells (MSC)"""
+"""cell type: Mesenchymal Stromal Cells (MSC)"""
+"""cell type: Mesenchymal Stromal Cells (MSC)"""
+"""cell type: Mesenchymal Stromal Cells (MSC)"""
+"""cell type: Mesenchymal Stromal Cells (MSC)"""
+"""cell type: Mesenchymal Stromal Cells (MSC)"""
+"""cell type: Mesenchymal Stromal Cells (MSC)"""
+"""cell type: Mesenchymal Stromal Cells (MSC)"""
+"""cell type: Mesenchymal Stromal Cells (MSC)"""
+"""sample isolation method: plastic adherence"""
+"""sample isolation method: plastic adherence"""
+"""sample isolation method: plastic adherence"""
+"""sample isolation method: plastic adherence"""
+"""sample isolation method: plastic adherence"""
+"""sample isolation method: plastic adherence"""
+"""sample isolation method: plastic adherence"""
+"""sample isolation method: plastic adherence"""
+"""sample isolation method: plastic adherence"""
+"""sample isolation method: plastic adherence"""
+"""sample isolation method: plastic adherence"""
+"""RNA was isolated from 5x10E6 cells using the Qiagen RNeasy PlusMini Kit."""
+"""RNA was isolated from 5x10E6 cells using the Qiagen RNeasy PlusMini Kit."""
+"""RNA was isolated from 5x10E6 cells using the Qiagen RNeasy PlusMini Kit."""
+"""RNA was isolated from 5x10E6 cells using the Qiagen RNeasy PlusMini Kit."""
+"""RNA was isolated from 5x10E6 cells using the Qiagen RNeasy PlusMini Kit."""
+"""RNA was isolated from 5x10E6 cells using the Qiagen RNeasy PlusMini Kit."""
+"""RNA was isolated from 5x10E6 cells using the Qiagen RNeasy PlusMini Kit."""
+"""RNA was isolated from 5x10E6 cells using the Qiagen RNeasy PlusMini Kit."""
+"""RNA was isolated from 5x10E6 cells using the Qiagen RNeasy PlusMini Kit."""
+"""RNA was isolated from 5x10E6 cells using the Qiagen RNeasy PlusMini Kit."""
+"""RNA was isolated from 5x10E6 cells using the Qiagen RNeasy PlusMini Kit."""
+"""Bioting-labeling using standard Afymetrix WT Terminal Labeling Kit"""
+"""Bioting-labeling using standard Afymetrix WT Terminal Labeling Kit"""
+"""Bioting-labeling using standard Afymetrix WT Terminal Labeling Kit"""
+"""Bioting-labeling using standard Afymetrix WT Terminal Labeling Kit"""
+"""Bioting-labeling using standard Afymetrix WT Terminal Labeling Kit"""
+"""Bioting-labeling using standard Afymetrix WT Terminal Labeling Kit"""
+"""Bioting-labeling using standard Afymetrix WT Terminal Labeling Kit"""
+"""Bioting-labeling using standard Afymetrix WT Terminal Labeling Kit"""
+"""Bioting-labeling using standard Afymetrix WT Terminal Labeling Kit"""
+"""Bioting-labeling using standard Afymetrix WT Terminal Labeling Kit"""
+"""Bioting-labeling using standard Afymetrix WT Terminal Labeling Kit"""
+"""Fragmented and labeled targets were hybridized overnight at 45C, 60rpm in an Affymetrix GeneChip Hybridization Oven 645."""
+"""Fragmented and labeled targets were hybridized overnight at 45C, 60rpm in an Affymetrix GeneChip Hybridization Oven 645."""
+"""Fragmented and labeled targets were hybridized overnight at 45C, 60rpm in an Affymetrix GeneChip Hybridization Oven 645."""
+"""Fragmented and labeled targets were hybridized overnight at 45C, 60rpm in an Affymetrix GeneChip Hybridization Oven 645."""
+"""Fragmented and labeled targets were hybridized overnight at 45C, 60rpm in an Affymetrix GeneChip Hybridization Oven 645."""
+"""Fragmented and labeled targets were hybridized overnight at 45C, 60rpm in an Affymetrix GeneChip Hybridization Oven 645."""
+"""Fragmented and labeled targets were hybridized overnight at 45C, 60rpm in an Affymetrix GeneChip Hybridization Oven 645."""
+"""Fragmented and labeled targets were hybridized overnight at 45C, 60rpm in an Affymetrix GeneChip Hybridization Oven 645."""
+"""Fragmented and labeled targets were hybridized overnight at 45C, 60rpm in an Affymetrix GeneChip Hybridization Oven 645."""
+"""Fragmented and labeled targets were hybridized overnight at 45C, 60rpm in an Affymetrix GeneChip Hybridization Oven 645."""
+"""Fragmented and labeled targets were hybridized overnight at 45C, 60rpm in an Affymetrix GeneChip Hybridization Oven 645."""
+"""Genechips weres scanned using the Affymetrix GeneChip Scanner 3000 7G"""
+"""Genechips weres scanned using the Affymetrix GeneChip Scanner 3000 7G"""
+"""Genechips weres scanned using the Affymetrix GeneChip Scanner 3000 7G"""
+"""Genechips weres scanned using the Affymetrix GeneChip Scanner 3000 7G"""
+"""Genechips weres scanned using the Affymetrix GeneChip Scanner 3000 7G"""
+"""Genechips weres scanned using the Affymetrix GeneChip Scanner 3000 7G"""
+"""Genechips weres scanned using the Affymetrix GeneChip Scanner 3000 7G"""
+"""Genechips weres scanned using the Affymetrix GeneChip Scanner 3000 7G"""
+"""Genechips weres scanned using the Affymetrix GeneChip Scanner 3000 7G"""
+"""Genechips weres scanned using the Affymetrix GeneChip Scanner 3000 7G"""
+"""Genechips weres scanned using the Affymetrix GeneChip Scanner 3000 7G"""
+"""Arrays were normalized in R using oligolibrary. The script  (R) used  to generate the matrix is provided (data_processing_script.txt)."""
+"""Arrays were normalized in R using oligolibrary. The script  (R) used  to generate the matrix is provided (data_processing_script.txt)."""
+"""Arrays were normalized in R using oligolibrary. The script  (R) used  to generate the matrix is provided (data_processing_script.txt)."""
+"""Arrays were normalized in R using oligolibrary. The script  (R) used  to generate the matrix is provided (data_processing_script.txt)."""
+"""Arrays were normalized in R using oligolibrary. The script  (R) used  to generate the matrix is provided (data_processing_script.txt)."""
+"""Arrays were normalized in R using oligolibrary. The script  (R) used  to generate the matrix is provided (data_processing_script.txt)."""
+"""Arrays were normalized in R using oligolibrary. The script  (R) used  to generate the matrix is provided (data_processing_script.txt)."""
+"""Arrays were normalized in R using oligolibrary. The script  (R) used  to generate the matrix is provided (data_processing_script.txt)."""
+"""Arrays were normalized in R using oligolibrary. The script  (R) used  to generate the matrix is provided (data_processing_script.txt)."""
+"""Arrays were normalized in R using oligolibrary. The script  (R) used  to generate the matrix is provided (data_processing_script.txt)."""
+"""Arrays were normalized in R using oligolibrary. The script  (R) used  to generate the matrix is provided (data_processing_script.txt)."""
+"""Institute for Stem Cell Biology and Regenerative Medicine"""
+"""Institute for Stem Cell Biology and Regenerative Medicine"""
+"""Institute for Stem Cell Biology and Regenerative Medicine"""
+"""Institute for Stem Cell Biology and Regenerative Medicine"""
+"""Institute for Stem Cell Biology and Regenerative Medicine"""
+"""Institute for Stem Cell Biology and Regenerative Medicine"""
+"""Institute for Stem Cell Biology and Regenerative Medicine"""
+"""Institute for Stem Cell Biology and Regenerative Medicine"""
+"""Institute for Stem Cell Biology and Regenerative Medicine"""
+"""Institute for Stem Cell Biology and Regenerative Medicine"""
+"""Institute for Stem Cell Biology and Regenerative Medicine"""
+
+
+"Reprogramming of somatic cells into induced pluripotent stem cells (iPSC) is an epigenetic phenomenon. It has been suggested that iPSC retain some tissue-specific memory whereas little is known about inter-individual epigenetic variation of iPSC clones. In this study we have reprogrammed mesenchymal stromal cells (MSC) from human bone marrow by retrovirus-mediated overexpression of OCT-3/4, SOX2, c-MYC, and KLF4. Global DNA-methylation profiles of the initial MSC, MSC-derived iPSC (iP-MSC) and embryonic stem cells (ESC) were then compared using a high density DNA-methylation array covering more than 450,000 CpG sites. Overall, DNA-methylation patterns of iP-MSC and ESC were similar whereas some CpG sites revealed highly significant differences, which were not related to parental MSC. Furthermore, hypermethylation in iP-MSC versus ESC was particularly enriched in developmental genes as well as shore regions next to CpG islands indicating that these differences are not due to tissue-specific memory or random de novo methylation. Subsequently, we searched for CpG sites with donor-specific variation in MSC preparations. These “epigenetic fingerprints” were highly enriched in non-promoter regions and outside of CpG islands – and they were maintained upon reprogramming into iP-MSC. In conclusion, DNA methylation profiles of iP-MSC clones from the same donor were closely related despite heterogeneity of MSC. On the other hand, iP-MSC maintain donor-derived epigenetic differences. In the absence of isogenic controls for disease modeling applications, it would therefore be more appropriate to compare iPSC from different donors rather than a high number of different clones from the same patient."
+
+"""Induced Pluripotent Mesenchymal Stromal Cell Clones Retain Donor-Derived Differences in DNA Methylation Profiles"""
+"""Public on Jan 09 2013"""
+"""Reprogramming of somatic cells into induced pluripotent stem cells (iPSC) is an epigenetic phenomenon. It has been suggested that iPSC retain some tissue-specific memory whereas little is known about inter-individual epigenetic variation of iPSC clones. In this study we have reprogrammed mesenchymal stromal cells (MSC) from human bone marrow by retrovirus-mediated overexpression of OCT-3/4, SOX2, c-MYC, and KLF4. Global DNA-methylation profiles of the initial MSC, MSC-derived iPSC (iP-MSC) and embryonic stem cells (ESC) were then compared using a high density DNA-methylation array covering more than 450,000 CpG sites. Overall, DNA-methylation patterns of iP-MSC and ESC were similar whereas some CpG sites revealed highly significant differences, which were not related to parental MSC. Furthermore, hypermethylation in iP-MSC versus ESC was particularly enriched in developmental genes as well as shore regions next to CpG islands indicating that these differences are not due to tissue-specific memory or random de novo methylation. Subsequently, we searched for CpG sites with donor-specific variation in MSC preparations. These “epigenetic fingerprints” were highly enriched in non-promoter regions and outside of CpG islands – and they were maintained upon reprogramming into iP-MSC. In conclusion, DNA methylation profiles of iP-MSC clones from the same donor were closely related despite heterogeneity of MSC. On the other hand, iP-MSC maintain donor-derived epigenetic differences. In the absence of isogenic controls for disease modeling applications, it would therefore be more appropriate to compare iPSC from different donors rather than a high number of different clones from the same patient."""
+"""16 samples were hybridised to the Illumina Infinium 450k Human Methylation Beadchip"""
+"""Methylation profiling by genome tiling array"""
+"""GSM853409 GSM853410 GSM853411 GSM853412 GSM853413 GSM853414 GSM853415 GSM853416 GSM853417 GSM853418 GSM853419 GSM853420 GSM853421 GSM853422 GSM979892 GSM979893 """
+"""Stem Cell Biology and Cellular Engineering"""
+"""Helmholtz Institute for Biomedical Engineering"""
+"""Public on Sep 24 2012"""
+"""Public on Sep 24 2012"""
+"""Public on Sep 24 2012"""
+"""Public on Sep 24 2012"""
+"""Public on Sep 24 2012"""
+"""Public on Sep 24 2012"""
+"""Public on Sep 24 2012"""
+"""Public on Sep 24 2012"""
+"""Public on Sep 24 2012"""
+"""Public on Sep 24 2012"""
+"""Public on Sep 24 2012"""
+"""Public on Sep 24 2012"""
+"""Public on Sep 24 2012"""
+"""Public on Sep 24 2012"""
+"""Public on Jan 09 2013"""
+"""Public on Jan 09 2013"""
+"""mesenchymal stromal cells (MSC)"""
+"""mesenchymal stromal cells (MSC)"""
+"""mesenchymal stromal cells (MSC)"""
+"""mesenchymal stromal cells (MSC)"""
+"""mesenchymal stromal cells (MSC)"""
+"""bone marrow-derived MSC (iP-MSC)"""
+"""bone marrow-derived MSC (iP-MSC)"""
+"""bone marrow-derived MSC (iP-MSC)"""
+"""bone marrow-derived MSC (iP-MSC)"""
+"""bone marrow-derived MSC (iP-MSC)"""
+"""bone marrow-derived MSC (iP-MSC)"""
+"""embryonic stem cells (ESC)"""
+"""embryonic stem cells (ESC)"""
+"""embryonic stem cells (ESC)"""
+"""bone marrow-derived MSC (iP-MSC)"""
+"""bone marrow-derived MSC (iP-MSC)"""
+"""MSC were isolated from tibia plateau of patients undergoing orthopaedic surgery. All samples were taken after written consent using guidelines approved by the Ethic Committee on the Use of Human Subjects at the University of Aachen (Permit number: EK128/09). MSC were culture-expanded in standard medium consisting of DMEM (PAA; 1g/L glucose) supplemented with glutamine (PAA), penicillin/streptomycin (PAA) and 10% human platelet lysate (hPL)."""
+"""MSC were isolated from tibia plateau of patients undergoing orthopaedic surgery. All samples were taken after written consent using guidelines approved by the Ethic Committee on the Use of Human Subjects at the University of Aachen (Permit number: EK128/09). MSC were culture-expanded in standard medium consisting of DMEM (PAA; 1g/L glucose) supplemented with glutamine (PAA), penicillin/streptomycin (PAA) and 10% human platelet lysate (hPL)."""
+"""MSC were isolated from tibia plateau of patients undergoing orthopaedic surgery. All samples were taken after written consent using guidelines approved by the Ethic Committee on the Use of Human Subjects at the University of Aachen (Permit number: EK128/09). MSC were culture-expanded in standard medium consisting of DMEM (PAA; 1g/L glucose) supplemented with glutamine (PAA), penicillin/streptomycin (PAA) and 10% human platelet lysate (hPL)."""
+"""MSC were isolated from tibia plateau of patients undergoing orthopaedic surgery. All samples were taken after written consent using guidelines approved by the Ethic Committee on the Use of Human Subjects at the University of Aachen (Permit number: EK128/09). MSC were culture-expanded in standard medium consisting of DMEM (PAA; 1g/L glucose) supplemented with glutamine (PAA), penicillin/streptomycin (PAA) and 10% human platelet lysate (hPL)."""
+"""MSC were isolated from tibia plateau of patients undergoing orthopaedic surgery. All samples were taken after written consent using guidelines approved by the Ethic Committee on the Use of Human Subjects at the University of Aachen (Permit number: EK128/09). MSC were culture-expanded in standard medium consisting of DMEM (PAA; 1g/L glucose) supplemented with glutamine (PAA), penicillin/streptomycin (PAA) and 10% human platelet lysate (hPL)."""
+"""MSC were isolated from tibia plateau of patients undergoing orthopaedic surgery. All samples were taken after written consent using guidelines approved by the Ethic Committee on the Use of Human Subjects at the University of Aachen (Permit number: EK128/09). MSC were culture-expanded in standard medium consisting of DMEM (PAA; 1g/L glucose) supplemented with glutamine (PAA), penicillin/streptomycin (PAA) and 10% human platelet lysate (hPL)."""
+"""MSC were isolated from tibia plateau of patients undergoing orthopaedic surgery. All samples were taken after written consent using guidelines approved by the Ethic Committee on the Use of Human Subjects at the University of Aachen (Permit number: EK128/09). MSC were culture-expanded in standard medium consisting of DMEM (PAA; 1g/L glucose) supplemented with glutamine (PAA), penicillin/streptomycin (PAA) and 10% human platelet lysate (hPL)."""
+"""MSC were isolated from tibia plateau of patients undergoing orthopaedic surgery. All samples were taken after written consent using guidelines approved by the Ethic Committee on the Use of Human Subjects at the University of Aachen (Permit number: EK128/09). MSC were culture-expanded in standard medium consisting of DMEM (PAA; 1g/L glucose) supplemented with glutamine (PAA), penicillin/streptomycin (PAA) and 10% human platelet lysate (hPL)."""
+"""MSC were isolated from tibia plateau of patients undergoing orthopaedic surgery. All samples were taken after written consent using guidelines approved by the Ethic Committee on the Use of Human Subjects at the University of Aachen (Permit number: EK128/09). MSC were culture-expanded in standard medium consisting of DMEM (PAA; 1g/L glucose) supplemented with glutamine (PAA), penicillin/streptomycin (PAA) and 10% human platelet lysate (hPL)."""
+"""MSC were isolated from tibia plateau of patients undergoing orthopaedic surgery. All samples were taken after written consent using guidelines approved by the Ethic Committee on the Use of Human Subjects at the University of Aachen (Permit number: EK128/09). MSC were culture-expanded in standard medium consisting of DMEM (PAA; 1g/L glucose) supplemented with glutamine (PAA), penicillin/streptomycin (PAA) and 10% human platelet lysate (hPL)."""
+"""MSC were isolated from tibia plateau of patients undergoing orthopaedic surgery. All samples were taken after written consent using guidelines approved by the Ethic Committee on the Use of Human Subjects at the University of Aachen (Permit number: EK128/09). MSC were culture-expanded in standard medium consisting of DMEM (PAA; 1g/L glucose) supplemented with glutamine (PAA), penicillin/streptomycin (PAA) and 10% human platelet lysate (hPL)."""
+"""MSC were isolated from tibia plateau of patients undergoing orthopaedic surgery. All samples were taken after written consent using guidelines approved by the Ethic Committee on the Use of Human Subjects at the University of Aachen (Permit number: EK128/09). MSC were culture-expanded in standard medium consisting of DMEM (PAA; 1g/L glucose) supplemented with glutamine (PAA), penicillin/streptomycin (PAA) and 10% human platelet lysate (hPL)."""
+"""MSC were isolated from tibia plateau of patients undergoing orthopaedic surgery. All samples were taken after written consent using guidelines approved by the Ethic Committee on the Use of Human Subjects at the University of Aachen (Permit number: EK128/09). MSC were culture-expanded in standard medium consisting of DMEM (PAA; 1g/L glucose) supplemented with glutamine (PAA), penicillin/streptomycin (PAA) and 10% human platelet lysate (hPL)."""
+"""MSC from three donors (passage 3) were infected on two consecutive days with equal amounts of pMXs based retroviruses (Addgene, Cambridge, MA, USA) carrying the OCT3/4, SOX2, KLF4 and c-MYC genes. On day 3, medium was changed to high glucose DMEM (Gibco), 20% FCS, 1% nonessential amino acids (NAA), 1x penicillin/streptomycin, 1x L-glutamine, 0.1 mM β-mercaptoethanol (βME) and 50 ng/ml basic fibroblast growth factor (bFGF) (Peprotech, Hamburg, Germany). On day 6 the cells were plated on gelatin-coated dishes containing irradiated CF1 murine embryonic fibroblasts (MEFs), and on day 7 the culture medium was supplemented with 20 μg/ml vitamin C (Sigma) and 1mM valproic acid (Sigma). Between days 21–30 the ESC-like colonies were observed and mechanically isolated. Established iP-MSC were maintained on MEFs in DMEM/F12 medium supplemented with Glutamax, 20% knockout serum replacer, 1% NAA, 0.1 mM βME and 50 ng/ml bFGF. Cells were passaged by manual dissection of cell clusters every 5-6 days."""
+"""MSC from three donors (passage 3) were infected on two consecutive days with equal amounts of pMXs based retroviruses (Addgene, Cambridge, MA, USA) carrying the OCT3/4, SOX2, KLF4 and c-MYC genes. On day 3, medium was changed to high glucose DMEM (Gibco), 20% FCS, 1% nonessential amino acids (NAA), 1x penicillin/streptomycin, 1x L-glutamine, 0.1 mM β-mercaptoethanol (βME) and 50 ng/ml basic fibroblast growth factor (bFGF) (Peprotech, Hamburg, Germany). On day 6 the cells were plated on gelatin-coated dishes containing irradiated CF1 murine embryonic fibroblasts (MEFs), and on day 7 the culture medium was supplemented with 20 μg/ml vitamin C (Sigma) and 1mM valproic acid (Sigma). Between days 21–30 the ESC-like colonies were observed and mechanically isolated. Established iP-MSC were maintained on MEFs in DMEM/F12 medium supplemented with Glutamax, 20% knockout serum replacer, 1% NAA, 0.1 mM βME and 50 ng/ml bFGF. Cells were passaged by manual dissection of cell clusters every 5-6 days."""
+"""MSC from three donors (passage 3) were infected on two consecutive days with equal amounts of pMXs based retroviruses (Addgene, Cambridge, MA, USA) carrying the OCT3/4, SOX2, KLF4 and c-MYC genes. On day 3, medium was changed to high glucose DMEM (Gibco), 20% FCS, 1% nonessential amino acids (NAA), 1x penicillin/streptomycin, 1x L-glutamine, 0.1 mM β-mercaptoethanol (βME) and 50 ng/ml basic fibroblast growth factor (bFGF) (Peprotech, Hamburg, Germany). On day 6 the cells were plated on gelatin-coated dishes containing irradiated CF1 murine embryonic fibroblasts (MEFs), and on day 7 the culture medium was supplemented with 20 μg/ml vitamin C (Sigma) and 1mM valproic acid (Sigma). Between days 21–30 the ESC-like colonies were observed and mechanically isolated. Established iP-MSC were maintained on MEFs in DMEM/F12 medium supplemented with Glutamax, 20% knockout serum replacer, 1% NAA, 0.1 mM βME and 50 ng/ml bFGF. Cells were passaged by manual dissection of cell clusters every 5-6 days."""
+"""MSC from three donors (passage 3) were infected on two consecutive days with equal amounts of pMXs based retroviruses (Addgene, Cambridge, MA, USA) carrying the OCT3/4, SOX2, KLF4 and c-MYC genes. On day 3, medium was changed to high glucose DMEM (Gibco), 20% FCS, 1% nonessential amino acids (NAA), 1x penicillin/streptomycin, 1x L-glutamine, 0.1 mM β-mercaptoethanol (βME) and 50 ng/ml basic fibroblast growth factor (bFGF) (Peprotech, Hamburg, Germany). On day 6 the cells were plated on gelatin-coated dishes containing irradiated CF1 murine embryonic fibroblasts (MEFs), and on day 7 the culture medium was supplemented with 20 μg/ml vitamin C (Sigma) and 1mM valproic acid (Sigma). Between days 21–30 the ESC-like colonies were observed and mechanically isolated. Established iP-MSC were maintained on MEFs in DMEM/F12 medium supplemented with Glutamax, 20% knockout serum replacer, 1% NAA, 0.1 mM βME and 50 ng/ml bFGF. Cells were passaged by manual dissection of cell clusters every 5-6 days."""
+"""MSC from three donors (passage 3) were infected on two consecutive days with equal amounts of pMXs based retroviruses (Addgene, Cambridge, MA, USA) carrying the OCT3/4, SOX2, KLF4 and c-MYC genes. On day 3, medium was changed to high glucose DMEM (Gibco), 20% FCS, 1% nonessential amino acids (NAA), 1x penicillin/streptomycin, 1x L-glutamine, 0.1 mM β-mercaptoethanol (βME) and 50 ng/ml basic fibroblast growth factor (bFGF) (Peprotech, Hamburg, Germany). On day 6 the cells were plated on gelatin-coated dishes containing irradiated CF1 murine embryonic fibroblasts (MEFs), and on day 7 the culture medium was supplemented with 20 μg/ml vitamin C (Sigma) and 1mM valproic acid (Sigma). Between days 21–30 the ESC-like colonies were observed and mechanically isolated. Established iP-MSC were maintained on MEFs in DMEM/F12 medium supplemented with Glutamax, 20% knockout serum replacer, 1% NAA, 0.1 mM βME and 50 ng/ml bFGF. Cells were passaged by manual dissection of cell clusters every 5-6 days."""
+"""MSC from three donors (passage 3) were infected on two consecutive days with equal amounts of pMXs based retroviruses (Addgene, Cambridge, MA, USA) carrying the OCT3/4, SOX2, KLF4 and c-MYC genes. On day 3, medium was changed to high glucose DMEM (Gibco), 20% FCS, 1% nonessential amino acids (NAA), 1x penicillin/streptomycin, 1x L-glutamine, 0.1 mM β-mercaptoethanol (βME) and 50 ng/ml basic fibroblast growth factor (bFGF) (Peprotech, Hamburg, Germany). On day 6 the cells were plated on gelatin-coated dishes containing irradiated CF1 murine embryonic fibroblasts (MEFs), and on day 7 the culture medium was supplemented with 20 μg/ml vitamin C (Sigma) and 1mM valproic acid (Sigma). Between days 21–30 the ESC-like colonies were observed and mechanically isolated. Established iP-MSC were maintained on MEFs in DMEM/F12 medium supplemented with Glutamax, 20% knockout serum replacer, 1% NAA, 0.1 mM βME and 50 ng/ml bFGF. Cells were passaged by manual dissection of cell clusters every 5-6 days."""
+"""MSC from three donors were infected on two consecutive days with equal amounts of pMXs based retroviruses (Addgene, Cambridge, MA, USA) carrying the OCT3/4, SOX2, KLF4 and c-MYC genes. On day 3, medium was changed to high glucose DMEM (Gibco), 20% FCS, 1% nonessential amino acids (NAA), 1x penicillin/streptomycin, 1x L-glutamine, 0.1 mM β-mercaptoethanol (βME) and 50 ng/ml basic fibroblast growth factor (bFGF) (Peprotech, Hamburg, Germany). On day 6 the cells were plated on gelatin-coated dishes containing irradiated CF1 murine embryonic fibroblasts (MEFs), and on day 7 the culture medium was supplemented with 20 μg/ml vitamin C (Sigma) and 1mM valproic acid (Sigma). Between days 21–30 the ESC-like colonies were observed and mechanically isolated. Established iP-MSC were maintained on MEFs in DMEM/F12 medium supplemented with Glutamax, 20% knockout serum replacer, 1% NAA, 0.1 mM βME and 50 ng/ml bFGF. Cells were passaged by manual dissection of cell clusters every 5-6 days."""
+"""MSC from three donors were infected on two consecutive days with equal amounts of pMXs based retroviruses (Addgene, Cambridge, MA, USA) carrying the OCT3/4, SOX2, KLF4 and c-MYC genes. On day 3, medium was changed to high glucose DMEM (Gibco), 20% FCS, 1% nonessential amino acids (NAA), 1x penicillin/streptomycin, 1x L-glutamine, 0.1 mM β-mercaptoethanol (βME) and 50 ng/ml basic fibroblast growth factor (bFGF) (Peprotech, Hamburg, Germany). On day 6 the cells were plated on gelatin-coated dishes containing irradiated CF1 murine embryonic fibroblasts (MEFs), and on day 7 the culture medium was supplemented with 20 μg/ml vitamin C (Sigma) and 1mM valproic acid (Sigma). Between days 21–30 the ESC-like colonies were observed and mechanically isolated. Established iP-MSC were maintained on MEFs in DMEM/F12 medium supplemented with Glutamax, 20% knockout serum replacer, 1% NAA, 0.1 mM βME and 50 ng/ml bFGF. Cells were passaged by manual dissection of cell clusters every 5-6 days."""
+"""Genomic DNA was isolated from 10(6) cells using the Qiagen DNA Blood Midi Kit."""
+"""Genomic DNA was isolated from 10(6) cells using the Qiagen DNA Blood Midi Kit."""
+"""Genomic DNA was isolated from 10(6) cells using the Qiagen DNA Blood Midi Kit."""
+"""Genomic DNA was isolated from 10(6) cells using the Qiagen DNA Blood Midi Kit."""
+"""Genomic DNA was isolated from 10(6) cells using the Qiagen DNA Blood Midi Kit."""
+"""Genomic DNA was isolated from 10(6) cells using the Qiagen DNA Blood Midi Kit."""
+"""Genomic DNA was isolated from 10(6) cells using the Qiagen DNA Blood Midi Kit."""
+"""Genomic DNA was isolated from 10(6) cells using the Qiagen DNA Blood Midi Kit."""
+"""Genomic DNA was isolated from 10(6) cells using the Qiagen DNA Blood Midi Kit."""
+"""Genomic DNA was isolated from 10(6) cells using the Qiagen DNA Blood Midi Kit."""
+"""Genomic DNA was isolated from 10(6) cells using the Qiagen DNA Blood Midi Kit."""
+"""Genomic DNA was isolated from 10(6) cells using the Qiagen DNA Blood Midi Kit."""
+"""Genomic DNA was isolated from 10(6) cells using the Qiagen DNA Blood Midi Kit."""
+"""Genomic DNA was isolated from 10(6) cells using the Qiagen DNA Blood Midi Kit."""
+"""Genomic DNA was isolated from 10(6) cells using the Qiagen DNA Blood Midi Kit."""
+"""Genomic DNA was isolated from 10(6) cells using the Qiagen DNA Blood Midi Kit."""
+"""Standard Infinium HD Methylation Assay protocol"""
+"""Standard Infinium HD Methylation Assay protocol"""
+"""Standard Infinium HD Methylation Assay protocol"""
+"""Standard Infinium HD Methylation Assay protocol"""
+"""Standard Infinium HD Methylation Assay protocol"""
+"""Standard Infinium HD Methylation Assay protocol"""
+"""Standard Infinium HD Methylation Assay protocol"""
+"""Standard Infinium HD Methylation Assay protocol"""
+"""Standard Infinium HD Methylation Assay protocol"""
+"""Standard Infinium HD Methylation Assay protocol"""
+"""Standard Infinium HD Methylation Assay protocol"""
+"""Standard Infinium HD Methylation Assay protocol"""
+"""Standard Infinium HD Methylation Assay protocol"""
+"""Standard Infinium HD Methylation Assay protocol"""
+"""Standard Infinium HD Methylation Assay protocol"""
+"""Standard Infinium HD Methylation Assay protocol"""
+"""Bisulfite converted DNA was amplified, fragmented and hybridized to Illumina Infinium HumanMethylation450 Beadchip using standard Infinium HD Methylation Assay protocol."""
+"""Bisulfite converted DNA was amplified, fragmented and hybridized to Illumina Infinium HumanMethylation450 Beadchip using standard Infinium HD Methylation Assay protocol."""
+"""Bisulfite converted DNA was amplified, fragmented and hybridized to Illumina Infinium HumanMethylation450 Beadchip using standard Infinium HD Methylation Assay protocol."""
+"""Bisulfite converted DNA was amplified, fragmented and hybridized to Illumina Infinium HumanMethylation450 Beadchip using standard Infinium HD Methylation Assay protocol."""
+"""Bisulfite converted DNA was amplified, fragmented and hybridized to Illumina Infinium HumanMethylation450 Beadchip using standard Infinium HD Methylation Assay protocol."""
+"""Bisulfite converted DNA was amplified, fragmented and hybridized to Illumina Infinium HumanMethylation450 Beadchip using standard Infinium HD Methylation Assay protocol."""
+"""Bisulfite converted DNA was amplified, fragmented and hybridized to Illumina Infinium HumanMethylation450 Beadchip using standard Infinium HD Methylation Assay protocol."""
+"""Bisulfite converted DNA was amplified, fragmented and hybridized to Illumina Infinium HumanMethylation450 Beadchip using standard Infinium HD Methylation Assay protocol."""
+"""Bisulfite converted DNA was amplified, fragmented and hybridized to Illumina Infinium HumanMethylation450 Beadchip using standard Infinium HD Methylation Assay protocol."""
+"""Bisulfite converted DNA was amplified, fragmented and hybridized to Illumina Infinium HumanMethylation450 Beadchip using standard Infinium HD Methylation Assay protocol."""
+"""Bisulfite converted DNA was amplified, fragmented and hybridized to Illumina Infinium HumanMethylation450 Beadchip using standard Infinium HD Methylation Assay protocol."""
+"""Bisulfite converted DNA was amplified, fragmented and hybridized to Illumina Infinium HumanMethylation450 Beadchip using standard Infinium HD Methylation Assay protocol."""
+"""Bisulfite converted DNA was amplified, fragmented and hybridized to Illumina Infinium HumanMethylation450 Beadchip using standard Infinium HD Methylation Assay protocol."""
+"""Bisulfite converted DNA was amplified, fragmented and hybridized to Illumina Infinium HumanMethylation450 Beadchip using standard Infinium HD Methylation Assay protocol."""
+"""Bisulfite converted DNA was amplified, fragmented and hybridized to Illumina Infinium HumanMethylation450 Beadchip using standard Infinium HD Methylation Assay protocol."""
+"""Bisulfite converted DNA was amplified, fragmented and hybridized to Illumina Infinium HumanMethylation450 Beadchip using standard Infinium HD Methylation Assay protocol."""
+"""Standard Infinium HD Methylation Assay protocol"""
+"""Standard Infinium HD Methylation Assay protocol"""
+"""Standard Infinium HD Methylation Assay protocol"""
+"""Standard Infinium HD Methylation Assay protocol"""
+"""Standard Infinium HD Methylation Assay protocol"""
+"""Standard Infinium HD Methylation Assay protocol"""
+"""Standard Infinium HD Methylation Assay protocol"""
+"""Standard Infinium HD Methylation Assay protocol"""
+"""Standard Infinium HD Methylation Assay protocol"""
+"""Standard Infinium HD Methylation Assay protocol"""
+"""Standard Infinium HD Methylation Assay protocol"""
+"""Standard Infinium HD Methylation Assay protocol"""
+"""Standard Infinium HD Methylation Assay protocol"""
+"""Standard Infinium HD Methylation Assay protocol"""
+"""Standard Infinium HD Methylation Assay protocol"""
+"""Standard Infinium HD Methylation Assay protocol"""
+"""Initial analysis was performed by the Genomestudio 2010.3 (Modul M Version 1.8.5). Data were normalized with internal controls according to Illumina´s standard procedures. Methylation level at each locus was calculated with the GenomeStudio Methylation module as beta-value (ranging from 0 to 1). The number of beads per feature varies between chips and beta-values were calculated as average of at least three technical replica."""
+"""Initial analysis was performed by the Genomestudio 2010.3 (Modul M Version 1.8.5). Data were normalized with internal controls according to Illumina´s standard procedures. Methylation level at each locus was calculated with the GenomeStudio Methylation module as beta-value (ranging from 0 to 1). The number of beads per feature varies between chips and beta-values were calculated as average of at least three technical replica."""
+"""Initial analysis was performed by the Genomestudio 2010.3 (Modul M Version 1.8.5). Data were normalized with internal controls according to Illumina´s standard procedures. Methylation level at each locus was calculated with the GenomeStudio Methylation module as beta-value (ranging from 0 to 1). The number of beads per feature varies between chips and beta-values were calculated as average of at least three technical replica."""
+"""Initial analysis was performed by the Genomestudio 2010.3 (Modul M Version 1.8.5). Data were normalized with internal controls according to Illumina´s standard procedures. Methylation level at each locus was calculated with the GenomeStudio Methylation module as beta-value (ranging from 0 to 1). The number of beads per feature varies between chips and beta-values were calculated as average of at least three technical replica."""
+"""Initial analysis was performed by the Genomestudio 2010.3 (Modul M Version 1.8.5). Data were normalized with internal controls according to Illumina´s standard procedures. Methylation level at each locus was calculated with the GenomeStudio Methylation module as beta-value (ranging from 0 to 1). The number of beads per feature varies between chips and beta-values were calculated as average of at least three technical replica."""
+"""Initial analysis was performed by the Genomestudio 2010.3 (Modul M Version 1.8.5). Data were normalized with internal controls according to Illumina´s standard procedures. Methylation level at each locus was calculated with the GenomeStudio Methylation module as beta-value (ranging from 0 to 1). The number of beads per feature varies between chips and beta-values were calculated as average of at least three technical replica."""
+"""Initial analysis was performed by the Genomestudio 2010.3 (Modul M Version 1.8.5). Data were normalized with internal controls according to Illumina´s standard procedures. Methylation level at each locus was calculated with the GenomeStudio Methylation module as beta-value (ranging from 0 to 1). The number of beads per feature varies between chips and beta-values were calculated as average of at least three technical replica."""
+"""Initial analysis was performed by the Genomestudio 2010.3 (Modul M Version 1.8.5). Data were normalized with internal controls according to Illumina´s standard procedures. Methylation level at each locus was calculated with the GenomeStudio Methylation module as beta-value (ranging from 0 to 1). The number of beads per feature varies between chips and beta-values were calculated as average of at least three technical replica."""
+"""Initial analysis was performed by the Genomestudio 2010.3 (Modul M Version 1.8.5). Data were normalized with internal controls according to Illumina´s standard procedures. Methylation level at each locus was calculated with the GenomeStudio Methylation module as beta-value (ranging from 0 to 1). The number of beads per feature varies between chips and beta-values were calculated as average of at least three technical replica."""
+"""Initial analysis was performed by the Genomestudio 2010.3 (Modul M Version 1.8.5). Data were normalized with internal controls according to Illumina´s standard procedures. Methylation level at each locus was calculated with the GenomeStudio Methylation module as beta-value (ranging from 0 to 1). The number of beads per feature varies between chips and beta-values were calculated as average of at least three technical replica."""
+"""Initial analysis was performed by the Genomestudio 2010.3 (Modul M Version 1.8.5). Data were normalized with internal controls according to Illumina´s standard procedures. Methylation level at each locus was calculated with the GenomeStudio Methylation module as beta-value (ranging from 0 to 1). The number of beads per feature varies between chips and beta-values were calculated as average of at least three technical replica."""
+"""Initial analysis was performed by the Genomestudio 2010.3 (Modul M Version 1.8.5). Data were normalized with internal controls according to Illumina´s standard procedures. Methylation level at each locus was calculated with the GenomeStudio Methylation module as beta-value (ranging from 0 to 1). The number of beads per feature varies between chips and beta-values were calculated as average of at least three technical replica."""
+"""Initial analysis was performed by the Genomestudio 2010.3 (Modul M Version 1.8.5). Data were normalized with internal controls according to Illumina´s standard procedures. Methylation level at each locus was calculated with the GenomeStudio Methylation module as beta-value (ranging from 0 to 1). The number of beads per feature varies between chips and beta-values were calculated as average of at least three technical replica."""
+"""Initial analysis was performed by the Genomestudio 2010.3 (Modul M Version 1.8.5). Data were normalized with internal controls according to Illumina´s standard procedures. Methylation level at each locus was calculated with the GenomeStudio Methylation module as beta-value (ranging from 0 to 1). The number of beads per feature varies between chips and beta-values were calculated as average of at least three technical replica."""
+"""Initial analysis was performed by the Genomestudio 2010.3 (Modul M Version 1.8.5). Data were normalized with internal controls according to Illumina´s standard procedures. Methylation level at each locus was calculated with the GenomeStudio Methylation module as beta-value (ranging from 0 to 1). The number of beads per feature varies between chips and beta-values were calculated as average of at least three technical replica."""
+"""Initial analysis was performed by the Genomestudio 2010.3 (Modul M Version 1.8.5). Data were normalized with internal controls according to Illumina´s standard procedures. Methylation level at each locus was calculated with the GenomeStudio Methylation module as beta-value (ranging from 0 to 1). The number of beads per feature varies between chips and beta-values were calculated as average of at least three technical replica."""
+"""Stem Cell Biology and Cellular Engineering"""
+"""Stem Cell Biology and Cellular Engineering"""
+"""Stem Cell Biology and Cellular Engineering"""
+"""Stem Cell Biology and Cellular Engineering"""
+"""Stem Cell Biology and Cellular Engineering"""
+"""Stem Cell Biology and Cellular Engineering"""
+"""Stem Cell Biology and Cellular Engineering"""
+"""Stem Cell Biology and Cellular Engineering"""
+"""Stem Cell Biology and Cellular Engineering"""
+"""Stem Cell Biology and Cellular Engineering"""
+"""Stem Cell Biology and Cellular Engineering"""
+"""Stem Cell Biology and Cellular Engineering"""
+"""Stem Cell Biology and Cellular Engineering"""
+"""Stem Cell Biology and Cellular Engineering"""
+"""Stem Cell Biology and Cellular Engineering"""
+"""Stem Cell Biology and Cellular Engineering"""
+"""Helmholtz Institute for Biomedical Engineering"""
+"""Helmholtz Institute for Biomedical Engineering"""
+"""Helmholtz Institute for Biomedical Engineering"""
+"""Helmholtz Institute for Biomedical Engineering"""
+"""Helmholtz Institute for Biomedical Engineering"""
+"""Helmholtz Institute for Biomedical Engineering"""
+"""Helmholtz Institute for Biomedical Engineering"""
+"""Helmholtz Institute for Biomedical Engineering"""
+"""Helmholtz Institute for Biomedical Engineering"""
+"""Helmholtz Institute for Biomedical Engineering"""
+"""Helmholtz Institute for Biomedical Engineering"""
+"""Helmholtz Institute for Biomedical Engineering"""
+"""Helmholtz Institute for Biomedical Engineering"""
+"""Helmholtz Institute for Biomedical Engineering"""
+"""Helmholtz Institute for Biomedical Engineering"""
+"""Helmholtz Institute for Biomedical Engineering"""
+
+
