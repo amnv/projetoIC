@@ -17,5 +17,6 @@ Etapas seguidas para extrair as senteças que serão analisadas
 
 
 
-
+### Recuperando dados faltantes
+Alguns documentos não foram recuperados de forma automática e por isso foi necessário fazer uma nova extração utilizando outras técnicas. Foi utilizado o framework Scrapy para fazer a extração. Mesmo assim ainda ficaram faltando ser extraídos mais 2 documentos que foram extraídos manualmente. 
 Pegando os dados que não foram pegos na primeira passada e adicionando eles ao conjunto de documentos
