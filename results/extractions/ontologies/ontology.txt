@@ -1,0 +1,980 @@
+Purkinje cell layer corpus cerebelli
+Purkinje cell layer valvula cerebelli
+adrenal tissue
+alar plate midbrain
+anlage
+anterior ectodermal midgut
+anterior swim bladder bud
+avascular GAG-rich matrix
+basimandibulare
+bone marrow
+branchiostegal membrane
+bulb of hair follicle
+cardiac jelly
+cerebellar crest
+climbing fiber
+cloacal papilla
+connective tissue
+core of melon organ
+corneal primordium
+corpuscles of Stannius
+dermal papilla
+dermal pulp of feather shaft
+dermis of feather follicle
+descending branch of the vagus nerve
+dorso-rostral cluster
+dorsolateral septum
+elastica externa of notochord
+embryonic tissue
+endocardial ring
+epidermal intermediate stratum
+epidermal placode
+epidermal superficial stratum
+epidermis of feather follicle
+epiphysial cluster
+epithelium
+equatorial belt
+erectile tissue
+external cellular layer
+extraembryonic tissue
+eye trabecular meshwork
+filum terminale
+filum terminale externum
+filum terminale internum
+gigantocellular part of magnocellular preoptic nucleus
+gill filament
+granular layer corpus cerebelli
+granular layer valvula cerebelli
+hair root sheath
+hair root sheath matrix
+heterogeneous tissue
+hypochord
+inner fin tissue
+intermediate cell mass of mesoderm
+internal cellular layer
+intervillus pockets
+lamina
+late distal segment
+lateral line
+lateral line primordium
+lens cortex
+lens vesicle
+limiting layer of elasmoid scale
+lower oral valve
+macula
+matrix-based tissue
+mesenchyme
+mineralized extracellular matrix
+mole
+molecular layer corpus cerebelli
+molecular layer valvula cerebelli
+mossy fiber
+muscle tissue
+nail matrix
+nephron progenitor
+neural tissue
+neurogenic field
+non-neural ectoderm
+notochord posterior region
+optic vesicle
+outer fin tissue
+parallel fiber
+pars acromialis
+pars amphibiorum
+pars basilaris
+pars glenoidalis of scapula
+pearly penile papule
+penile spine
+periodontium
+periurethral tissue
+pillar of the semicircular canal
+placodal ectoderm
+primary olfactory fiber layer
+ramule palatonasalis
+ramus muscularis of glossopharyngeus nerve
+ramus muscularis of vagus nerve
+retromolar triangle
+roof plate of diencephalon
+roof plate of medulla oblongata
+roof plate of metencephalon
+roof plate of midbrain
+roof plate of telencephalon
+roof plate spinal cord region
+root of nail
+rostral blood island
+saccus dorsalis
+scale primordium
+stratum fibrosum et griseum superficiale
+stratum marginale
+stratum opticum
+stratum periventriculare
+superficial fascia
+thyroid primordium
+trabecular network of bone
+umbilicus
+upper oral valve
+ventral wall of dorsal aorta
+- primary heart field
++ paired limb/fin field
+- kidney field
+- prostate field
+- secondary heart field
+- lung field
+- cardiopharyngeal field
+- mesoderm anlage
+- proneural cluster
+- adult clypeo-labral anlage
+- ectoderm anlage
+- dorsal ectoderm anlage
+ pectoral appendage field
+- pelvic appendage field
+- fin field
+- limb field  
+abdominal histoblast anlage
+adult clypeo-labral anlage
+cardiopharyngeal field
+clypeo-labral anlage
+dorsal ectoderm anlage
+ectoderm anlage
+kidney field
+lung field
+mesoderm anlage
+paired limb/fin field
+presumptive arista
+presumptive prothoracic metatarsus
+primary heart field
+proneural cluster
+prostate field
+secondary heart field
+trunk mesoderm anlage
+visual anlage  
+- non-mineralized avascular GAG-rich matrix
+- mineralized avascular GAG-rich matrix
+- yellow bone marrow
+- red bone marrow
+- vibrissa hair bulb
+- atrium cardiac jelly
+- ventricle cardiac jelly
+- outflow tract cardiac jelly
+Sharpey's fiber
+abdomen connective tissue
+abdominal segment connective tissue
+ankle connective tissue
+anterior stroma of cornea
+arm connective tissue
+back connective tissue
+bronchus connective tissue
+chest connective tissue
+connective tissue of prostate gland
+dense connective tissue
+dermis connective tissue
+digit connective tissue
+elastic tissue
+elbow connective tissue
+enthesis
+eyelid connective tissue
+forelimb connective tissue
+granulation tissue
+head connective tissue
+hindlimb connective tissue
+hip connective tissue
+inner chondrogenic layer of perichondrium
+irregular connective tissue
+knee connective tissue
+larynx connective tissue
+leg connective tissue
+limb connective tissue
+lobar bronchus connective tissue
+lower arm connective tissue
+lower leg connective tissue
+lower respiratory tract connective tissue
+lung connective tissue
+main bronchus connective tissue
+mammary gland connective tissue
+manual digit connective tissue
+manus connective tissue
+mylohyoid raphe
+nasopharynx connective tissue
+neck connective tissue
+nucleus pulposus
+outer fibrous layer of perichondrium
+ovisac
+pedal digit connective tissue
+pelvis connective tissue
+perichondrium
+perichordal ring
+perichordal tissue
+pes connective tissue
+posterior stroma of cornea
+regular connective tissue
+respiratory system connective tissue
+shoulder connective tissue
+skeletal muscle connective tissue
+skeletal tissue
+specialized connective tissue
+tail connective tissue
+thoracic cavity connective tissue
+thoracic segment connective tissue
+trachea connective tissue
+trunk connective tissue
+upper arm connective tissue
+upper leg connective tissue
+vacuolated notochordal tissue
+wrist connective tissue
++ kidney capsule
++ adipose tissue of abdominal region
++ abdominal fascia
+- metanephric capsule
+- mesonephric capsule
++ abdominal fat pad
+- visceral abdominal adipose tissue
+- subcutaneous abdominal adipose tissue
++ retroperitoneal fat pad
+- fascia of Scarpa
+- renal fat pad
+- falciform fat
+- omental fat pad
+- fascia of Scarpa
+- renal fat pad
+- falciform fat
+- retroperitoneal fat pad
+- omental fat pad
+- fascia of Camper
+- renal fascia
++ abdomen connective tissue
+- pelvis connective tissue
+- inguinal fat pad
+- elbow connective tissue
++ lower arm connective tissue
++ upper arm connective tissue
+- epiphyseal plate of radius
+- cortex of humerus
+- main bronchus connective tissue
+- lobar bronchus connective tissue
+- bronchus elastic tissue
+- subepithelial connective tissue of prostatic gland
++ dense regular connective tissue
++ dense irregular connective tissue
++ tendon
++ fascia
++ calcaneal tendon
+- future central tendon
+- central tendon of diaphragm
+- tendon of biceps brachii
+- tendon of triceps brachii
+- infraspinatus tendon
+- vinculum tendon of wing
+- vinculum of tendon
+- tendon of quadriceps femoris
+- tendon of palmaris longus
+- tendon of obturator internus
+- calcaneofibular ligament
++ deep fascia
+- visceral fascia
++ cervical fascia
++ abdominal fascia
++ dartos muscle
++ spermatic fascia
+- fascia of tail
+- temporalis fascia
+- fascia lata
+- superficial cervical fascia
+- deep cervical fascia
+- prevertebral cervical fascia
+- dartos muscle of scrotum
+- dartos muscle of labia majora
+- external spermatic fascia
+- internal spermatic fascia
+- perineurium
+- epineurium
++ adipose tissue
++ fibrous connective tissue
+- epimysium
+- perimysium
++ connective tissue of prostate gland
+- dermis adipose tissue
+- ganoine
+- elasmodine
+- pedal digit connective tissue
+- manual digit connective tissue
++ respiratory system elastic tissue
++ cardiovascular system elastic tissue
+- cutaneous elastic tissue
+- dense regular elastic tissue
+- fibroelastic connective tissue
+- lung elastic tissue
+- bronchus elastic tissue
+- trachea elastic tissue
+- heart elastic tissue
++ blood vessel elastic tissue
+- aorta elastic tissue
+- blood vessel internal elastic membrane
+- blood vessel external elastic membrane
+- fibrous enthesis
+- fibrocartilage enthesis
+- eyelid subcutaneous connective tissue
+- eyelid submuscular connective tissue
++ arm connective tissue
++ manus connective tissue
+- vinculum tendon of wing
++ wrist connective tissue
+- manual digit connective tissue
+- cortex of manus bone
+- tendon of palmaris longus
+- vitreous body
++ nasal cartilage
++ eyelid connective tissue
+- anterior stroma of cornea
+- posterior stroma of cornea
+- orbital fat pad
+- bony part of pharyngotympanic tube
++ palatine raphe
+- pterygomandibular raphe
+- buccal fat pad
++ dorsal bursa
+- dental pulp of median incisor tusk
+- temporalis fascia
+accessory nasal cartilage
+alary cartilage
+anterior prenasal cartilage
+cartilage of nasal septum
+cartilago ectochoanalis
+cartilago infranarina
+cartilago retronarina
+inferior prenasal cartilage
+lateral nasal cartilage
+major alar cartilage
+medial inferior prenasal cartilage
+minor alar cartilage
+nasal capsule
+oblique cartilage
+paranasal commissure
+paries nasi
+planum antorbitale
+planum conchale
+planum internasale
+superior prenasal cartilage
+vomeronasal cartilage
++ nasal opening
+fenestra dorsalis nasi
+fenestra endochoanalis
+fenestra endonarina communis
+fenestra lateralis nasi
+fenestra nasobasalis
+fenestra nasolateralis
+fenestra precerebralis
+fenestra prechoanalis
+foramen orbitonasale laterale
+foramen orbitonasale mediale
+medial orbitonasal foramen
+olfactory foramen
+- raphe of hard palate
+- raphe of soft palate
+- anterior dorsal bursa
+- posterior dorsal bursa
++ leg connective tissue
++ pes connective tissue
+- tendon of quadriceps femoris
++ knee connective tissue
++ upper leg connective tissue
++ lower leg connective tissue
+- infrapatellar fat pad
+- fascia lata
+- femoral fat pad
+- portion of cartilage tissue in tibia
++ calcaneal tendon
+- pedal digit connective tissue
+- ankle connective tissue
++ dense irregular connective tissue
++ loose connective tissue
++ dental pulp
+- vitreous body
++ reticular tissue
+- areolar connective tissue
+- mucoid tissue
++ incisor dental pulp
+- molar dental pulp
+- dental pulp of median incisor tusk
+- endoneurium
++ endomysium
+- smooth muscle endomysium
+- cardiac endomysium
+- skeletal muscle endomysium
+- corniculate cartilage
+- base of arytenoid
+- apex of arytenoid
+- cuneiform cartilage
++ forelimb connective tissue
++ hindlimb connective tissue
++ digit connective tissue
++ lung connective tissue
++ trachea connective tissue
++ bronchus connective tissue
+- lobar bronchus connective tissue
+- lung elastic tissue
+- trachea elastic tissue
+- trachea non-cartilage connective tissue
++ mammary gland fat
+- mammary fat pad
++ cervical fascia
++ dense regular connective tissue
+- dense regular elastic tissue
++ lower respiratory tract connective tissue
+- nasopharynx connective tissue
++ larynx connective tissue
++ respiratory system elastic tissue
+- central tendon of diaphragm
+- pharyngeal raphe
+- infraspinatus tendon
+- interscapular fat pad
++ cartilage tissue
++ bone tissue
+- nacre
++ odontoid tissue
++ mineralized skeletal tissue
+- non-mineralized chondroid tissue
+- chondroid tissue
++ cartilage tissue of sternum
++ nasal cartilage
++ hyaline cartilage tissue
++ fibrocartilage
+- growth plate cartilage
+- cellular cartilage
++ zone of epiphyseal plate
++ paired limb/fin cartilage
+- hypertrophic cartilage zone
++ non-mineralized cartilage tissue
+- prismatic cartilage
+- mucocartilage tissue
+- secondary cartilage tissue
++ mineralized cartilage tissue
+- xiphoid cartilage
++ epiphyseal plate
+- base of arytenoid
+- articular cartilage of joint
+- non-mineralized hyaline cartilage tissue
+- mineralized hyaline cartilage tissue
+- epiphyseal plate of radius
++ annulus fibrosus
+- white fibrocartilage
+- yellow fibrocartilage
+- annulus fibrosus disci intervertebralis
++ fibrous ring of heart
+- aortic valve anulus
+- pulmonary valve anulus
+- mitral valve anulus
+- tricuspid valve anulus
+- long bone epiphyseal plate proliferative zone
+- long bone epiphyseal plate hypertrophic zone
+- long bone epiphyseal plate ossification zone
++ pectoral appendage cartilage tissue
++ pelvic appendage cartilage tissue
+- epiphyseal plate of radius
+- pectoral fin endoskeletal disc
+- portion of cartilage tissue in tibia
+- mineralized hyaline cartilage tissue
++ compact bone tissue
+- lamellar bone
+- trabecular bone tissue
+- endochondral bone tissue
+- intramembranous bone tissue
++ bone tissue of long bone
+- xiphoid process bone
+- bony part of pharyngotympanic tube
+- osteoid
++ mineralized bone tissue
+- cortex of humerus
+- cortex of manus bone
+- compact bone of long bone
+- compact bone of diaphysis
+- cortex of humerus
++ bone tissue of epiphysis
+- compact bone of long bone
+- compact bone of diaphysis
+- bone tissue of distal epiphysis
+- bone tissue of proximal epiphysis
+- cellular bone tissue
+- acellular bone tissue
+acrodin
+cementum
+cosmine
+dentine
+elasmodine
+enamel
+enameloid
+ganoine
+odontode tissue
+orthodentine
+osteodentine
+pre-dentine
+pre-enamel
+pre-enameloid
+vasodentine
+- tail fat pad
+- fascia of tail
++ lung connective tissue
++ cartilage tissue of sternum
+- chest connective tissue
+- heart elastic tissue
+- cardiac skeleton
++ fibrous ring of heart
+- xiphoid process bone
+- central tendon of diaphragm
+- cardiac endomysium
+- epicardial fat
++ thoracic segment connective tissue
++ abdominal segment connective tissue
+- pancreatic fat pad
+1st arch mandibular ectoderm
+1st arch mandibular endoderm
+1st arch maxillary ectoderm
+1st arch maxillary endoderm
+E-YSL
+I-YSL
+abdominal histoblast anlage
+adult clypeo-labral anlage
+anterior axial hypoblast
+anterior lateral mesoderm
+anterior lateral plate mesoderm
+anterior neural keel
+anterior neural rod
+anterior presumptive neural plate
+axial hypoblast
+bulbus arteriosus outer layer
+carapacial ridge ectoderm
+carapacial ridge mesenchyme
+cardiac neural crest
+cardiogenic splanchnic mesoderm
+cardiopharyngeal field
+cephalic furrow
+cerebellar plate
+chordo neural hinge
+clypeo-labral anlage
+cranial neural crest
+dorsal axial hypoblast
+dorsal lateral plate region
+dorsal part of pharyngeal pouch 1
+dorsal part of pharyngeal pouch 2
+dorsal part of pharyngeal pouch 3
+dorsal part of pharyngeal pouch 4
+dorsal part of pharyngeal pouch 5
+ear vesicle
+early pharyngeal endoderm
+egg cylinder
+embryonic cloacal epithelium
+embryonic lymph sac
+entire pharyngeal arch associated mesenchyme
+entire pharyngeal arch endoderm
+enveloping layer of ectoderm
+epithelium of footplate
+epithelium of handplate
+epithelium of otic placode
+external ectoderm
+eye primordium
+falciform fat
+floor plate
+forebrain neural keel
+forebrain neural rod
+forebrain neural tube
+frontonasal process epithelium
+future central tendon
+future falx cerebri
+future hindbrain meninx
+germ layer / neural crest
+germinal neuroepithelium
+head fold of embryonic disc
+head mesenchyme
+head somite
+heart tube
+hepatic diverticulum
+hindbrain neural keel
+hindbrain neural rod
+hindbrain neural tube
+infundibular recess of 3rd ventricle
+kidney field
+lamina terminalis of neural tube
+lateral floor plate
+lateral lingual swelling epithelium
+lateral plate mesoderm
+lateral wall neural rod
+liver primordium
+maxillary process ectoderm
+maxillary process mesenchyme
+medial floor plate
+median lingual swelling epithelium
+mesenchyme from somatopleure
+mesenchyme from splanchnopleure
+mesenchyme of sublingual gland primordium
+mesoderm anlage
+mesoderm blood island
+metanephric mesenchyme
+midbrain neural keel
+midbrain neural rod
+midbrain neural tube
+nasolacrimal groove
+neural fold
+neural plate
+neural tube
+neural tube basal plate
+neural tube mantle layer
+neural tube ventricular layer
+noninvoluting endocytic marginal cell cluster
+notochordal plate
+optic eminence mesenchyme
+organizer inducing center
+otic vesicle protrusion
+paired limb/fin field
+pancreatic epithelial bud
+paraxial mesoderm
+pectoral appendage bud ectoderm
+pelvic appendage bud ectoderm
+pericardio-peritoneal canal mesothelium
+pharyngeal arch mesenchyme from head mesenchyme
+pharyngeal arch mesenchyme from neural crest
+pharyngeal ectoderm
+pharyngeal pouch
+pleuroperitoneal canal
+pleuroperitoneal membrane
+posterior neural keel
+posterior neural rod
+posterior presumptive neural plate
+pre-cartilage condensation
+pre-chordal neural plate
+presumptive axochord
+primary heart field
+primitive olfactory epithelium
+primitive streak
+prostate field
+right atrium endocardium
+roof plate
+roof plate of diencephalon
+roof plate of medulla oblongata
+roof plate of metencephalon
+roof plate of midbrain
+roof plate of telencephalon
+roof plate spinal cord region
+sacral neural crest
+secondary heart field
+sex cord
+spinal cord neural keel
+spinal cord neural rod
+spinal cord neural tube
+spleen primordium
+stomodeal ectoderm
+submandibular gland primordium epithelium
+tail bud paraxial mesoderm
+tail fold of embryonic disc
+trunk mesenchyme
+trunk mesoderm anlage
+trunk neural crest
+vagal neural crest
+ventral furrow
+ventral part of pharyngeal pouch 1
+ventral part of pharyngeal pouch 2
+ventral part of pharyngeal pouch 3
+ventral part of pharyngeal pouch 4
+ventral part of pharyngeal pouch 5
+visual anlage
+- atrioventricular ring
+- outer epidermal layer of feather follicle
+- inner epidermal layer of feather follicle
+Harderian gland epithelium
+Peyer's patch epithelium
+anal canal epithelium
+anterior chamber epithelium
+atypical epithelium
+base of crypt of Lieberkuhn
+bile duct epithelium
+breast epithelium
+buccal epithelium
+bulbourethral gland epithelium
+caecum epithelium
+carapacial ridge ectoderm
+cervical squamo-columnar junction
+cervix epithelium
+choroid plexus epithelium
+ciliary epithelium
+ciliated epithelium
+cloacal epithelium
+coelomic epithelium
+colonic epithelium
+columnar epithelium
+corneal epithelium
+crista ampullaris neuroepithelium
+crus commune epithelium
+cuboidal epithelium
+dental epithelium
+dental lamina
+developing neuroepithelium
+digestive tract epithelium
+distal tubular epithelium
+duodenal epithelium
+ear epithelium
+ecto-epithelium
+ectocervical epithelium
+efferent duct epithelium
+ejaculatory duct epithelium
+embryonic cloacal epithelium
+endo-epithelium
+endocervical epithelium
+endometrium epithelium
+epithelial fold
+epithelial furrow
+epithelial layer of duct
+epithelial scleral papilla layer
+epithelial sheet
+epithelial tube
+epithelial vesicle
+epithelium of appendix
+epithelium of biliary system
+epithelium of bronchiole
+epithelium of bronchus
+epithelium of carpal region
+epithelium of cochlear duct
+epithelium of conjunctiva
+epithelium of crypt of Lieberkuhn
+epithelium of crypt of Lieberkuhn of large intestine
+epithelium of crypt of Lieberkuhn of small intestine
+epithelium of duct of salivary gland
+epithelium of ductus reuniens
+epithelium of elbow
+epithelium of endolymphatic duct
+epithelium of endolymphatic sac
+epithelium of esophagus
+epithelium of external nose
+epithelium of female gonad
+epithelium of female urethra
+epithelium of footplate
+epithelium of forearm
+epithelium of foregut-midgut junction
+epithelium of gall bladder
+epithelium of gonad
+epithelium of handplate
+epithelium of hard palate
+epithelium of hindgut
+epithelium of hip
+epithelium of incisor
+epithelium of intestinal villus
+epithelium of knee
+epithelium of large intestine
+epithelium of laryngopharynx
+epithelium of lateral semicircular canal
+epithelium of left lung
+epithelium of lens
+epithelium of lobar bronchus
+epithelium of lower jaw
+epithelium of main bronchus
+epithelium of male gonad
+epithelium of male urethra
+epithelium of mammary gland
+epithelium of midgut
+epithelium of mucosa
+epithelium of nasal septum
+epithelium of nasopharynx
+epithelium of oropharynx
+epithelium of otic placode
+epithelium of pancreatic duct
+epithelium of parotid gland
+epithelium of posterior semicircular canal
+epithelium of rectum
+epithelium of respiratory bronchiole
+epithelium of right lung
+epithelium of saccule
+epithelium of segmental bronchus
+epithelium of shoulder
+epithelium of small intestine
+epithelium of soft palate
+epithelium of stomach
+epithelium of sublingual gland
+epithelium of submandibular gland
+epithelium of superior semicircular canal
+epithelium of terminal part of digestive tract
+epithelium of tongue
+epithelium of trachea
+epithelium of upper jaw
+epithelium of urethra
+epithelium of uterine horn
+epithelium of utricle
+epithelium of vagina
+epithelium of vomeronasal organ
+exocrine pancreas epithelium
+external naris epithelium
+extraembryonic epithelium
+extrahepatic bile duct epithelium
+eye epithelium
+eyelid epithelium
+foregut duodenum epithelium
+foregut epithelium
+frontonasal process epithelium
+gastrointestinal system epithelium
+gingival epithelium
+glandular epithelium
+glomerular epithelium
+ileal epithelium
+inferior parathyroid epithelium
+inner ear epithelium
+intestinal epithelium
+intrahepatic bile duct epithelium
+iris epithelium
+jaw epithelium
+jejunal epithelium
+kidney collecting duct epithelium
+kidney epithelium
+lacrimal gland epithelium
+larynx epithelium
+lateral lingual swelling epithelium
+lateral ventricle choroid plexus epithelium
+left lung lobar bronchus epithelium
+lens anterior epithelium
+lens vesicle epithelium
+lip epithelium
+lower eyelid epithelium
+lower leg epithelium
+lower respiratory tract epithelium
+lung epithelium
+male prepuce epithelium
+manual digit 1 epithelium
+manual digit 2 epithelium
+manual digit 3 epithelium
+manual digit 4 epithelium
+manual digit 5 epithelium
+manual digit epithelium
+median lingual swelling epithelium
+meso-epithelium
+mesonephric epithelium
+metanephric epithelium
+middle ear epithelium
+midgut duodenum epithelium
+migrating epithelium
+molar epithelium
+multilaminar epithelium
+naris epithelium
+nasal cavity epithelium
+nasal cavity respiratory epithelium
+nephron epithelium
+nephron tubule epithelium
+non-glandular epithelium
+nose epithelium
+oral epithelium
+oral epithelium from ectoderm
+outer ear epithelium
+outer epithelium
+oviduct epithelium
+parathyroid epithelium
+pedal digit 1 epithelium
+pedal digit 2 epithelium
+pedal digit 3 epithelium
+pedal digit 4 epithelium
+pedal digit 5 epithelium
+pedal digit epithelium
+penis epithelium
+pharyngeal epithelium
+pigment epithelium of eye
+pinna surface epithelium
+polarized epithelium
+primary palate epithelium
+prostate epithelium
+proximal tubular epithelium
+pulmonary alveolus epithelium
+pyloric region epithelium
+regeneration epithelium of fin/limb
+respiratory system epithelium
+respiratory tract epithelium
+right lung accessory lobe epithelium
+right lung caudal lobe epithelium
+right lung cranial lobe epithelium
+right lung lobar bronchus epitheium
+rumen epithelium
+salivary gland epithelium
+secondary palatal shelf epithelium
+seminal vesicle epithelium
+seminiferous tubule epithelium
+sensory organ epithelium
+skin epithelium
+somite boundary epithelium
+squamous epithelium
+stomodeal ectoderm
+submandibular gland primordium epithelium
+superior parathyroid epithelium
+terminal bronchiole epithelium
+terminal bronchus epithelium
+thymus epithelium
+thymus subcapsular epithelium
+thyroid follicle epithelium
+tongue papilla epithelium
+tonsil epithelium
+tympanic membrane epithelium
+ultimobranchial body epithelium
+unilaminar epithelium
+upper arm epithelium
+upper eyelid epithelium
+upper leg epithelium
+upper respiratory tract epithelium
+urachus epithelium
+urogenital sinus epithelium
+uterine epithelium
+vas deferens epithelium
+vestibular epithelium
+wall of crypt of Lieberkuhn
+yolk sac endoderm
++ corpus cavernosum
+- glans clitoris
+- corpus spongiosum of penis
+- spongiose tissue of corpus cavernosum maxillaris
+- corpus cavernosum penis
+- corpus cavernosum clitoridis
++ hair inner root sheath
++ hair outer root sheath
++ vibrissa root sheath
+- vibrissa inner root sheath
+- vibrissa outer root sheath
+- vibrissa inner root sheath
+- vibrissa outer root sheath
++ lymphomyeloid tissue
++ lymphoid tissue
+- hematopoietic tissue
++ lymphoid follicle
+- thymus lymphoid tissue
++ germinal center
++ secondary follicle corona
+- spleen follicular dendritic cell network
++ epithelium-associated lymphoid tissue
+- appendix lymphoid tissue
++ spleen lymphoid follicle
++ secondary nodular lymphoid tissue
+- Peyer's patch follicle
++ primary nodular lymphoid tissue
++ lymph node follicle
+- spleen primary B follicle
+- spleen secondary B follicle
+- spleen secondary B follicle
+- lymph node secondary follicle
+- spleen primary B follicle
+- lymph node primary follicle
+- primary lymphoid nodule of tonsil
+- lymph node primary follicle
+- lymph node secondary follicle
+- Peyer's patch germinal center
+- spleen germinal center
+- lymph node germinal center
+- tonsil germinal center
+- lymph node follicular corona
+- spleen B cell corona
++ mucosa-associated lymphoid tissue
++ gut-associated lymphoid tissue
+- bronchial-associated lymphoid tissue
++ Peyer's patch
+- tonsillar ring
++ tonsil
++ nasal-associated lymphoid tissue
+- cecal tonsil
+- large intestine Peyer's patch
+- small intestine Peyer's patch
+- pharyngeal tonsil
+- palatine tonsil
+- tubal tonsil
+- lingual tonsil
+- pharyngeal tonsil
+
+
+

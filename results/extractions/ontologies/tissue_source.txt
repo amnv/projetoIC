@@ -1,0 +1,5251 @@
+Chemical Ingredients [Chemical/Ingredient]
+Clinical Kinetics [PK]
+Diseases, Manifestations or Physiologic States [Disease/Finding]
+Mental Disorders and Manifestations [Disease/Finding]
+Infectious Diseases [Disease/Finding]
+Elimination [PK]
+Metabolism [PK]
+Site of Metabolism [PK]
+Hepatic Metabolism [PK]
+Route of Excretion [PK]
+Renal Excretion [PK]
+Physiochemical Activity [MoA]
+Small Ion Transport Pump Interactions [MoA]
+Active Transporter Interactions [MoA]
+Immunologic Factors [MoA]
+Receptor Interactions [MoA]
+Reverse Transcriptase Inhibitors [MoA]
+Dopamine Agonists [MoA]
+Adrenergic Agonists [MoA]
+Enzyme Inhibitors [MoA]
+Biological Macromolecular Activity [MoA]
+G-Protein-linked Receptor Interactions [MoA]
+Adrenergic Receptor Interactions [MoA]
+Enzyme Interactions [MoA]
+Cytokine Receptor Superfamily Interactions [MoA]
+Ion Channel Interactions [MoA]
+Cholinergic Nicotinic Receptor Interactions [MoA]
+beta Lactamase Inhibitors [MoA]
+Dopamine Receptor Interactions [MoA]
+Electrolyte Activity [MoA]
+Cellular or Molecular Interactions [MoA]
+Acid-Base Activity [MoA]
+Cholinergic Nicotinic Antagonists [MoA]
+Structural Macromolecules [MoA]
+Nucleic Acid Synthesis Inhibitors [MoA]
+Adrenergic beta-Agonists [MoA]
+Polycationic Channel Interactions [MoA]
+Immunologic and Biological Factors [MoA]
+Congenital Abnormalities [Disease/Finding]
+Abnormalities, Drug-Induced [Disease/Finding]
+Acid-Base Imbalance [Disease/Finding]
+Acidosis [Disease/Finding]
+Alcohol Withdrawal Delirium [Disease/Finding]
+Alkalosis [Disease/Finding]
+Anuria [Disease/Finding]
+Aortic Stenosis, Subvalvular [Disease/Finding]
+Aortic Valve Stenosis [Disease/Finding]
+Arrhythmias, Cardiac [Disease/Finding]
+Ascites [Disease/Finding]
+Bacterial Infections and Mycoses [Disease/Finding]
+Mental Disorders [Disease/Finding]
+Blood Coagulation Disorders [Disease/Finding]
+Bone Diseases [Disease/Finding]
+Bone Diseases, Metabolic [Disease/Finding]
+Bradycardia [Disease/Finding]
+Brain Diseases [Disease/Finding]
+Calcium Metabolism Disorders [Disease/Finding]
+Calculi [Disease/Finding]
+Candidiasis [Disease/Finding]
+Candidiasis, Chronic Mucocutaneous [Disease/Finding]
+Candidiasis, Cutaneous [Disease/Finding]
+Candidiasis, Oral [Disease/Finding]
+Candidiasis, Vulvovaginal [Disease/Finding]
+Cardiac Output, Low [Disease/Finding]
+Cardiovascular Diseases [Disease/Finding]
+Central Nervous System Diseases [Disease/Finding]
+Cerebrovascular Disorders [Disease/Finding]
+Coma [Disease/Finding]
+Consciousness Disorders [Disease/Finding]
+Corneal Diseases [Disease/Finding]
+Crohn Disease [Disease/Finding]
+Cytomegalovirus Infections [Disease/Finding]
+Deficiency Diseases [Disease/Finding]
+Dehydration [Disease/Finding]
+Dermatitis [Disease/Finding]
+Dermatitis, Atopic [Disease/Finding]
+Dermatomycoses [Disease/Finding]
+Digestive System Diseases [Disease/Finding]
+DNA Virus Infections [Disease/Finding]
+Drug Hypersensitivity [Disease/Finding]
+Drug Toxicity [Disease/Finding]
+Edema [Disease/Finding]
+Eye Diseases [Disease/Finding]
+Female Urogenital Diseases and Pregnancy Complications [Disease/Finding]
+Food Hypersensitivity [Disease/Finding]
+Gastroenteritis [Disease/Finding]
+Gastrointestinal Diseases [Disease/Finding]
+Genital Diseases, Female [Disease/Finding]
+Genital Diseases, Male [Disease/Finding]
+Graft vs Host Disease [Disease/Finding]
+Heart Arrest [Disease/Finding]
+Heart Block [Disease/Finding]
+Heart Diseases [Disease/Finding]
+Heart Failure [Disease/Finding]
+Heart Valve Diseases [Disease/Finding]
+Hematologic Diseases [Disease/Finding]
+Hemic and Lymphatic Diseases [Disease/Finding]
+Hemorrhage [Disease/Finding]
+Hemorrhagic Disorders [Disease/Finding]
+Hepatitis [Disease/Finding]
+Herpes Genitalis [Disease/Finding]
+Herpes Simplex [Disease/Finding]
+Herpesviridae Infections [Disease/Finding]
+Hypercalcemia [Disease/Finding]
+Hyperglycemia [Disease/Finding]
+Hyperkalemia [Disease/Finding]
+Hypernatremia [Disease/Finding]
+Hypersensitivity [Disease/Finding]
+Hypersensitivity, Immediate [Disease/Finding]
+Hypertension [Disease/Finding]
+Hypocalcemia [Disease/Finding]
+Hypoglycemia [Disease/Finding]
+Hyponatremia [Disease/Finding]
+Hypoprothrombinemias [Disease/Finding]
+Immunologic Deficiency Syndromes [Disease/Finding]
+Immune System Diseases [Disease/Finding]
+Infant, Newborn, Diseases [Disease/Finding]
+Infant, Premature, Diseases [Disease/Finding]
+Infection [Disease/Finding]
+Intestinal Diseases [Disease/Finding]
+Kidney Calculi [Disease/Finding]
+Kidney Diseases [Disease/Finding]
+Kidney Failure, Acute [Disease/Finding]
+Kidney Failure, Chronic [Disease/Finding]
+Lacrimal Apparatus Diseases [Disease/Finding]
+Liver Cirrhosis [Disease/Finding]
+Liver Diseases [Disease/Finding]
+Lung Diseases [Disease/Finding]
+Lung Neoplasms [Disease/Finding]
+Magnesium Deficiency [Disease/Finding]
+Metabolic Diseases [Disease/Finding]
+Stomatognathic Diseases [Disease/Finding]
+Mouth Diseases [Disease/Finding]
+Muscle Hypotonia [Disease/Finding]
+Musculoskeletal Diseases [Disease/Finding]
+Mycoses [Disease/Finding]
+Congenital, Hereditary, and Neonatal Diseases and Abnormalities [Disease/Finding]
+Neoplasms [Disease/Finding]
+Neoplasms by Histologic Type [Disease/Finding]
+Neoplasms by Site [Disease/Finding]
+Neoplasms, Germ Cell and Embryonal [Disease/Finding]
+Neoplasms, Nerve Tissue [Disease/Finding]
+Nephrosis [Disease/Finding]
+Nephrotic Syndrome [Disease/Finding]
+Nervous System Diseases [Disease/Finding]
+Neurologic Manifestations [Disease/Finding]
+Nutrition Disorders [Disease/Finding]
+Nutritional and Metabolic Diseases [Disease/Finding]
+Opportunistic Infections [Disease/Finding]
+Osteoporosis [Disease/Finding]
+Paraganglioma [Disease/Finding]
+Parasitic Diseases [Disease/Finding]
+Pathologic Processes [Disease/Finding]
+Pheochromocytoma [Disease/Finding]
+Poisoning [Disease/Finding]
+Postoperative Complications [Disease/Finding]
+Psoriasis [Disease/Finding]
+Pulmonary Edema [Disease/Finding]
+Respiratory Tract Diseases [Disease/Finding]
+Respiratory Tract Neoplasms [Disease/Finding]
+Retroviridae Infections [Disease/Finding]
+RNA Virus Infections [Disease/Finding]
+Sexually Transmitted Diseases [Disease/Finding]
+Shock [Disease/Finding]
+Shock, Hemorrhagic [Disease/Finding]
+Signs and Symptoms [Disease/Finding]
+Skin Diseases [Disease/Finding]
+Skin Diseases, Genetic [Disease/Finding]
+Skin Diseases, Infectious [Disease/Finding]
+Skin Neoplasms [Disease/Finding]
+Substance Withdrawal Syndrome [Disease/Finding]
+Pathological Conditions, Signs and Symptoms [Disease/Finding]
+Tetany [Disease/Finding]
+Thoracic Neoplasms [Disease/Finding]
+Unconsciousness [Disease/Finding]
+Urinary Calculi [Disease/Finding]
+Urination Disorders [Disease/Finding]
+Male Urogenital Diseases [Disease/Finding]
+Urologic Diseases [Disease/Finding]
+Vaginal Diseases [Disease/Finding]
+Vaginitis [Disease/Finding]
+Vascular Diseases [Disease/Finding]
+Ventricular Fibrillation [Disease/Finding]
+Ventricular Outflow Obstruction [Disease/Finding]
+Virus Diseases [Disease/Finding]
+Vulvar Diseases [Disease/Finding]
+Vulvitis [Disease/Finding]
+Vulvovaginitis [Disease/Finding]
+Water-Electrolyte Imbalance [Disease/Finding]
+Wounds and Injuries [Disease/Finding]
+Inflammatory Bowel Diseases [Disease/Finding]
+Sexually Transmitted Diseases, Viral [Disease/Finding]
+Dry Eye Syndromes [Disease/Finding]
+Overdose [Disease/Finding]
+HIV Infections [Disease/Finding]
+Corneal Edema [Disease/Finding]
+Lentivirus Infections [Disease/Finding]
+AIDS-Related Opportunistic Infections [Disease/Finding]
+Kidney Failure [Disease/Finding]
+Skin Diseases, Viral [Disease/Finding]
+Skin and Connective Tissue Diseases [Disease/Finding]
+Skin Diseases, Eczematous [Disease/Finding]
+Skin Diseases, Papulosquamous [Disease/Finding]
+Neuroectodermal Tumors [Disease/Finding]
+Neuroendocrine Tumors [Disease/Finding]
+Neurobehavioral Manifestations [Disease/Finding]
+Delirium, Dementia, Amnestic, Cognitive Disorders [Disease/Finding]
+Substance-Related Disorders [Disease/Finding]
+Alcohol-Related Disorders [Disease/Finding]
+Coagulation Protein Disorders [Disease/Finding]
+Neurotoxicity Syndromes [Disease/Finding]
+Alcohol-Induced Disorders, Nervous System [Disease/Finding]
+Intracranial Hemorrhages [Disease/Finding]
+Alcohol-Induced Disorders [Disease/Finding]
+Pathological Conditions, Anatomical [Disease/Finding]
+Neuromuscular Manifestations [Disease/Finding]
+Discrete Subaortic Stenosis [Disease/Finding]
+basiliximab [Chemical/Ingredient]
+Carbohydrates [Chemical/Ingredient]
+Metolazone [Chemical/Ingredient]
+Proteins [Chemical/Ingredient]
+torsemide [Chemical/Ingredient]
+Dobutamine [Chemical/Ingredient]
+Dopamine [Chemical/Ingredient]
+Lipids [Chemical/Ingredient]
+Vitamin D [Chemical/Ingredient]
+Vitamin K [Chemical/Ingredient]
+Magnesium [Chemical/Ingredient]
+Glucose [Chemical/Ingredient]
+Hydrochloric Acid [Chemical/Ingredient]
+Calcifediol [Chemical/Ingredient]
+Calcium [Chemical/Ingredient]
+Calcium Chloride [Chemical/Ingredient]
+Sodium Lactate [Chemical/Ingredient]
+Lactates [Chemical/Ingredient]
+Atracurium [Chemical/Ingredient]
+Nystatin [Chemical/Ingredient]
+Sulbactam [Chemical/Ingredient]
+Fatty Acids [Chemical/Ingredient]
+Chlorothiazide [Chemical/Ingredient]
+Cholecalciferol [Chemical/Ingredient]
+Foscarnet [Chemical/Ingredient]
+Magnesium Chloride [Chemical/Ingredient]
+Sodium Chloride [Chemical/Ingredient]
+Tacrolimus [Chemical/Ingredient]
+Alkaloids [Chemical/Ingredient]
+Phenethylamines [Chemical/Ingredient]
+Macrolides [Chemical/Ingredient]
+Anions [Chemical/Ingredient]
+Benzothiadiazines [Chemical/Ingredient]
+Biogenic Monoamines [Chemical/Ingredient]
+Hexoses [Chemical/Ingredient]
+Quinazolines [Chemical/Ingredient]
+Globulins [Chemical/Ingredient]
+Acids [Chemical/Ingredient]
+Acids, Acyclic [Chemical/Ingredient]
+Acids, Noncarboxylic [Chemical/Ingredient]
+Lactams [Chemical/Ingredient]
+Lactones [Chemical/Ingredient]
+Organic Chemicals [Chemical/Ingredient]
+Amides [Chemical/Ingredient]
+Organophosphorus Compounds [Chemical/Ingredient]
+Phosphorus Acids [Chemical/Ingredient]
+Chlorides [Chemical/Ingredient]
+Catecholamines [Chemical/Ingredient]
+Steroids [Chemical/Ingredient]
+Phosphonoacetic Acid [Chemical/Ingredient]
+Biogenic Amines [Chemical/Ingredient]
+Sterols [Chemical/Ingredient]
+Cholestenes [Chemical/Ingredient]
+Chlorine Compounds [Chemical/Ingredient]
+Calcium Compounds [Chemical/Ingredient]
+Magnesium Compounds [Chemical/Ingredient]
+Naphthalenes [Chemical/Ingredient]
+Bicyclo Compounds, Heterocyclic [Chemical/Ingredient]
+Naphthoquinones [Chemical/Ingredient]
+Membrane Lipids [Chemical/Ingredient]
+Amino Acids, Peptides, and Proteins [Chemical/Ingredient]
+Sodium Compounds [Chemical/Ingredient]
+Peptides [Chemical/Ingredient]
+Glycosides [Chemical/Ingredient]
+Elements [Chemical/Ingredient]
+Blood Coagulation Factors [Chemical/Ingredient]
+Secosteroids [Chemical/Ingredient]
+Immunoglobulins [Chemical/Ingredient]
+Blood Proteins [Chemical/Ingredient]
+Terpenes [Chemical/Ingredient]
+Recombinant Proteins [Chemical/Ingredient]
+Isoquinolines [Chemical/Ingredient]
+Hydrocarbons [Chemical/Ingredient]
+Hydroxy Acids [Chemical/Ingredient]
+Hydroxycholecalciferols [Chemical/Ingredient]
+Metals, Alkaline Earth [Chemical/Ingredient]
+Metals, Light [Chemical/Ingredient]
+Ethylamines [Chemical/Ingredient]
+Sulfites [Chemical/Ingredient]
+Sulfonamides [Chemical/Ingredient]
+Sulfones [Chemical/Ingredient]
+Heterocyclic Compounds [Chemical/Ingredient]
+Acetic Acids [Chemical/Ingredient]
+Carboxylic Acids [Chemical/Ingredient]
+Bridged Compounds [Chemical/Ingredient]
+Phosphorus Compounds [Chemical/Ingredient]
+Polycyclic Hydrocarbons, Aromatic [Chemical/Ingredient]
+Amines [Chemical/Ingredient]
+Bicyclo Compounds [Chemical/Ingredient]
+Fatty Acids, Volatile [Chemical/Ingredient]
+Phosphonic Acids [Chemical/Ingredient]
+Quinones [Chemical/Ingredient]
+Cholestanes [Chemical/Ingredient]
+Ions [Chemical/Ingredient]
+Diterpenes [Chemical/Ingredient]
+Immunoglobulin Fragments [Chemical/Ingredient]
+Immunoproteins [Chemical/Ingredient]
+Hydrocarbons, Aromatic [Chemical/Ingredient]
+Metals [Chemical/Ingredient]
+Serum Globulins [Chemical/Ingredient]
+Sulfur Compounds [Chemical/Ingredient]
+Monosaccharides [Chemical/Ingredient]
+Inorganic Chemicals [Chemical/Ingredient]
+Heterocyclic Compounds, Bridged-Ring [Chemical/Ingredient]
+Heterocyclic Compounds, 1-Ring [Chemical/Ingredient]
+Heterocyclic Compounds, 2-Ring [Chemical/Ingredient]
+Electrolytes [Chemical/Ingredient]
+Hydrocarbons, Cyclic [Chemical/Ingredient]
+Alveolar Surface Tension Alteration [PE]
+Alveolar Surface Tension Reduction [PE]
+Arterial Vasoconstriction [PE]
+Arterial Vasodilation [PE]
+Blood & Lymphatic Fluid Function Alteration [PE]
+Carbohydrate Metabolism Alteration [PE]
+Cardiac Contractility Alteration [PE]
+Cardiac Rate Alteration [PE]
+Cardiovascular Activity Alteration [PE]
+Cell Wall Alteration [PE]
+Cellular Activity Alteration [PE]
+Cellular Cycle Alteration [PE]
+Cellular Growth Phase Alteration [PE]
+Cellular Growth Phase Arrest [PE]
+Cellular Structure Alteration [PE]
+Cellular Synthetic Activity Alteration [PE]
+Coagulation Factor Activity Alteration [PE]
+Coagulation Factor Alteration [PE]
+DNA Replication Alteration [PE]
+Decreased Cell Wall Integrity [PE]
+Decreased Cytokine Activity [PE]
+Decreased Cytokine Production [PE]
+Decreased DNA Replication [PE]
+Decreased Hematopoiesis [PE]
+Decreased Immunologically Active Molecule Activity [PE]
+Decreased Immunologically Active Molecule Production [PE]
+Decreased Intravascular Volume [PE]
+Decreased Lymphocyte Cell Production [PE]
+Decreased Protein Synthesis [PE]
+Decreased Respiratory Secretion Viscosity [PE]
+Decreased Striated Muscle Contraction [PE]
+Decreased T Lymphocyte Production [PE]
+Electrical Activity Alteration [PE]
+Generalized Systemic Effects [PE]
+Glycogen Metabolism Alteration [PE]
+Hematologic Activity Alteration [PE]
+Hematological Cell Quantity Alteration [PE]
+Hematopoiesis Alteration [PE]
+Hemic/Lymphatic Activity Alteration [PE]
+Hemostasis Alteration [PE]
+Immunologic Activity Alteration [PE]
+Immunologically Active Molecule Activity Alteration [PE]
+Immunologically Active Molecule Production Alteration [PE]
+Increased Cardiac Muscle Organized Electrical Activity [PE]
+Increased Coagulation Factor Activity [PE]
+Increased Distal Tubule H+ Excretion [PE]
+Increased Distal Tubule K+ Excretion [PE]
+Increased Distal Tubule Na+ Excretion [PE]
+Increased Glycogenesis [PE]
+Increased Intravascular Volume [PE]
+Increased Loop of Henle Ca++ Excretion [PE]
+Increased Loop of Henle Cl- Excretion [PE]
+Increased Loop of Henle K+ Excretion [PE]
+Increased Loop of Henle Mg++ Excretion [PE]
+Increased Loop of Henle Na+ Excretion [PE]
+Increased Metabolic Rate [PE]
+Increased Muscular System Organized Electrical Activity [PE]
+Increased Organized Electrical Activity [PE]
+Increased Renal Ca++ Excretion [PE]
+Increased Renal Cl- Excretion [PE]
+Increased Renal H+ Excretion [PE]
+Increased Renal HCO3- Excretion [PE]
+Increased Renal Ion Excretion [PE]
+Increased Renal K+ Excretion [PE]
+Increased Renal Mg++ Excretion [PE]
+Increased Renal Na+ Excretion [PE]
+Intravascular Volume Alteration [PE]
+Metabolic Activity Alteration [PE]
+Metabolic Rate Alteration [PE]
+Musculoskeletal Activity Alteration [PE]
+Nervous System Activity Alteration [PE]
+Nucleic Acid Replication Alteration [PE]
+Organ System Specific Effects [PE]
+Organic Ion Metabolism Alteration [PE]
+Organic Ion Synthesis Alteration [PE]
+Organized Electrical Activity Alteration [PE]
+Physiological Effects [PE]
+Positive Chronotropy [PE]
+Positive Inotropy [PE]
+Renal Arterial Vasodilation [PE]
+Renal Ion Transport Alteration [PE]
+Renal/Urological Activity Alteration [PE]
+Respiratory Secretion Alteration [PE]
+Respiratory Secretion Viscosity Alteration [PE]
+Respiratory/Pulmonary Activity Alteration [PE]
+Striated Muscle Metabolic Alteration [PE]
+Striated Muscle Anabolism Alteration [PE]
+Striated Muscle Contraction Alteration [PE]
+Translation Alteration [PE]
+Vascular Tone Alteration [PE]
+Vasoconstriction [PE]
+Vasodilation [PE]
+Unknown Cellular or Molecular Interaction [MoA]
+Adrenergic beta1-Agonists [MoA]
+Systemic Arterial Vasoconstriction [PE]
+Sterol Synthesis Inhibitors [MoA]
+Ergosterol Synthesis Inhibitors [MoA]
+Dose Forms [Dose Form]
+Pregnancy [Disease/Finding]
+Physiologic States [Disease/Finding]
+Antibody Interactions [MoA]
+Interleukin 2 Receptor Interactions [MoA]
+Interleukin 2 Receptor Antagonists [MoA]
+Drug Products by VA Class
+Drug Products by Generic Ingredient Combinations
+B [Preparations]
+C [Preparations]
+D [Preparations]
+E [Preparations]
+F [Preparations]
+G [Preparations]
+M [Preparations]
+N [Preparations]
+S [Preparations]
+T [Preparations]
+V [Preparations]
+Blood Coagulation Disorders, Inherited [Disease/Finding]
+Malnutrition [Disease/Finding]
+Genetic Diseases, Inborn [Disease/Finding]
+Glucose Metabolism Disorders [Disease/Finding]
+beta-Lactams [Chemical/Ingredient]
+Antibodies, Monoclonal [Chemical/Ingredient]
+Antibodies [Chemical/Ingredient]
+Recombinant Fusion Proteins [Chemical/Ingredient]
+Penicillins [Chemical/Ingredient]
+Biological Factors [Chemical/Ingredient]
+Aza Compounds [Chemical/Ingredient]
+Phytol [Chemical/Ingredient]
+Macrocyclic Compounds [Chemical/Ingredient]
+Polycyclic Compounds [Chemical/Ingredient]
+Benzylisoquinolines [Chemical/Ingredient]
+cisatracurium [Chemical/Ingredient]
+Peptide Fragments [Chemical/Ingredient]
+Vascular Alterations [PE]
+Cellular Growth Phase Reduction [PE]
+Polysaccharide Metabolism Alteration [PE]
+CALCIFEDIOL
+DEXTROSE/PERITONEAL DIALYSIS SOLUTION
+DIGOXIN IMMUNE FAB
+CISATRACURIUM
+[AM000] ANTIMICROBIALS
+[AM700] ANTIFUNGALS
+[IR000] IRRIGATION/DIALYSIS SOLUTIONS
+[IR200] PERITONEAL DIALYSIS SOLUTIONS
+Injectable Solution [Dose Form]
+Intraperitoneal Solution [Dose Form]
+Liquid [Dose Form]
+Oral Suspension [Dose Form]
+Orderable Drug Form [Dose Form]
+Solution [Dose Form]
+Suspension [Dose Form]
+SODIUM CHLORIDE
+NYSTATIN
+CALCIUM
+MAGNESIUM
+CHOLECALCIFEROL
+CHLOROTHIAZIDE
+DEXTROSE
+CALCIUM CHLORIDE
+METOLAZONE
+MAGNESIUM CHLORIDE
+DOPAMINE HYDROCHLORIDE
+SODIUM LACTATE
+VITAMIN K
+DIGOXIN IMMUNE FAB (OVINE)
+GLUCOSE
+DOBUTAMINE
+DOPAMINE
+SULBACTAM
+FOSCARNET
+TORSEMIDE
+TACROLIMUS
+CISATRACURIUM BESYLATE
+BASILIXIMAB
+
+
+Thiazides [Chemical/Ingredient]
+Immunoglobulin Fab Fragments [Chemical/Ingredient]
+Renal Insufficiency [Disease/Finding]
+Renal Insufficiency, Chronic [Disease/Finding]
+Quinazolinones [Chemical/Ingredient]
+Diuresis Alteration [PE]
+Increased Diuresis [PE]
+Increased Diuresis at Loop of Henle [PE]
+Cholinergic Interactions [MoA]
+Cholinergic Antagonists [MoA]
+Decreased Immunologic Activity [PE]
+Competitive Cholinergic Nicotinic Antagonists [MoA]
+Cholinergic Neuromuscular Nicotinic Antagonists [MoA]
+Coagulation Activity Alteration [PE]
+Increased Coagulation Activity [PE]
+ECULIZUMAB
+Blood Pressure Alteration [PE]
+Decreased Blood Pressure [PE]
+Azabicyclo Compounds [Chemical/Ingredient]
+Dopamine Hydrochloride [Chemical/Ingredient]
+digoxin antibodies Fab fragments [Chemical/Ingredient]
+eculizumab [Chemical/Ingredient]
+Nephrolithiasis [Disease/Finding]
+Urolithiasis [Disease/Finding]
+Female Urogenital Diseases [Disease/Finding]
+Acute Kidney Injury [Disease/Finding]
+BELATACEPT
+entity
+continuant
+occurrent
+independent continuant
+spatial region
+temporal region
+spatiotemporal region
+process
+disposition
+realizable entity
+quality
+specifically dependent continuant
+role
+object aggregate
+three-dimensional spatial region
+site
+object
+generically dependent continuant
+function
+process boundary
+one-dimensional temporal region
+material entity
+immaterial entity
+zero-dimensional temporal region
+history
+anatomical entity
+anatomical structure
+material anatomical entity
+cell part
+multicellular anatomical structure
+biological entity
+electron
+antihypotensive agent
+peptide
+formaldehyde
+penicillin
+alkaline earth metal atom
+calcium atom
+cephalosporin
+molecular entity
+cyclic amide
+chemical entity
+group
+heterocyclic antibiotic
+organic heterocyclic compound
+hydroxides
+oxoacid
+monoatomic ion
+ion
+lactam
+molecule
+nitrogen atom
+organonitrogen heterocyclic antibiotic
+nonmetal atom
+oxygen molecular entity
+penicillanic acids
+sulfur molecular entity
+organic heterobicyclic compound
+carbon atom
+beta-lactam antibiotic
+amide
+fundamental particle
+monoatomic entity
+atom
+atomic nucleus
+nucleon
+elemental molecular entity
+organosulfur compound
+heteroorganic entity
+pnictogen
+pnictogen molecular entity
+chalcogen molecular entity
+carbon group element atom
+main group element atom
+metal atom
+s-block element atom
+p-block element atom
+carboxylic acid
+main group molecular entity
+carbon group molecular entity
+cyclic compound
+hydrogen molecular entity
+bicyclic compound
+heteropolycyclic compound
+heterobicyclic compound
+s-block molecular entity
+p-block molecular entity
+biomacromolecule
+information biomacromolecule
+organic cyclic compound
+macromolecule
+organonitrogen compound
+carbon oxoacid
+beta-lactam
+penams
+lepton
+baryon
+fermion
+subatomic particle
+composite particle
+hadron
+nuclear particle
+polyatomic entity
+pseudoketone
+carbonyl compound
+organic oxo compound
+cyclic pseudoketone
+organochalcogen compound
+organooxygen compound
+acid
+heteroatomic molecular entity
+carboxamide
+organonitrogen heterocyclic compound
+organosulfur heterocyclic compound
+organic heteropolycyclic compound
+cephem
+organic amino compound
+organic molecular entity
+role
+chemical role
+nitrogen molecular entity
+heterocyclic compound
+organic molecule
+cell line cell
+immortal cell line cell
+cell line
+immortal cell line
+cell
+primary cultured cell
+native cell
+early embryonic cell
+cultured cell
+neuroblast
+stem cell
+hematopoietic stem cell
+erythroid progenitor cell
+germ line cell
+monoblast
+neuronal stem cell
+multi fate stem cell
+common myeloid progenitor
+megakaryocyte-erythroid progenitor cell
+common lymphoid progenitor
+non-terminally differentiated cell
+myoblast
+fibroblast
+epithelial cell
+duct epithelial cell
+blood vessel endothelial cell
+non-branched duct epithelial cell
+columnar/cuboidal epithelial cell
+squamous epithelial cell
+blood cell
+T cell
+granulocyte
+mature neutrophil
+endothelial cell
+neurectodermal cell
+mesenchymal stem cell
+fibrocyte
+secretory cell
+protein secreting cell
+contractile cell
+myofibroblast cell
+muscle cell
+smooth muscle cell
+electrically active cell
+lining cell
+barrier cell
+motile cell
+ectodermal cell
+mesodermal cell
+single nucleate cell
+erythrocyte
+phagocyte
+macrophage
+B cell
+brush border epithelial cell
+transitional epithelial cell
+eukaryotic cell
+stuff accumulating cell
+oxygen accumulating cell
+vascular associated smooth muscle cell
+animal zygote
+electrically responsive cell
+electrically signaling cell
+excretory cell
+dendritic cell
+defensive cell
+stromal cell
+smooth muscle myoblast
+neuron
+lymphocyte
+proerythroblast
+animal cell
+basophilic erythroblast
+polychromatophilic erythroblast
+orthochromatic erythroblast
+granulocyte monocyte progenitor cell
+reticulocyte
+promonocyte
+angioblastic mesenchymal cell
+monocyte
+experimentally modified cell in vitro
+germ cell
+natural killer cell
+supportive cell
+kidney granular cell
+mesangial cell
+glomerular visceral epithelial cell
+fenestrated cell
+pericyte cell
+muscle precursor cell
+somatic stem cell
+urothelial cell
+leukocyte
+myeloid cell
+erythroid lineage cell
+erythroblast
+myeloid leukocyte
+neutrophil
+pro-NK cell
+pro-B cell
+pro-T cell
+hematopoietic multipotent progenitor cell
+lymphoid lineage restricted progenitor cell
+myeloid lineage restricted progenitor cell
+mononuclear cell
+classical monocyte
+elicited macrophage
+suppressor macrophage
+inflammatory macrophage
+tissue-resident macrophage
+alternatively activated macrophage
+lymphocyte of B lineage
+hematopoietic cell
+conventional dendritic cell
+CD34-positive, CD38-positive common myeloid progenitor OR CD34-positive, CD38-positive common lymphoid progenitor
+interstitial dendritic cell
+CD7-negative lymphoid progenitor OR granulocyte monocyte progenitor
+CD34-positive, CD38-positive common lymphoid progenitor
+CD34-positive, CD38-negative hematopoietic stem cell
+CD34-positive, CD38-positive common myeloid progenitor
+CD7-negative lymphoid progenitor cell
+bone cell
+common myeloid progenitor, CD34-positive
+hematopoietic oligopotent progenitor cell, lineage-negative
+innate lymphoid cell
+group 1 innate lymphoid cell
+macrophage dendritic cell progenitor
+hematopoietic lineage restricted progenitor cell
+hematopoietic oligopotent progenitor cell
+CD34-positive, CD38-negative multipotent progenitor cell
+meso-epithelial cell
+nongranular leukocyte
+bone marrow cell
+endothelial cell of vascular tree
+capillary endothelial cell
+extraglomerular mesangial cell
+glomerular endothelial cell
+monopoietic cell
+renal beta-intercalated cell
+nucleate cell
+epithelial cell of distal tubule
+epithelial cell of proximal tubule
+brush border cell of the proximal tubule
+neural cell
+connective tissue cell
+embryonic cell
+somatic cell
+CD11b-positive dendritic cell
+cardiocyte
+kidney epithelial cell
+interrenal epithelial cell
+renal filtration cell
+mesonephric glomerular visceral epithelial cell
+metanephric glomerular visceral epithelial cell
+vein endothelial cell
+embryonic blood vessel endothelial progenitor cell
+renal cortical epithelial cell
+kidney cortical cell
+renal principal cell
+renal intercalated cell
+renal alpha-intercalated cell
+non-striated muscle cell
+hematopoietic precursor cell
+visceral muscle cell
+precursor cell
+mesonephric nephron tubule epithelial cell
+pronephric nephron tubule epithelial cell
+metanephric nephron tubule epithelial cell
+endothelial cell of arteriole
+endothelial cell of artery
+epithelial cell of nephron
+epithelial cell of glomerular capsule
+epithelial cell of visceral layer of glomerular capsule
+parietal epithelial cell
+epithelial cell of intermediate tubule
+kidney collecting duct epithelial cell
+nephron tubule epithelial cell
+kidney cell
+kidney interstitial cell
+kidney medulla cell
+kidney pelvis cell
+kidney tubule cell
+kidney glomerular epithelial cell
+kidney medulla collecting duct epithelial cell
+kidney inner medulla collecting duct epithelial cell
+kidney outer medulla collecting duct epithelial cell
+kidney cortex collecting duct epithelial cell
+kidney papillary duct principal epithelial cell
+inner renal cortex cell
+papillary tips cell
+ureteral cell
+kidney nerve cell
+kidney corpuscule cell
+kidney cortex tubule cell
+kidney outer medulla cell
+kidney inner medulla cell
+juxtaglomerular complex cell
+kidney cortex interstitial cell
+kidney medulla interstitial cell
+kidney interstitial myofibroblast
+kidney interstitial fibroblast
+kidney interstitial fibrocyte
+kidney interstitial alternatively activated macrophage
+kidney interstitial inflammatory macrophage
+kidney interstitial suppressor macrophage
+kidney resident macrophage
+kidney resident dendritic cell
+kidney pelvis smooth muscle cell
+kidney pelvis urothelial cell
+ureter urothelial cell
+kidney cortex collecting duct principal cell
+kidney cortex collecting duct intercalated cell
+kidney outer medulla collecting duct principal cell
+kidney outer medulla collecting duct intercalated cell
+kidney inner medulla collecting duct principal cell
+kidney inner medulla collecting duct intercalated cell
+kidney papillary duct intercalated cell
+kidney papillary duct principal cell
+glomerular mesangial cell
+glomerular cell
+kidney connecting tubule epithelial cell
+kidney inner medulla interstitial cell
+kidney outer medulla interstitial cell
+kidney proximal convoluted tubule epithelial cell
+kidney proximal straight tubule epithelial cell
+kidney distal convoluted tubule epithelial cell
+macula densa epithelial cell
+kidney blood vessel cell
+kidney arterial blood vessel cell
+kidney capillary endothelial cell
+kidney venous blood vessel cell
+kidney loop of Henle epithelial cell
+ureter smooth muscle cell
+glomerular capillary endothelial cell
+kidney afferent arteriole cell
+kidney efferent arteriole cell
+kidney loop of Henle ascending limb epithelial cell
+kidney loop of Henle descending limb epithelial cell
+peritubular capillary endothelial cell
+vasa recta cell
+kidney cortex artery cell
+kidney cortex vein cell
+kidney artery smooth muscle cell
+kidney arteriole smooth muscle cell
+kidney venous system smooth muscle cell
+kidney afferent arteriole endothelial cell
+kidney afferent arteriole smooth muscle cell
+kidney efferent arteriole endothelial cell
+kidney efferent arteriole smooth muscle cell
+kidney loop of Henle thick ascending limb epithelial cell
+kidney loop of Henle thin ascending limb epithelial cell
+kidney loop of Henle medullary thick ascending limb epithelial cell
+kidney loop of Henle cortical thick ascending limb epithelial cell
+kidney loop of Henle thin descending limb epithelial cell
+kidney outer medulla peritubular capillary cell
+kidney cortex peritubular capillary cell
+inner renal medulla vasa recta cell
+outer renal medulla vasa recta cell
+vasa recta ascending limb cell
+arcuate artery cell
+interlobular artery cell
+arcuate vein cell
+interlobular vein cell
+inner medulla vasa recta ascending limb cell
+outer medulla vasa recta ascending limb cell
+arcuate artery endothelial cell
+arcuate artery smooth muscle cell
+interlobulary artery endothelial cell
+interlobulary artery smooth muscle cell
+arcuate vein endothelial cell
+arcuate vein smooth muscle cell
+interlobulary vein endothelial cell
+interlobulary vein smooth muscle cell
+kidney collecting duct cell
+vasa recta descending limb cell
+inner medulla vasa recta descending limb cell
+outer medulla vasa recta descending limb cell
+renal interstitial pericyte
+kidney collecting duct principal cell
+kidney collecting duct intercalated cell
+bone marrow hematopoietic cell
+clinical measurement
+cardiovascular measurement
+heart rate
+blood pressure measurement
+systolic blood pressure
+diastolic blood pressure
+left ventricular diastolic blood pressure
+left ventricular systolic blood pressure
+calculated blood pressure
+mean arterial blood pressure
+developed blood pressure
+body temperature
+heart morphological measurement
+heart weight
+left ventricular developed pressure
+body morphological measurement
+blood chemistry measurement
+calculated differential white blood cell count
+blood hemoglobin level
+white blood cell count
+blood protein measurement
+platelet count
+blood measurement
+blood cell measurement
+blood urea nitrogen level
+blood lipid measurement
+blood total cholesterol level
+blood high density lipoprotein cholesterol level
+blood low density lipoprotein cholesterol level
+plasma total protein level
+blood electrolyte measurement
+blood enzyme activity level
+organ morphological measurement
+heart wet weight
+heart dry weight
+heart left ventricle wet weight
+heart right ventricle wet weight
+calculated heart weight
+heart weight to body weight ratio
+heart weight as percentage of body weight
+aorta weight
+blood vessel measurement
+renal/urinary measurement
+kidney weight
+right kidney wet weight
+left kidney wet weight
+single kidney wet weight
+both kidneys wet weight
+kidney morphological measurement
+heart right ventricle weight to left ventricle weight ratio
+blood granulocyte count
+blood lipoprotein level
+urine creatinine level
+muscle morphological measurement
+urine albumin level
+both kidneys wet weight as percentage of body weight
+calculated kidney weight
+kidney wet weight
+kidney dry weight
+blood vessel diameter
+ejection fraction
+end-systolic volume
+circulation measurement
+blood flow rate
+cardiac output measurement
+arterial blood flow rate
+venous blood flow rate
+vessel shear stress measurement
+in vitro vessel shear stress
+in vivo vessel shear stress
+activated partial thromboplastin time
+blood vessel dilation measurement
+lumen diameter at maximum dilation expressed as percent of baseline
+blood vessel constriction measurement
+lumen diameter at maximum constriction expressed as percent of baseline
+systemic vascular resistance (SVR)
+end-diastolic volume
+stroke volume
+cell measurement
+cardiomyocyte count
+blood vessel endothelial cell count
+heart electrical conduction measurement
+RR interval
+PR interval
+ST interval
+QT interval
+heart wall thickness
+aorta wall thickness
+heart posterior wall thickness
+heart left ventricle posterior wall thickness
+heart right ventricle posterior wall thickness
+urine measurement
+urine specific gravity
+P wave amplitude
+P wave duration
+Q wave depth
+Q wave duration
+QRS duration
+QRS amplitude
+QTC interval
+R wave amplitude
+R wave duration
+S wave amplitude
+S wave duration
+ST amplitude
+ST slope
+ST wave displacement
+T wave amplitude
+PP interval
+pulse pressure
+pulse
+heart atrium morphological measurement
+left atrium weight
+right atrium weight
+left atrium volume
+right atrium volume
+heart ventricle morphological measurement
+both kidneys wet weight to body weight ratio
+serum triglyceride level
+serum total cholesterol level
+blood differential white blood cell count
+blood granulocyte count to total leukocyte count ratio
+blood eosinophil count to total leukocyte count ratio
+blood neutrophil count to total leukocyte count ratio
+blood lymphocyte count to total leukocyte count ratio
+total serum bilirubin level
+serum bicarbonate level
+serum chloride level
+blood glomerular filtration rate
+blood glomerular filtration rate, Diet in Renal Disease Formula (MDRD)
+blood glomerular filtration rate, Chronic Kidney Disease Epidemiology Collaboration formula (CKE-EPI)
+blood glomerular filtration rate, May Quadratic formula
+blood glomerular filtration rate, Schwartz formula
+serum potassium level
+serum sodium level
+serum calcium level
+pulmonary arterial diastolic blood pressure
+pulmonary arterial systolic blood pressure
+heart left ventricle weight to body weight ratio
+absolute change in mean arterial blood pressure
+absolute change in heart rate
+glomerulus count
+heart left ventricle dry weight
+serum phosphate level
+serum glucose level
+serum albumin level
+serum alanine aminotransferase activity level
+serum alkaline phosphatase activity level
+serum aspartate aminotransferase activity level
+urine protein level
+left ventricular end-systolic blood pressure
+left ventricular end-diastolic blood pressure
+absolute change in systolic blood pressure
+absolute change in diastolic blood pressure
+single kidney wet weight to body weight ratio
+single kidney wet weight as percentage of body weight
+heart right ventricle dry weight
+heart contraction measurement
+time to onset of heart contraction
+time to peak heart contraction
+heart contraction pressure
+organ measurement
+heart measurement
+heart effluent measurement
+heart effluent volume
+timed heart effluent volume
+heart effluent enzyme level
+heart effluent lactate dehydrogenase activity level
+organ lesion measurement
+heart lesion measurement
+infarction measurement
+heart infarction measurement
+heart left ventricle infarction measurement
+infarction size
+heart infarction size
+heart left ventricle infarction size
+calculated heart left ventricle infarction size
+heart left ventricle infarction size as percentage of total heart left ventricle size
+heart ventricle weight
+heart infarction weight
+heart infarction area
+heart left ventricle infarction weight
+heart left ventricle infarction area
+calculated heart left ventricle infarction area
+calculated heart left ventricle infarction weight
+heart left ventricle infarction weight as percentage of total heart left ventricle weight
+calculated heart infarction weight
+absolute change in body temperature
+blood vessel resistance measurement
+pulmonary vascular resistance (PVR)
+calculated pulmonary vascular resistance
+calculated pulmonary vascular resistance normalized to body weight
+blood vessel endothelium measurement
+calculated blood vessel endothelium measurement
+FAPGG metabolism-surface area product
+methylene blue metabolism-surface area product without auto-oxidation
+methylene blue metabolism-surface area product after auto-oxidation
+methylene blue to FAPGG metabolism-surface area product ratio
+blood vessel contractile force measurement
+blood vessel maximum contractile force
+maximum contractile force per wet weight of vessel
+chemical response/sensitivity measurement
+calculated blood vessel contractile force measurement
+concentration of phenylephrine at which the force of blood vessel contraction is half the maximum value (EC50)
+logarithm of the concentration of phenylephrine at which the force of blood vessel contraction is half the maximum value (Log EC50)
+calculated blood vessel dilation force reduction measurement
+concentration of acetylcholine at which the reduction in force during dilation of a blood vessel is half the maximum value (EC50)
+logarithm of the concentration of acetylcholine at which the reduction in force during dilation of a blood vessel is half the maximum value (Log EC50)
+concentration of sodium nitroprusside at which the reduction in force during dilation of a blood vessel is half the maximum value (EC50)
+logarithm of the concentration of sodium nitroprusside at which the reduction in force during dilation of a blood vessel is half the maximum value (Log EC50)
+maximum contractile force per wet weight of aorta
+blood vessel dilation force reduction measurement
+blood vessel dilation expressed as percent of force at maximum constriction
+acetylcholine-induced blood vessel dilation expressed as percent of force at maximum constriction
+sodium nitroprusside-induced blood vessel dilation expressed as percent of force at maximum constriction
+hypoxia-induced blood vessel dilation expressed as percent of force at maximum constriction
+slope measurement of chemical-induced contraction
+fast-slope measurement of chemical-induced contraction
+slow-slope measurement of chemical-induced contraction
+acetylcholine response/sensitivity measurement
+phenylephrine response/sensitivity measurement
+sodium nitroprusside response/sensitivity measurement
+percent change in heart rate
+change in calculated blood pressure
+change in developed blood pressure
+percent change in developed blood pressure
+change in systolic blood pressure
+percent change in systolic blood pressure
+change in arterial blood flow rate
+percent change in arterial blood flow rate
+absolute change in arterial blood flow rate
+percent change in left ventricular developed pressure
+change in left ventricular developed pressure
+change in left ventricular systolic blood pressure
+percent change in left ventricular systolic blood pressure
+heart effluent lactate dehydrogenase activity level normalized to heart weight
+heart left ventricle weight
+heart right ventricle weight
+mean pulmonary arterial blood pressure
+pulmonary arterial blood pressure measurement
+organ tumorous lesion measurement
+organ non-tumorous lesion measurement
+heart non-tumorous lesion measurement
+heart tumorous lesion measurement
+kidney measurement
+renal blood flow rate
+renal arterial blood flow rate
+renal venous blood flow rate
+heart right ventricle weight to body weight ratio
+heart right ventricle weight as a percentage of body weight
+heart left ventricle morphological measurement
+heart right ventricle morphological measurement
+blood vessel lesion measurement
+calculated blood vessel diameter measurement
+blood vessel wall thickness
+calculated blood vessel wall thickness measurement
+artery wall thickness
+calculated artery wall thickness measurement
+artery diameter
+blood vessel inner diameter
+blood vessel outer diameter
+artery inner diameter
+artery outer diameter
+calculated artery diameter measurement
+artery measurement
+artery lesion measurement
+calculated artery lesion measurement
+calculated blood vessel lesion measurement
+blood vessel wall thickness to blood vessel inner diameter ratio
+artery wall thickness to artery inner diameter ratio
+calculated artery inner diameter measurement
+ventricle contraction measurement
+heart left ventricular end-diastolic diameter
+heart left ventricle end-systolic diameter
+calculated heart left ventricle morphological measurement
+heart left ventricle fractional shortening
+heart left ventricle anterior wall thickness
+heart ventricle septal wall thickness
+heart left ventricle relative wall thickness
+heart left ventricle end-diastolic relative wall thickness
+heart anterior wall thickness
+calculated heart wall thickness measurement
+heart relative wall thickness
+heart ventricle relative wall thickness
+mean velocity of circumferential fiber shortening
+heart right ventricle anterior wall thickness
+superficial glomerulus count
+count of superficial glomeruli directly contacting the kidney surface
+count of superficial glomeruli not directly contacting the kidney surface
+heart infarction volume
+change in diastolic blood pressure
+percent change in diastolic blood pressure
+absolute change in left ventricular systolic blood pressure
+head temperature
+core body temperature
+calculated heart left ventricle weight
+calculated heart right ventricle weight
+calculated heart right ventricle morphological measurement
+cerebral artery inner diameter
+anterior cerebral artery inner diameter
+middle cerebral artery inner diameter
+posterior cerebral artery inner diameter
+kidney lesion measurement
+kidney non-tumorous lesion measurement
+kidney tumorous lesion measurement
+kidney glomerulosclerotic lesion measurement
+calculated kidney glomerulosclerotic lesion measurement
+index of glomerular damage
+muscle measurement
+kidney glomerulus morphological measurement
+kidney glomerulus diameter
+calculated renal blood flow rate
+absolute change in renal blood flow rate
+kidney glomerulosclerotic lesion count
+kidney protein/peptide composition measurement
+renal cortex measurement
+renal medulla measurement
+renal medulla protein measurement
+renal cortex protein measurement
+calculated kidney protein composition measurement
+calculated renal cortex protein composition measurement
+calculated renal medulla protein composition measurement
+kidney TRPV4 protein level to beta-actin protein level ratio
+renal cortex TRPV4 protein level to beta-actin protein level ratio
+renal medulla TRPV4 protein level to beta-actin protein level ratio
+calculated cerebral artery inner diameter measurement
+calculated middle cerebral artery inner diameter measurement
+percent change in middle cerebral artery inner diameter
+heart left ventricle end-diastolic area
+heart left ventricle end-systolic area
+heart weight to tibia length ratio
+both kidneys wet weight to tibia length ratio
+change in mean arterial blood pressure to change in intracerebroventricular sodium concentration ratio
+change in heart rate to change in intracerebroventricular sodium concentration ratio
+ratio of change in renal blood flow to change in renal perfusion pressure
+kidney fibrotic lesion measurement
+kidney fibrotic lesion size measurement
+kidney fibrotic lesion area measurement
+calculated kidney fibrotic lesion area measurement
+kidney fibrotic lesion area to total kidney area ratio
+kidney sclerotic glomeruli count to total glomeruli count ratio
+total heart ventricle weight
+calculated total heart ventricle weight
+total heart ventricle weight as a percentage of body weight
+artery lumen measurement
+artery lumen area
+artery wall measurement
+artery tunica media measurement
+artery tunica media area
+artery tunica media width
+artery neointimal hyperplastic lesion area
+calculated artery neointimal hyperplastic lesion area
+artery neointimal hyperplastic lesion area to total wall area ratio
+lesioned artery residual lumen area
+both kidneys dry weight
+single kidney dry weight
+aorta measurement
+aorta morphological measurement
+blood flow velocity
+arterial blood flow velocity
+aortic blood flow velocity
+aortic blood flow measurement
+aortic blood flow rate
+peak aortic velocity
+heart isovolumetric relaxation time
+heart left atrium morphological measurement
+heart right atrium morphological measurement
+heart left atrium end-systolic diameter
+heart left atrium end-diastolic diameter
+calculated heart left atrium morphological measurement
+heart left atrium fractional shortening
+blood mononuclear cell count
+calculated blood flow measurement
+myocardium measurement
+myocardial flow rate
+myocardial clearance rate
+blood vessel smooth muscle measurement
+aorta wall morphological measurement
+aorta smooth muscle cell count
+blood vessel smooth muscle cell count
+calculated blood vessel smooth muscle cell count
+calculated aorta smooth muscle cell count
+aorta smooth muscle cell count per unit vessel length
+heart left ventricle deoxyribonucleic acid content
+calculated heart left ventricle deoxyribonucleic acid content
+heart left ventricle deoxyribonucleic acid content to body weight ratio
+heart right ventricle deoxyribonucleic acid content
+calculated heart right ventricle deoxyribonucleic acid content
+heart right ventricle deoxyribonucleic acid content to body weight ratio
+receptor-independent blood vessel maximum contractile force
+receptor-dependent blood vessel maximum contractile force
+calculated blood vessel maximum contractile force measurement
+receptor-dependent blood vessel maximum contractile force to receptor-independent blood vessel maximum contractile force ratio
+concentration of angiotensin II at which the force of blood vessel contraction is half the maximum value (EC50)
+logarithm of the concentration of angiotensin II at which the force of blood vessel contraction is half the maximum value (Log EC50)
+angiotensin II response/sensitivity measurement
+absolute change in left ventricular diastolic blood pressure
+calculated left ventricular blood pressure
+maximum rate of positive change in left ventricular blood pressure
+maximum rate of negative change in left ventricular blood pressure
+time constant of left ventricular pressure decay
+heart left ventricle end-systolic posterior wall thickness
+kidney molecular composition measurement
+kidney lipid composition measurement
+kidney 20-HETE level
+immune cell count
+absolute change in pulse pressure
+compensatory renal growth score
+ratio of change in renal blood flow rate to kidney weight
+renal vascular resistance
+calculated renal vascular resistance
+absolute change in renal vascular resistance
+slope of contraction-induced renal vascular resistance curve
+artery internal elastic lamina non-tumorous lesion count
+renal plasma flow
+ratio of the effective renal plasma flow to the weight of both kidneys
+effective renal plasma flow
+calculated renal plasma flow
+calculated single kidney weight
+calculated both kidneys weight
+right kidney wet weight to body weight ratio
+left kidney wet weight to body weight ratio
+renal blood flow rate to kidney weight ratio
+change in mean arterial blood pressure to change in the logarithm of the vasoconstrictor dose ratio
+kidney glomerulosclerotic lesion diameter
+kidney glomerulosclerotic lesion diameter to mean arterial blood pressure ratio
+blood vessel morphological measurement
+aorta wall molecular composition measurement
+aorta wall extracellular elastin level
+aorta wall extracellular collagen level
+calculated aorta wall molecular composition measurement
+aorta wall extracellular elastin dry weight to aorta wall dry weight ratio
+aorta wall extracellular elastin dry weight to aorta wall extracellular collagen weight ratio
+aorta wall intracellular protein level
+percent change in mean arterial blood pressure
+change in heart rate to change in mean arterial blood pressure ratio
+maximum change in heart rate to change in mean arterial blood pressure ratio
+blood sterol level
+serum sterol level
+tissue molecular composition measurement
+mononuclear cell count
+kidney crescentic glomeruli count to kidney normal glomeruli count ratio
+calculated heart rate measurement
+absolute change in electrocardiographic low frequency R-R spectral component to high frequency R-R spectral component ratio
+heart left ventricle molecular composition measurement
+heart left ventricle natriuretic peptide A level
+kidney renin level
+kidney protein activity measurement
+kidney enzyme activity measurement
+kidney catalase activity to total protein level ratio
+kidney glucose-6-phosphate dehydrogenase activity to total protein level ratio
+kidney glutathione reductase activity to total protein level ratio
+kidney glutathione peroxidase activity to total protein level ratio
+kidney glutathione-S-transferase activity to total protein level ratio
+kidney superoxide dismutase activity to total protein level ratio
+kidney paraoxonase1 activity to total protein level ratio
+kidney glutathione peroxidase activity to glutathione reductase activity ratio
+kidney superoxide dismutase to catalase activity ratio
+kidney superoxide dismutase to glutathione peroxidase ratio
+kidney superoxide dismutase to paraoxonase1 activity ratio
+kidney glutathione level
+kidney malondialdehyde level
+kidney protein carbonyl level to total protein level ratio
+kidney platinum level
+serum creatine kinase activity level
+kidney lipid peroxide level
+kidney glomerulus volume
+absolute diurnal change in systolic blood pressure
+blood cholesterol level
+serum cholesterol level
+change in mean arterial blood pressure to change in vasoactive chemical dose ratio
+artery wall thickness to artery total diameter ratio
+white blood cell measurement
+blood differential leukocyte count to total leukocyte count ratio
+calculated kidney non-tumorous lesion measurement
+ratio of the area occupied by protein casts to the total area of the kidney outer medulla outer stripe and cortex
+heart wet weight to body weight ratio
+vasoconstrictor-induced blood vessel contractile force expressed as percent of force at baseline
+phenylephrine-induced blood vessel contractile force expressed as percent of force at baseline
+potassium chloride-induced blood vessel contractile force expressed as percent of force at baseline
+potassium chloride response/sensitivity measurement
+concentration of potassium chloride at which the force of blood vessel contraction is half the maximum value (EC50)
+logarithm of the concentration of potassium chloride at which the force of blood vessel contraction is half the maximum value (Log EC50)
+concentration of vasoconstrictor at which the force of blood vessel contraction is half the maximum value (EC50)
+logarithm of the concentration of vasoconstrictor at which the force of blood vessel contraction is half the maximum value (Log EC50)
+heart left ventricle end-diastolic anterior wall thickness
+heart left ventricle weight to heart left ventricle end-diastolic area ratio
+heart blood flow measurement
+E wave velocity
+E wave deceleration time
+E wave deceleration rate
+muscle fiber morphological measurement
+skeletal muscle fiber morphological measurement
+number of capillaries per skeletal muscle fiber
+capillary measurement
+left ventricular isovolumetric relaxation time
+left ventricular isovolumetric contraction time
+right ventricular isovolumetric relaxation time
+calculated left ventricular isovolumetric relaxation time
+heart rate-corrected left ventricular isovolumetric relaxation time
+mitral valve closure to opening time
+left ventricular ejection time
+myocardial performance index
+cardiovascular disease severity measurement
+cardiovascular disease measurement
+arterial disease severity measurement
+aortic rupture severity measurement
+number of ruptures of arterial internal elastic lamina
+number of ruptures of the internal elastic lamina of the abdominal aorta and iliac arteries
+number of ruptures of the internal elastic lamina of the renal arteries
+arterial internal elastic lamina rupture composite score
+aorta wall extracellular elastin dry weight to aorta length ratio
+patent ductus arteriosus score
+tissue protein/peptide composition measurement
+aorta wall protein/peptide composition measurement
+blood pressure time series calculated parameter
+blood pressure time series baroreceptor response calculation parameter
+blood pressure time series first order moving average coefficient
+blood pressure time series fractal parameter
+blood pressure time series experimental set point of the baroreceptor response
+blood pressure time series average exponential scaling factor of the baroreceptor response
+blood pressure time series linear term first order parameter
+blood pressure time series linear term second order parameter
+heart left ventricle end-diastolic  posterior wall thickness
+blood lipoprotein measurement
+blood lipoprotein cholesterol level
+aorta length
+calculated aorta morphological measurement
+aorta weight to aorta length to body weight ratio
+percent change in pulse pressure
+heart protein activity measurement
+heart enzyme activity level
+heart angiotensin I converting enzyme 2 activity level
+heart angiotensin I converting enzyme activity level
+kidney angiotensin I converting enzyme 2 activity level
+kidney angiotensin I converting enzyme activity level
+cardiac muscle fiber morphological measurement
+cardiac muscle fiber diameter
+renal plasma flow to body weight ratio
+glomerular filtration rate to body weight ratio
+kidney sclerotic glomerular volume to total kidney glomerular volume ratio
+heart left ventricle weight to tibia length ratio
+calculated heart blood flow measurement
+E/A wave ratio
+artery tunica media width to artery inner diameter ratio
+heart intraventricular end-diastolic wall  thickness
+heart intraventricular end-systolic wall thickness
+systolic blood pressure variability
+diastolic blood pressure variability
+mean arterial blood pressure variability
+heart rate variability
+ratio of number of glomeruli with microaneurysms to number of total glomeruli
+ratio of glomerular area occupied by activated mesangial cells to total glomerular area
+calculated kidney glomerulus measurement
+mesenteric artery morphological measurement
+mesenteric artery molecular composition measurement
+calculated mesenteric artery molecular composition measurement
+mesenteric artery phosphylated eNOS level to total eNOS level ratio
+aorta wall phosphylated eNOS level to total eNOS level ratio
+Monophasic action potential
+Conduction velocity
+E/E' wave ratio
+heart molecular composition measurement
+heart free fatty acid level
+heart triglyceride level
+calculated heart left ventricle end-systolic posterior wall thickness
+heart left ventricle end-systolic posterior wall index
+calculated heart left ventricle end-systolic internal diameter
+heart left ventricle end-systolic internal diameter index
+calculated heart ventricle end-systolic septal wall thickness
+heart ventricle end-systolic septal wall index
+A wave velocity
+E' wave velocity
+A' wave velocity
+calculated cardiac output measurement
+cardiac index
+calculated stroke volume
+stroke index
+calculated left ventricular end-systolic blood pressure
+arterial elastance
+ventricle stroke work
+left ventricle stroke work
+preload recruitable left ventricle stroke work
+maximum rate of positive change in left ventricular blood pressure to left ventricular end-diastolic volume ratio
+calculated heart left ventricle end-diastolic posterior wall thickness
+heart left ventricle end-diastolic posterior wall index
+calculated heart left ventricle end-diastolic anterior wall thickness
+heart left ventricle end-diastolic anterior wall index
+calculated heart ventricle end-diastolic septal wall thickness
+heart ventricle end-diastolic septal wall index
+renal medullary blood flow rate
+heart left ventricle end-diastolic elastance
+heart left ventricle end-systolic elastance
+calculated ventricle contraction measurement
+Heart left ventricle diastolic volume-axis intercept (V0)
+Heart left ventricle systolic volume-axis intercept (V0)
+Calculated endo-diastolic volume
+Calculated endo-systolic volume
+kidney adrenomedullin level
+kidney medullary adrenomedullin level
+kidney cortical adrenomedullin level
+calculated glomerular filtration rate
+heart nucleic acid measurement
+heart ribonucleic acid composition measurement
+heart insulin-like growth factor 1 mRNA level
+heart left ventricle ribonucleic acid content
+heart right ventricle insulin-like growth factor 1 mRNA level
+heart right ventricle ribonucleic acid content
+heart right ventricle molecular composition measurement
+heart left ventricle insulin-like growth factor 1 mRNA level
+heart insulin-like growth factor 1 receptor mRNA level
+heart right ventricle insulin-like growth factor 1 receptor mRNA level
+heart left ventricle insulin-like growth factor 1 receptor mRNA level
+renal filtration fraction
+glomerular filtration rate to kidney weight ratio
+single nephron glomerular filtration rate
+single nephron filtration fraction
+calculated kidney morphological measurement
+renal tubulointerstitial score
+heart left atrium weight to body weight ratio
+calculated heart right atrium morphological measurement
+heart right atrium weight to body weight ratio
+Heart septum weight
+number of podocytes per  kidney glomerulus
+number of podocytes to glomerular volume ratio
+number of nucleated cells per  kidney glomerulus
+mesangial injury score
+glomerular capillary plasma flow rate
+glomerular capillary hydraulic pressure
+arteriole measurement
+arteriolar resistance
+efferent arteriolar resistance
+afferent arteriolar resistance
+total arteriolar resistance
+afferent arteriolar plasma protein concentration
+efferent arteriolar plasma protein concentration
+afferent colloid osmotic pressure
+efferent colloid osmotic pressure
+glomerular capillary ultrafiltration coefficient
+ratio of the area occupied by cysts to the total area of the kidney
+mean proximal tubular hydraulic pressure
+efferent arteriolar hydraulic pressure
+glomerular transcapillary hydraulic pressure gradient
+calculated left ventricular end-diastolic blood pressure measurement
+heart left ventricular end-diastolic blood pressure to heart left ventricular end-diastolic diameter ratio
+rate-pressure product
+artery tunica media to artery total diameter ratio
+artery lumen to artery total diameter ratio
+neutrophillic cytoplasm
+lobed nucleus
+acidophilic cytoplasm
+basophilic cytoplasm
+polychromatophilic cytoplasm
+increased nucleus size
+clinical drug role
+drug product
+active ingredient
+role of scattered molecular aggregate
+drug administration
+geographic feature
+anthropogenic geographic feature
+populated place
+construction
+building
+city
+mesoscopic physical object
+environmental feature
+manufactured product
+anthropogenic abiotic mesoscopic feature
+environmental material
+abiotic mesoscopic physical object
+environmental system
+anthropogenic environment
+environmental zone
+building part
+outer space
+dense settlement
+human dwelling
+village
+astronomical body
+astronomical object
+astronomical body part
+biosphere
+natural environment
+anthropisation
+technosphere
+manufacturing process
+construction process
+ecosystem
+environmental system process
+anthropogenic environmental process
+geographic location
+substance with acceptor role
+substance with base role
+substance with biological role role
+substance with nutrient role
+substance with macronutrient role
+substance with Bronsted base role
+substance with role role
+substance with chemical role role
+substance with physiological role role
+substance with food component role
+lytic vacuole
+chromatin
+euchromatin
+heterochromatin
+osteoblast differentiation
+ameboidal-type cell migration
+myeloid dendritic cell activation
+cell activation
+cytokine production
+renin secretion into blood stream
+somatic diversification of immune receptors
+natural killer cell mediated immunity
+hematopoietic progenitor cell differentiation
+adaptive immune response
+immune effector process
+myeloid leukocyte activation
+immune system process
+leukocyte mediated immunity
+lymphocyte mediated immunity
+T cell mediated immunity
+adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains
+antigen processing and presentation of peptide antigen via MHC class II
+antigen processing and presentation of peptide or polysaccharide antigen via MHC class II
+leukocyte differentiation
+production of molecular mediator involved in inflammatory response
+respiratory burst involved in inflammatory response
+monocyte chemotaxis
+somatic diversification of immune receptors via germline recombination within a single locus
+myeloid leukocyte differentiation
+respiratory burst involved in defense response
+regulation of immune system process
+negative regulation of immune system process
+positive regulation of immune system process
+regulation of leukocyte migration
+positive regulation of leukocyte migration
+regulation of leukocyte chemotaxis
+positive regulation of leukocyte chemotaxis
+regulation of leukocyte activation
+peptide secretion
+system process
+circulatory system process
+renal system process
+heart process
+molecular_function
+catalytic activity
+alkaline phosphatase activity
+cellular_component
+extracellular region
+fibrinogen complex
+collagen trimer
+collagen type IV trimer
+basement membrane
+extracellular space
+cell
+nucleus
+nucleolus
+cytoplasm
+lysosome
+primary lysosome
+vacuole
+cell-cell junction
+nucleobase-containing compound metabolic process
+DNA metabolic process
+DNA recombination
+cellular aromatic compound metabolic process
+phosphorus metabolic process
+phosphate-containing compound metabolic process
+superoxide metabolic process
+nitrogen compound metabolic process
+transport
+endocytosis
+phagocytosis
+movement of cell or subcellular component
+chemotaxis
+response to stress
+defense response
+inflammatory response
+immune response
+excretion
+blood circulation
+protein localization
+biological_process
+metabolic process
+cell death
+cell proliferation
+biosynthetic process
+macromolecule biosynthetic process
+protein secretion
+response to external stimulus
+response to biotic stimulus
+response to bacterium
+cellular process
+protein transport
+peptide transport
+cellular component organization
+vesicle-mediated transport
+dephosphorylation
+somatic cell DNA recombination
+somatic diversification of immunoglobulins
+somatic recombination of immunoglobulin gene segments
+cell migration
+hydrolase activity
+hydrolase activity, acting on ester bonds
+phosphatase activity
+stem cell division
+transmission of nerve impulse
+B cell mediated immunity
+immunoglobulin complex
+B cell receptor complex
+antigen processing and presentation
+regulation of cell-cell adhesion
+regulation of anatomical structure morphogenesis
+signaling
+cell projection organization
+cell junction
+lymphocyte differentiation
+myeloid cell differentiation
+secretory granule
+cell differentiation
+regulation of cell adhesion
+neuron differentiation
+T cell differentiation
+monocyte differentiation
+macrophage differentiation
+osteoclast differentiation
+regulation of cell migration
+positive regulation of cell migration
+leukocyte chemotaxis
+granulocyte differentiation
+epithelial cell differentiation
+extracellular matrix
+pseudopodium organization
+cytoplasmic vesicle
+vesicle
+regulation of response to external stimulus
+positive regulation of response to external stimulus
+multicellular organismal process
+developmental process
+interferon-gamma production
+interleukin-1 beta production
+interleukin-1 production
+interleukin-6 production
+interleukin-8 production
+tumor necrosis factor production
+regulation of localization
+secretion by cell
+macromolecular complex
+macromolecule localization
+V(D)J recombination
+immunoglobulin V(D)J recombination
+cellular nitrogen compound metabolic process
+cardiocyte differentiation
+multicellular organismal signaling
+locomotion
+regulation of locomotion
+positive regulation of locomotion
+T cell receptor complex
+T cell activation
+taxis
+superoxide anion generation
+immunoglobulin complex, circulating
+phosphoric ester hydrolase activity
+azurophil granule
+homeostatic process
+MHC protein complex
+MHC class II protein complex
+muscle cell differentiation
+defense response to bacterium
+amide transport
+myeloid dendritic cell differentiation
+macromolecule metabolic process
+response to external biotic stimulus
+organelle
+membrane-bounded organelle
+non-membrane-bounded organelle
+intracellular organelle
+intracellular membrane-bounded organelle
+intracellular non-membrane-bounded organelle
+protein complex
+cellular metabolic process
+primary metabolic process
+cellular macromolecule metabolic process
+extracellular matrix component
+extracellular region part
+organelle part
+intracellular part
+membrane part
+chromosomal part
+nuclear part
+cytoplasmic part
+intracellular organelle part
+plasma membrane part
+cell part
+innate immune response
+establishment of protein localization
+leukocyte activation
+fat cell differentiation
+regulation of T cell differentiation
+regulation of cell differentiation
+regulation of lymphocyte differentiation
+respiratory burst
+regulation of angiogenesis
+positive regulation of angiogenesis
+heterocycle metabolic process
+lymphocyte activation
+secretion
+antigen processing and presentation of peptide antigen
+somatic stem cell division
+positive regulation of biological process
+negative regulation of biological process
+positive regulation of cellular process
+regulation of response to stimulus
+positive regulation of response to stimulus
+negative regulation of response to stimulus
+tissue remodeling
+cellular developmental process
+cell motility
+chemical homeostasis
+regulation of immune response
+negative regulation of immune response
+regulation of biological process
+regulation of developmental process
+regulation of cellular process
+ion homeostasis
+regulation of T cell activation
+regulation of cell activation
+nervous system process
+response to stimulus
+leukocyte migration
+regulation of chemotaxis
+positive regulation of chemotaxis
+positive regulation of developmental process
+striated muscle cell differentiation
+localization
+establishment of localization
+regulation of multicellular organismal process
+positive regulation of multicellular organismal process
+regulation of lymphocyte activation
+regulation of cellular component movement
+positive regulation of cellular component movement
+cell division
+multi-organism process
+response to other organism
+nitric-oxide synthase biosynthetic process
+cardiac muscle cell differentiation
+metal ion homeostasis
+calcium ion homeostasis
+cation homeostasis
+heart contraction
+micturition
+cell chemotaxis
+chondroblast differentiation
+collagen-containing extracellular matrix
+biological regulation
+regulation of biological quality
+necrotic cell death
+renal absorption
+tertiary granule
+mononuclear cell migration
+organic substance transport
+organic substance metabolic process
+nitrogen compound transport
+tumor necrosis factor superfamily cytokine production
+cellular component organization or biogenesis
+divalent inorganic cation homeostasis
+reactive oxygen species metabolic process
+nucleic acid metabolic process
+dendritic cell differentiation
+myeloid leukocyte migration
+intracellular vesicle
+defense response to other organism
+network-forming collagen trimer
+complex of collagen trimers
+collagen network
+basement membrane collagen trimer
+import into cell
+inorganic ion homeostasis
+membrane protein complex
+plasma membrane protein complex
+supramolecular complex
+supramolecular polymer
+secretory vesicle
+plasma membrane bounded cell projection organization
+regulation of vasculature development
+organic cyclic compound metabolic process
+organic substance biosynthetic process
+regulation of leukocyte differentiation
+regulation of leukocyte cell-cell adhesion
+mononuclear cell differentiation
+regulation of hemopoiesis
+positive regulation of vasculature development
+regulation of multicellular organismal development
+regulation of cell motility
+positive regulation of cell motility
+All
+Multicystic kidney dysplasia
+Recurrent urinary tract infections
+Renal duplication
+Abnormality of the kidney
+Abnormality of the urinary system
+Duplicated collecting system
+Renal insufficiency
+Horseshoe kidney
+Ectopic kidney
+Renal hypoplasia
+Nephronophthisis
+Abnormality of the renal tubule
+Tubular atrophy
+Abnormality of renal glomerulus morphology
+Glomerulosclerosis
+Focal segmental glomerulosclerosis
+Glomerulonephritis
+Nephrotic syndrome
+Polyuria
+Renal agenesis
+Enlarged kidney
+Renal cyst
+Renal corticomedullary cysts
+Renal dysplasia
+Renal juxtaglomerular cell hypertrophy/hyperplasia
+Nephropathy
+Polycystic kidney dysplasia
+Proximal tubulopathy
+Phenotypic abnormality
+Abnormality of the genitourinary system
+Nephrocalcinosis
+Unilateral renal agenesis
+Nephritis
+Renal tubular dysfunction
+Pelvic kidney
+Hydronephrosis
+Nephrolithiasis
+Hematuria
+Uric acid nephrolithiasis
+Membranoproliferative glomerulonephritis
+IgA deposition in the glomerulus
+Renal steatosis
+Cystic renal dysplasia
+Renal cortical cysts
+Xanthine nephrolithiasis
+Hypertension
+Osteoporosis
+Eczema
+Abnormality of prenatal development or birth
+Abnormality of the cardiovascular system
+Congestive heart failure
+Renal amyloidosis
+Acute kidney injury
+Renal artery stenosis
+Abnormality of metabolism/homeostasis
+Acidosis
+Fever
+Renal tubular acidosis
+Mesangial abnormality
+Diffuse mesangial sclerosis
+Tubulointerstitial abnormality
+Tubulointerstitial nephritis
+Renal Fanconi syndrome
+Gastroesophageal reflux
+Anorexia
+Renal cortical atrophy
+Proximal renal tubular acidosis
+Abnormality of the respiratory system
+Dyspnea
+Hypercalciuria
+Headache
+Drowsiness
+Abnormality of the vasculature
+Neoplasm
+Nephroblastoma
+Abnormality of the immune system
+Recurrent infections
+Functional respiratory abnormality
+Embryonal neoplasm
+Microscopic hematuria
+Abnormality of urine homeostasis
+Abnormality of ion homeostasis
+Hypocalciuria
+Elevated alkaline phosphatase
+Low alkaline phosphatase
+Reduced ratio of renal calcium clearance to creatinine clearance
+Abnormality of connective tissue
+Stage 5 chronic kidney disease
+Abnormality of acid-base homeostasis
+Abnormality of calcium homeostasis
+Abnormality of alkaline phosphatase activity
+Renal malrotation
+Reversible renal failure
+Axial malrotation of the kidney
+Hyperechogenic kidneys
+Thickening of the glomerular basement membrane
+Calcium nephrolithiasis
+Impaired renal concentrating ability
+Acute tubulointerstitial nephritis
+Impaired renal uric acid clearance
+Renal cortical microcysts
+Crossed fused renal ectopia
+Global glomerulosclerosis
+Abnormality of the renal collecting system
+Chronic tubulointerstitial nephritis
+Glomerular subendothelial electron-dense deposits
+Bicarbonate-wasting renal tubular acidosis
+Generalized distal tubular acidosis
+Atrial fibrillation
+Multiple renal cysts
+Decreased numbers of nephrons
+Absence of renal corticomedullary differentiation
+Reduced renal corticomedullary differentiation
+Increased renal tubular phosphate reabsorption
+Decreased renal tubular phosphate excretion
+Non-acidotic proximal tubulopathy
+Hemolytic-uremic syndrome
+Tubulointerstitial fibrosis
+Impaired reabsorption of chloride
+Duplication of renal pelvis
+Tubular basement membrane disintegration
+Renal cell carcinoma
+Abnormal renal corticomedullary differentiation
+Papillary renal cell carcinoma type 2
+Renal cortical adenoma
+Renal pelvic carcinoma
+Papillary renal cell carcinoma
+Clear cell renal cell carcinoma
+Renal angiomyolipoma
+Neoplasm of the genitourinary tract
+Renal tubular lysine transport defect
+Microscopic nephrocalcinosis
+Distal renal tubular acidosis
+Lobular glomerulopathy
+Nephroblastomatosis
+Uric acid urolithiasis independent of gout
+Crescentic glomerulonephritis
+Multiple small medullary renal cysts
+Renotubular dysgenesis
+Renal sarcoma
+Impaired histidine renal tubular absorption
+Calcium oxalate nephrolithiasis
+Congenital nephrotic syndrome
+Renal hypoplasia/aplasia
+Acute tubular necrosis
+Transient nephrotic syndrome
+Renal hamartoma
+Unilateral renal atrophy
+Unilateral renal dysplasia
+Partially duplicated kidney
+Abnormal renal artery morphology
+Renal neoplasm
+Nephrosclerosis
+Stridor
+Hamartoma
+Elevated tissue non-specific alkaline phosphatase
+Elevated alkaline phosphatase of renal origin
+Low tissue non-specific alkaline phosphatase
+Low alkaline phosphatase of renal origin
+Edema of the lower limbs
+Urinary tract neoplasm
+Abnormality of divalent inorganic cation homeostasis
+Abnormality of cation homeostasis
+Abnormality of the upper urinary tract
+Abnormality of the renal pelvis
+Fetal pyelectasis
+Dilatation of the renal pelvis
+Bilateral renal agenesis
+Abnormality of immune system physiology
+Abnormal systemic arterial morphology
+Abnormality of the gastrointestinal tract
+Abnormality of cardiovascular system physiology
+Amyloidosis
+Abnormality of renal cortex morphology
+Abnormality of renal excretion
+Decreased urine output
+Abnormality of renal resorption
+Nephroptosis
+Bilateral fetal pyelectasis
+Abnormality of renal calyx morphology
+Abnormality of the urinary system physiology
+Abnormality of urine calcium concentration
+Fetal ultrasound soft marker
+Neoplasm by histology
+Neoplasm by anatomical site
+Embryonal renal neoplasm
+Intralobar nephroblastomatosis
+Perilobar nephroblastomatosis
+Papillary renal cell carcinoma type 1
+Renal oncocytoma
+Respiratory tract infection
+Abnormal renal morphology
+Abnormal renal physiology
+Abnormal glomerular filtration rate
+Decreased glomerular filtration rate
+Increased glomerular filtration rate
+Pyelonephritis
+Chemosis
+Abnormal enzyme/coenzyme activity
+Medullary nephrocalcinosis
+Cortical nephrocalcinosis
+Global proximal tubulopathy
+Mesangial hypercellularity
+Abnormality of the nephron
+Glomerular C3 deposition
+Thin glomerular basement membrane
+Membranous nephropathy
+Minimal change glomerulonephritis
+Calcium phosphate nephrolithiasis
+Solitary renal cyst
+Bilateral renal dysplasia
+Unilateral renal hypoplasia
+Bilateral renal hypoplasia
+Renal atrophy
+Bilateral renal atrophy
+Macroscopic hematuria
+Steroid-resistant nephrotic syndrome
+Multidrug-resistant nephrotic syndrome
+Abnormal urine output
+Abnormal urinary electrolyte concentration
+Abnormal urine cytology
+Chronic kidney disease
+Stage 1 chronic kidney disease
+Stage 2 chronic kidney disease
+Stage 3 chronic kidney disease
+Stage 4 chronic kidney disease
+Renal calcium wasting
+Abnormality of nervous system physiology
+Abnormal inflammatory response
+Increased inflammatory response
+Morphological abnormality of the gastrointestinal tract
+Functional abnormality of the gastrointestinal tract
+Cough
+Perilobar nephrogenic rest
+Intralobar nephrogenic rest
+Perinephritis
+Recurrent pyelonephritis
+Thickening of glomerular capillary wall
+Abnormal glomerular capillary morphology
+Abnormal vascular morphology
+Abnormality of the digestive system
+Abnormality of digestive system physiology
+Decreased renal parenchymal thickness
+Polygonal renal calices
+Polycalycosis
+Abnormality of medullary pyramid morphology
+Renal medullary pyramid hypoplasia
+Endocapillary hypercellularity
+Extracapillary hypercellularity
+Renal cortical necrosis
+Diffuse glomerular basement membrane lamellation
+Struvite nephrolithiasis
+Isothenuria
+Glomerulomegaly
+Abnormal vascular physiology
+Perirenal hematoma
+Renal transitional cell carcinoma
+Abnormality of cardiovascular system morphology
+Renal fibrosis
+Mesangiolysis
+Wheezing
+Abnormal breath sound
+Rales
+Rhonchi
+Elevated jugular venous pressure
+Glomerular deposits
+Abnormal systemic blood pressure
+Impaired urinary acidification
+Perinephric fluid collection
+Abnormal renal corpuscle morphology
+Abnormal morphology of Bowman capsule
+Abnormal podocyte morphology
+Podocyte foot process effacement
+Renal artery atherosclerosis
+Renal artery duplication
+Sarcoma
+Anuria
+Oliguria
+Abnormal localization of kidney
+Arterial stenosis
+Dilatation of renal calices
+Multiple glomerular cysts
+Renovascular hypertension
+Glomerulopathy
+Renal diverticulum
+Nephrogenic rest
+Congenital mesoblastic nephroma
+Abnormality of the renal medulla
+measurement unit label
+objective specification
+action specification
+datum label
+model number
+data item
+symbol
+numeral
+information content entity
+integer numeral
+scalar measurement datum
+directive information entity
+dot plot
+graph
+contour plot
+curation status specification
+density plot
+data set
+image
+data about an ontology part
+plan specification
+measurement datum
+version number
+serial number
+lot number
+histogram
+heatmap
+Venn diagram
+dendrogram
+scatter plot
+photograph
+textual entity
+citation
+document title
+table
+figure
+diagram
+document
+hypothesis textual entity
+time measurement datum
+postal address
+email address
+documenting
+line graph
+centrally registered identifier symbol
+CRID
+centrally registered identifier registry
+written name
+author information textual entity
+case report textual entity
+social act
+socio-legal generically dependent continuant
+declaration
+document act input document
+declaration performer role
+informed consent form
+signing an informed consent form
+incomplete informed consent form
+complete informed consent form indicating consent
+signature
+AKI patient
+CKD patient
+acute kidney failure
+diabetic nephropathy
+kidney disease
+chronic kidney disease
+cell and tissue damage
+healing and repair process
+connective tissue replacement
+sclerosis
+immunopathological process
+immune mediated disease
+glomerulonephritis
+inflammation
+intracellular and extracellular accumulation
+amyloid deposition
+calcium deposition
+developmental and structural abnormality
+mineralisation
+developmental or adult structural  defect
+nephroblastomatosis
+pathological process
+developmental process abnormalities
+pathological anatomical entity
+cyst
+steatosis
+developmental dysplasia
+hamartoma
+root
+Viruses
+Hepatitis B virus
+Cyanobacteria
+Euteleostomi
+Firmicutes
+cellular organisms
+Mycetozoa
+Boreoeutheria
+Clostridium
+Clostridium tetani
+Terrabacteria group
+Cyanobacteria/Melainabacteria group
+Bacteria
+Dictyosteliaceae
+Dictyosteliales
+Archaea
+Eukaryota
+Euarchontoglires
+Simiiformes
+Tetrapoda
+Amniota
+Dictyostelids
+Viridiplantae
+Opisthokonta
+Metazoa
+Bilateria
+Euglenozoa
+Retro-transcribing viruses
+Mammalia
+Fungi
+Amoebozoa
+Dictyostelium
+Eumetazoa
+Vertebrata <Metazoa>
+Homo sapiens
+Viridiplantae or Bacteria
+Viridiplantae or Cyanobacteria
+Prokaryota
+Viridiplantae or Archaea or Bacteria
+Viridiplantae or Bacteria or Euglenozoa
+Viridiplantae or Euglenozoa
+Fungi or Bacteria
+Viridiplantae or Bacteria or Euglenozoa or Archaea
+Fungi or Dictyostelium
+Fungi or Bacteria or Archaea
+Unikonta
+Archaea or Eukaryota
+cellular organisms or viruses
+Number of Siblings
+Age at Time of Vaccination
+Religious Group
+Sephardic Jew
+Other Race
+Age at Menopause
+Other Asian
+Other Pacific Islander
+Mexican or Mexican American
+Cuban
+Other Hispanic or Latino(a)
+Conception Age
+Corrected Age
+Postmenstrual Age
+Very Low Birth Weight
+Extremely Low Birth Weight
+Ultra Low Birth Weight
+Ideal Body Weight
+Social Security Retirement Benefit
+Pension
+Left Ventricular End Diastolic Pressure
+Left Ventricular Systolic Pressure
+Estimated Gestational Age
+Number of Years of Education
+Age at First Episode
+Age at First Hospitalization
+Age at First Treatment
+Gravid Uterus Adjusted Maternal Body Weight
+Fetal Body Weight
+Average Live Fetal Weight
+Average Female Live Fetal Weight
+Average Male Live Fetal Weight
+Total Live Fetal Weight
+Age of Majority
+Central African
+North African
+South African
+Latin American
+South American
+Southeast Asian
+Central Asian
+Australian
+New Zealander
+Icelander
+Scandinavian
+American Ethnicity
+Australian/New Zealand Ethnicity
+Intercontinental Ethnicity
+African American
+Black
+Black Central American
+Black South American
+White Central American
+White South American
+Right Ventricular Systolic Pressure
+Pulmonary Artery Pressure
+Left Atrial Pressure
+Estimated Mean Atrial Pressure
+Estimated Body Weight
+Age at Death
+Body Mass Index Finding
+Body Mass Index Less Than 19
+Body Mass Index 19 to Less Than 21
+Body Mass Index 21 to Less Than 23
+Body Mass Index Greater Than or Equal to 23
+Age Greater than 85 Years
+Age Between 80 and 85 Years
+Age Less than 80 Years
+Estimated Systolic Blood Pressure
+Age at Full-Time Use
+Asian American
+Black or African American
+Body Mass Index
+Ethnic Group
+Population Group
+Poverty
+Race
+Hispanic or Latino
+Socioeconomic Factors
+Ashkenazi Jew
+Alaska Native
+Average Household Income
+Number of Children in Household
+Personal Attribute
+Age at Menarche
+Age at First Live Birth
+Smoking Status
+Age
+Systolic Blood Pressure
+Diastolic Blood Pressure
+Height
+International Normalized Ratio
+Adenoma
+Carcinoma
+Kidney Neoplasm
+Leiomyosarcoma
+Neoplasm
+Neoplasm by Site
+Embryonal Neoplasm
+Wilms Tumor
+Soft Tissue Neoplasm
+Urinary System Neoplasm
+Low Birth Weight
+Epithelial Neoplasm
+Malignant Mixed Neoplasm
+Angiomyolipoma
+Smooth Muscle Neoplasm
+Age-Months
+Age-Years
+Connective and Soft Tissue Neoplasm
+PEComa
+Kidney Wilms Tumor
+Myomatous Neoplasm
+Income
+Native Hawaiian or Other Pacific Islander
+Not Hispanic or Latino
+African Caribbean
+American Indian or Alaska Native
+Asian
+White
+Asian Indian
+South Asian
+African
+Unit by Category
+Aleutian
+Eskimo
+Chinese
+Japanese
+Filipino
+Native Hawaiian
+Korean
+Vietnamese
+Laotian
+Hmong
+Cambodian
+Thai
+Micronesian
+Chamorran
+Guamanian
+Polynesian
+Tahitian
+Samoan
+Tongan
+Melanesian
+Fiji Islander
+Papua New Guinean
+Pakistani
+Alaska Indian
+Bangladeshi
+Sri Lankan
+Bhutanese
+Burmese
+Taiwanese
+Indonesian
+Malaysian
+Okinawan
+Iwo Jiman
+Maldivian
+Nepalese
+Singaporean
+Malagasy
+Barbadian
+Dominica Islander
+Haitian
+Jamaican
+Tobagoan
+Trinidadian
+West Indian
+Botswanan
+Ethiopian
+Liberian
+Namibian
+Nigerian
+Zairean
+Tokelauan
+Guamanian or Chamorro
+Mariana Islander
+Marshallese
+Palauan
+Carolinian
+Kosraean
+Pohnpeian
+Saipanese
+Kiribati
+Chuukese
+Yapese
+Solomon Islander
+New Hebrides
+European
+Armenian
+English
+French
+German
+Irish
+Italian
+Polish
+Scottish
+Russian
+Swedish
+Norwegian
+Ukranian
+Mongolian
+Finnish
+Middle Eastern or North African
+Assyrian
+Egyptian
+Iranian
+Iraqi
+Lebanese
+Palestinian
+Syrian
+Afghanistani
+Israeli
+Arab
+American Indian
+Abenaki
+Algonquian
+Apache
+Chiricahua
+Fort Sill Apache
+Jicarilla Apache
+Lipan Apache
+Mescalero Apache
+Oklahoma Apache
+Payson Apache
+San Carlos Apache
+White Mountain Apache
+Arapaho
+Northern Arapaho
+Southern Arapaho
+Wind River Arapaho
+Arikara
+Assiniboine
+Assiniboine Sioux
+Fort Peck Assiniboine Sioux
+Bannock
+Blackfeet
+Brotherton
+Burt Lake Band
+Caddo
+Oklahoma Cado
+Cahuilla
+Agua Caliente Cahuilla
+Augustine
+Cabazon
+Los Coyotes
+Morongo
+Santa Rosa Cahuilla
+Torres-Martinez
+California Tribes
+Canadian and Latin American Indian
+Catawba
+Cayuse
+Chehalis
+Chemakuan
+Hoh
+Quileute
+Chemehuevi
+Cherokee
+Cherokee Shawnee
+Cheyenne
+Northern Cheyenne
+Southern Cheyenne
+Cheyenne-Arapaho
+Chickahominy
+Eastern Chickahominy
+Western Chickahominy
+Chickasaw
+Chinook
+Chippewa
+Chippewa Cree
+Rocky Boy's Chippewa Cree
+Chitimacha
+Choctaw
+Clifton Choctaw
+Jena Choctaw
+Mississippi Choctaw
+Mowa Band of Choctaw
+Oklahoma Choctaw
+Chumash
+Santa Ynez
+Clear Lake
+Coeur D'Alene
+Coharie
+Colorado River
+Colville
+Comanche
+Oklahoma Comanche
+Coos Lower Umpqua Siuslaw
+Coos
+Coquilles
+Costanoan
+Coushatta
+Alabama Coushatta
+Cowlitz
+Cree
+Creek
+Croatan
+Crow
+Cupeno
+Agua Caliente
+Delaware
+Diegueno
+Eastern Tribes
+Esselen
+Fort Belknap
+Fort Berthold
+Fort McDowell
+Fort Hall
+Gabrieleno
+Grand Ronde
+Gros Ventres
+Atsina
+Haliwa
+Hidatsa
+Hoopa
+Trinity
+Whilkut
+Hoopa Extension
+Houma
+Inaja-Cosmit
+Iowa
+Iowa of Kansas-Nebraska
+Iowa of Oklahoma
+Iroquois
+Juaneno
+Kalispel
+Karuk
+Kaw
+Kickapoo
+Oklahoma Kickapoo
+Texas Kickapoo
+Kiowa
+Oklahoma Kiowa
+Klallam
+Jamestown
+Lower Elwha
+Port Gamble Klallam
+Klamath
+Konkow
+Kootenai
+Lassik
+Long Island
+Matinecock
+Montauk
+Poospatuck
+Setauket
+Luiseno
+La Jolla
+Pala
+Pauma
+Pechanga
+Soboba
+Twenty-Nine Palms
+Temecula
+Lumbee
+Lummi
+Maidu
+Mountain Maidu
+Nishinam
+Makah
+Maliseet
+Mandan
+Mattaponi
+Menominee
+Miami
+Illinois Miami
+Indiana Miami
+Oklahoma Miami
+Miccosukee
+Micmac
+Aroostook
+Mission Indians
+Miwok
+Modoc
+Mohegan
+Mono
+Nanticoke
+Narragansett
+Dine
+Alamo Dine
+Canoncito Dine
+Ramah Dine
+Nez Perce
+Nomalaki
+Northwest Tribes
+Alsea
+Celilo
+Columbia
+Kalapuya
+Molala
+Talakamish
+Tenino
+Tillamook
+Wenatchee
+Yahooskin
+Omaha
+Oregon Athabaskan
+Osage
+Otoe-Missouria
+Ottawa
+Burt Lake Ottawa
+Michigan Ottawa
+Oklahoma Ottawa
+Paiute
+Pamunkey
+Passamaquoddy
+Indian Township
+Pleasant Point Passamaquoddy
+Pawnee
+Oklahoma Pawnee
+Penobscot
+Peoria
+Oklahoma Peoria
+Pequot
+Marshantucket Pequot
+Pima
+Gila River Pima-Maricopa
+Salt River Pima-Maricopa
+Piscataway
+Pit River
+Pomo
+Ponca
+Nebraska Ponca
+Oklahoma Ponca
+Potawatomi
+Powhatan
+Pueblo
+Puget Sound Salish
+Quapaw
+Quinault
+Rappahannock
+Reno-Sparks
+Round Valley
+Sac and Fox
+Iowa Sac and Fox
+Missouri Sac and Fox
+Oklahoma Sac and Fox
+Salinan
+Salish
+Salish and Kootenai
+Schaghticoke
+Scott Valley
+Seminole
+Big Cypress
+Brighton
+Florida Seminole
+Hollywood Seminole
+Oklahoma Seminole
+Serrano
+San Manual
+Shasta
+Shawnee
+Absentee Shawnee
+Eastern Shawnee
+Shinnecock
+Shoalwater Bay
+Shoshone
+Shoshone Paiute
+Duck Valley
+Fallon
+Fort McDermitt
+Siletz
+Sioux
+Blackfoot Sioux
+Brule Sioux
+Cheyenne River Sioux
+Lakota
+Dakota
+Nakota
+Crow Creek Sioux
+Flandreau Santee
+Lake Traverse Sioux
+Fort Peck Sioux
+Lower Brule Sioux
+Lower Sioux
+Mdewakanton Sioux
+Miniconjou
+Oglala Sioux
+Pine Ridge Sioux
+Pipestone Sioux
+Prairie Island Sioux
+Prior Lake Sioux
+Rosebud Sioux
+Sans Arc Sioux
+Santee Sioux
+Sisseton-Wahpeton
+Sisseton Sioux
+Wahpeton Sioux
+Spirit Lake Sioux
+Standing Rock Sioux
+Two Kettle Sioux
+Upper Sioux
+Wahpekute Sioux
+Wazhaza Sioux
+Yankton Sioux
+Yanktonai Sioux
+Siuslaw
+Spokane
+Stewart
+Stockbridge
+Susanville
+Tohono O'Odham
+Ak-Chin
+Gila Bend
+San Xavier
+Sells
+Tolowa
+Tonkawa
+Tygh
+Umatilla
+Umpqua
+Cow Creek Umpqua
+Ute
+Allen Canyon
+Uintah Ute
+Ute Mountain Ute
+Wailaki
+Walla-Walla
+Wampanoag
+Gay Head Wampanoag
+Mashpee Wampanoag
+Warm Springs
+Wascopum
+Washoe
+Alpine
+Carson
+Dresslerville
+Wichita
+Wind River
+Winnebago
+Ho-Chunk
+Nebraska Winnebago
+Winnemucca
+Wintun
+Wiyot
+Table Bluff
+Yakama
+Yakama Cowlitz
+Yaqui
+Barrio Libre
+Pascua Yaqui
+Yavapai Apache
+Yokuts
+Chukchansi
+Tachi
+Tule River
+Yuchi
+Yuman
+Cocopah
+Havasupai
+Hualapai
+Maricopa
+Mohave
+Quechan
+Yurok
+Coast Yurok
+Alaskan Athabascan
+Southeast Alaska
+Tlingit-Haida
+Tsimshian
+Metlakatla
+Greenland Eskimo
+Inupiat Eskimo
+Siberian Eskimo
+Yupik Eskimo
+Alutiiq Aleut
+Tatitlek
+Ugashik
+Bristol Bay Aleut
+Chugach Aleut
+Eyak
+Koniag Aleut
+Sugpiaq
+Suqpigaq
+Unangan Aleut
+Chenega
+Chugach Corporation
+English Bay
+Port Graham
+Akhiok
+Agdaagux
+Karluk
+Kodiak
+Larsen Bay
+Old Harbor
+Ouzinkie
+Port Lions
+Gambell
+Savoonga
+Siberian Yupik
+Cahto
+Chimariko
+Coast Miwok
+Digger
+Kawaiisu
+Kern River
+Mattole
+Red Wood
+Santa Rosa
+Takelma
+Wappo
+Yana
+Yuki
+Campo
+Capitan Grande
+Cuyapaipe
+La Posta
+Manzanita
+Mesa Grande
+San Pasqual
+Santa Ysabel
+Sycuan
+Bishop
+Bridgeport
+Burns Paiute
+Cedarville
+Fort Bidwell
+Fort Independence
+Kaibab
+Las Vegas
+Lone Pine
+Lovelock
+Malheur Paiute
+Moapa
+Northern Paiute
+Owens Valley
+Pyramid Lake
+San Juan Southern Paiute
+Southern Paiute
+Summit Lake
+Utu Utu Gwaitu Paiute
+Walker River
+Yerington Paiute
+Battle Mountain
+Duckwater
+Elko
+Ely
+Goshute
+Panamint
+Ruby Valley
+Skull Valley
+South Fork Shoshone
+Te Moak Western Shoshone
+Timbi Sha Shoshone
+Washakie
+Wind River Shoshone
+Yomba
+Akiachak
+Akiak
+Alakanuk
+Aleknagik
+Andreafsky
+Aniak
+Atmautluak
+Bethel
+Bill Moore's Slough
+Bristol Bay Yupik
+Calista Yupik
+Chefornak
+Chevak
+Chuathbaluk
+Clark's Point
+Crooked Creek
+Dillingham
+Eek
+Ekuk
+Ekwok
+Emmonak
+Goodnews Bay
+Hooper Bay
+Iqurmuit Russian Mission
+Kalskag
+Kasigluk
+Kipnuk
+Koliganek
+Kongiganak
+Kotlik
+Kwethluk
+Kwigillingok
+Levelock
+Lower Kalskag
+Manokotak
+Marshall
+Mekoryuk
+Mountain Village
+Naknek
+Napaumute
+Napakiak
+Napaskiak
+Newhalen
+New Stuyahok
+Newtok
+Nightmute
+Nunapitchukv
+Oscarville
+Pilot Station
+Pitkas Point
+Portage Creek
+Quinhagak
+Red Devil
+Scammon Bay
+Sheldon's Point
+Sleetmute
+Stebbins
+Togiak
+Toksook
+Tulukskak
+Tuntutuliak
+Tununak
+Twin Hills
+Georgetown
+Umkumiate
+Akutan
+Aleut Corporation
+Aleutian Islander
+Atka
+Belkofski
+Chignik Lagoon
+King Cove
+False Pass
+Nelson Lagoon
+Nikolski
+Pauloff Harbor
+Qagan Toyagungin
+Qawalangin
+Sand Point
+South Naknek
+Unalaska
+Unga
+Chignik
+Chignik Lake
+Egegik
+Igiugig
+Ivanof Bay
+King Salmon
+Kokhanok
+Perryville
+Pilot Point
+Port Heiden
+Ambler
+Anaktuvuk
+Anaktuvuk Pass
+Arctic Slope Inupiat
+Arctic Slope Corporation
+Atqasuk
+Barrow
+Bering Straits Inupiat
+Brevig Mission
+Buckland
+Chinik
+Council
+Deering
+Elim
+Golovin
+Inalik Diamede
+Inupiaq
+Kaktovik
+Kawerak
+Kiana
+Kivalina
+Kobuk
+Kotzebue
+Koyuk
+Kwiguk
+Mauneluk Inupiat
+Nana Inupiat
+Noatak
+Nome
+Noorvik
+Nuiqsut
+Point Hope
+Point Lay
+Selawik
+Shaktoolik
+Shishmaref
+Shungnak
+Solomon
+Teller
+Unalakleet
+Wainwright
+Wales
+White Mountain
+White Mountain Inupiat
+Mary's Igloo
+Angoon
+Central Council of Tlingit and Haida Tribes
+Chilkat
+Chilkoot
+Craig
+Douglas
+Haida
+Hoonah
+Hydaburg
+Kake
+Kasaan
+Kenaitze
+Ketchikan
+Klawock
+Pelican
+Petersburg
+Saxman
+Sitka
+Tenakee Springs
+Tlingit
+Wrangell
+Yakutat
+Ahtna
+Alatna
+Alexander
+Allakaket
+Alanvik
+Anvik
+Arctic
+Beaver
+Birch Creek
+Cantwell
+Chalkyitsik
+Chickaloon
+Chistochina
+Chitina
+Circle Tribe
+Cook Inlet
+Copper Center
+Copper River
+Dot Lake
+Doyon
+Eagle
+Eklutna
+Evansville
+Fort Yukon
+Gakona
+Galena
+Grayling
+Gulkana
+Healy Lake
+Holy Cross
+Hughes
+Huslia
+Iliamna
+Kaltag
+Kluti Kaah
+Knik
+Koyukuk
+Lake Minchumina
+Lime
+Mcgrath
+Manley Hot Springs
+Mentasta Lake
+Minto
+Nenana
+Nikolai
+Ninilchik
+Nondalton
+Northway
+Nulato
+Pedro Bay
+Rampart
+Ruby
+Salamatof
+Seldovia
+Slana
+Shageluk
+Stevens
+Stony River
+Takotna
+Tanacross
+Tanaina
+Tanana
+Tanana Chiefs
+Tazlina
+Telida
+Tetlin
+Tok
+Tyonek
+Venetie
+Wiseman
+Duwamish
+Kikiallus
+Lower Skagit
+Muckleshoot
+Nisqually
+Nooksack
+Port Madison
+Puyallup
+Samish
+Sauk-Suiattle
+Skokomish
+Skykomish
+Snohomish
+Snoqualmie
+Squaxin Island
+Steilacoom
+Stillaguamish
+Suquamish
+Swinomish
+Tulalip
+Upper Skagit
+Acoma
+Arizona Tewa
+Cochiti
+Hopi
+Isleta
+Jemez
+Keres
+Laguna
+Nambe
+Picuris
+Piro
+Pojoaque
+San Felipe
+San Ildefonso
+San Juan Pueblo
+San Juan De
+San Juan
+Sandia
+Santa Ana
+Santa Clara
+Santo Domingo
+Taos
+Tesuque
+Tewa
+Tigua
+Zia
+Zuni
+Citzen Band Potawatomi
+Forest County
+Hannahville
+Huron Potawatomi
+Pokagon Potawatomi
+Prairie Band
+Wisconsin Potawatomi
+Central Pomo
+Dry Creek
+Eastern Pomo
+Kashia
+Northern Pomo
+Scotts Valley
+Stonyford
+Sulphur Bank
+Cayuga
+Mohawk
+Oneida
+Onondaga
+Seneca
+Seneca Nation
+Seneca-Cayuga
+Tonawanda Seneca
+Tuscarora
+Wyandotte
+Attacapa
+Biloxi
+Moor
+Nansemond
+Natchez
+Nausu Waiwash
+Nipmuc
+Paugussett
+Pocomoke Acohonock
+Southeastern Indians
+Susquehanock
+Tunica Biloxi
+Waccamaw Siousan
+Wicomico
+Eastern Delaware
+Lenni Lenape
+Munsee
+Oklahoma Delaware
+Rampough Mountain
+Sand Hill
+Alabama Creek
+Alabama Quassarte
+Eastern Creek
+Eastern Muscogee
+Kialegee
+Lower Muscogee
+Machis Lower Creek Indian
+Poarch Band
+Principal Creek Indian Nation
+Star Clan of Muscogee Creeks
+Thlopthlocco
+Tuckabachee
+Bad River
+Bay Mills Chippewa
+Bois Forte
+Burt Lake Chippewa
+Fond du Lac
+Grand Portage
+Grand Traverse Band of Ottawa Chippewa
+Keweenaw
+Lac Courte Oreilles
+Lac du Flambeau
+Lac Vieux Desert Chippewa
+Lake Superior
+Leech Lake
+Little Shell Chippewa
+Mille Lacs
+Minnesota Chippewa
+Ontonagon
+Red Cliff Chippewa
+Red Lake Chippewa
+Saginaw Chippewa
+Sokoagon Chippewa
+Turtle Mountain
+White Earth
+Clatsop
+Kathlamet
+Upper Chinook
+Wakiakum Chinook
+Willapa Chinook
+Wishram
+Cherokee Alabama
+Cherokees of Northeast Alabama
+Cherokees of Southeast Alabama
+Eastern Cherokee
+Echota Cherokee
+Etowah Cherokee
+Tuscola
+United Keetowah Band of Cherokee
+Western Cherokee
+Canadian Indian
+Central American Indian
+French American Indian
+Mexican American Indian
+South American Indian
+Spanish American Indian
+Aleut
+Columbia River Chinook
+Northern Cherokee
+Platinum Eskimo
+Deleware Indian
+Sault Ste. Marie Chippewa
+St. Croix Chippewa
+St. George
+St. Paul
+St. Mary's
+St. Michael
+Yavapai
+Neoplasm by Morphology
+Malignant Muscle Neoplasm
+Mean Arterial Pressure
+Blood Pressure
+Never Smoker
+Malignant Smooth Muscle Neoplasm
+Multiracial
+Multiple Hispanic
+Puerto Rican
+Mexican
+Mexican American
+Cuban or Cuban American
+Dominican
+Central American
+Spanish
+Current Every Day Smoker
+Current Some Day Smoker
+Current Smoker
+Former Smoker
+Smoker, Current Status Unknown
+Unknown If Ever Smoked
+Bahamian
+Smoker
+Age Started
+Subject Age
+Mixed Neoplasm
+Mesenchymal Cell Neoplasm
+Neoplasm by Special Category
+Household Income
+Soft Tissue Tumor of Uncertain Differentiation
+Kidney and Ureter Neoplasm
+Malignant Kidney Neoplasm
+Birth Weight (NCIT)
+South or Central American Indian
+Caribbean Indian
+Mediterranean
+North American
+North Coast of Africa
+Northern European
+Black South or Central American
+White Caribbean
+Western European
+White South or Central American
+Eastern European
+Middle Eastern
+Body Weight
+Gross Income
+Inuit
+Newborn Blood Pressure
+Terminal Body Weight
+Sarcoma
+Malignant Urinary System Neoplasm
+Stature
+adverse event
+medical intervention
+musculoskeletal or connective tissue AE
+procedural complication AE
+surgery AE
+surgery
+fistula AE
+allergic brochospasm AE that requires treatment in emergency
+pain AE
+sudden infant death AE
+cardiovascular AE
+behavioral and neurological AE
+sensory capability AE
+hematuria AE
+urinary system AE
+serious adverse event
+death AE
+life-threating AE
+hospitalization AE
+disability or permanent damage AE
+congenital anomaly or birth defect AE
+adverse event that requires intervention to prevent permanent impairment or damage
+hematoma AE
+connective tissue disorder AE
+soft tissue infection AE
+sudden death AE
+severity of adverse event
+AE severity G0
+AE severity G1
+AE severity G2
+AE severity G3
+AE severity G4
+AE severity G5
+initial hospitalization AE
+prolonged hospitalization AE
+injury or procedural complication AE
+flank pain AE
+fetal death AE
+medical procedure
+behavior abnormal quality
+death neonatal AE
+subcapsular hematoma AE
+perinephric hematoma AE
+arteriovenous fistula AE
+puncturing of adjacent organ AE
+planned process
+clinical research coordinator role
+processed material
+investigation
+evaluant role
+assay
+sample preparation for assay
+diagnosis textual entity
+culture medium
+reagent role
+patient role
+material processing
+participant under investigation role
+responsible party role
+specimen role
+worker role
+population
+investigation agent role
+sponsor role
+organization
+protocol
+analyte role
+material to be added role
+drawing a conclusion based on data
+planning
+hypothesis driven investigation
+hypothesis generating investigation
+transfer function
+solid support function
+needle
+analyte measurement objective
+assay objective
+analyte assay
+target of material addition role
+material transformation objective
+manufacturing
+manufacturing objective
+study design execution
+clinical chemistry assay
+manufacturer role
+scattered molecular aggregate
+material separation objective
+blood specimen
+specimen collection process
+enzyme-linked immunosorbent assay
+portioning objective
+separation into different composition objective
+specimen collection objective
+host role
+material maintenance objective
+informed consent process
+material maintenance
+establishing cancer cell line
+cell line immortalization
+device
+genetically modified material
+genetic transformation objective
+specimen from organism
+selection criterion
+assay array
+secondary cultured cell
+establishing cell line
+Illumina BeadChip
+comment on investigation
+secondary cultured cell population
+cancer cell line
+immortalizing cell line transformation
+conclusion based on data
+cell freezing medium
+selection
+value specification
+measurand role
+organism
+specimen
+cultured cell population
+genetically modified organism
+study design
+eligibility criterion
+human subject enrollment
+collecting specimen from organism
+administering substance in vivo
+material component separation
+maintaining cell culture
+establishing cell culture
+cell culture splitting
+genetic transformation
+adaptive immune receptor
+genome
+gene
+gene disposition
+protein-coding gene disposition
+genome of Bacteria
+genome of Eukaryota
+genome of Homo sapiens
+gene of Bacteria
+gene of Eukaryota
+gene of Homo sapiens
+protein-coding gene of Homo sapiens
+ACTA2
+ACTN4
+AGTR1
+ALDOB
+AKR1B1
+ANGPT2
+ANXA1
+AQP2
+AQP3
+AQP6
+RND3
+AVPR1A
+AVPR2
+BHMT
+BMP7
+C1QA
+C1QB
+C3
+CA2
+CALB1
+CASP1
+CCNB1
+CD3D
+CD4
+CD8A
+CD8B
+CD34
+CD36
+CD38
+CD68
+CD69
+CDK1
+CDH9
+CHI3L1
+CISH
+CKS2
+CLCNKA
+CCR1
+CNR2
+COL1A1
+COL4A3
+CR2
+CRYAB
+CSF1
+CSF1R
+VCAN
+CSTA
+CTSZ
+CYBB
+CYP4B1
+DCN
+DDIT3
+DNASE1
+HBEGF
+DUSP1
+DUSP2
+EDN1
+EGF
+EGR1
+FCN1
+FOXF1
+FOXD1
+FOXI1
+FLT1
+FOS
+FPR1
+FTL
+IFI6
+GATM
+GPC3
+GLI1
+GPR18
+GPX3
+CXCL2
+GZMB
+GZMK
+HCK
+NRG1
+HLA-DQA1
+HLA-DQB1
+HMOX1
+NR4A1
+HSD11B2
+HSPA6
+DNAJB1
+ICAM1
+IFI27
+IGF1
+IGFBP7
+IL5RA
+INHBB
+CXCL10
+INSRR
+ITGA2B
+ITGA5
+ITGAX
+JUN
+KCNE1
+KCNJ1
+KLK1
+KRT8
+LCN2
+LRP2
+CD180
+LYN
+TACSTD2
+MARCKS
+MXD1
+CIITA
+MMP9
+MNDA
+MX1
+GADD45B
+NCAM1
+NCF2
+NPHS1
+NT5E
+OAS1
+OSM
+PAX2
+PCOLCE
+PDGFB
+PDGFRB
+SLC26A4
+PDZK1
+PECAM1
+PLAT
+PODXL
+POU2AF1
+PPBP
+PTPRC
+RBP1
+REN
+RIT1
+RNASE1
+RRM2
+S100A4
+S100A6
+S100A9
+SCN7A
+SCNN1G
+CCL2
+CCL5
+CCL19
+CXCL6
+SDC1
+SELE
+SFRP2
+SLC3A1
+SLC4A1
+SLC5A2
+SLC12A1
+SLC12A3
+SLC13A1
+SLC34A1
+SLPI
+SOD3
+SOX9
+SPP1
+STC1
+TAGLN
+TGFB3
+TGFBI
+THBD
+TIMP1
+TIMP2
+TLR2
+CLDN5
+TOP2A
+TRAF1
+TRAF2
+UMOD
+UPK2
+UPK3A
+VCAM1
+VGF
+VIM
+WNT2
+WT1
+NPHS2
+CXCR4
+TFPI2
+CUBN
+SLC14A2
+AXIN2
+ITGA8
+NRP1
+SEMA5A
+PRC1
+CLDN1
+CCNB2
+IL32
+NREP
+SLC22A13
+NAPSA
+ADAMTS2
+APOBEC3B
+RASSF2
+ZEB2
+P2RY14
+COL4A3BP
+ARL4C
+RAMP2
+TNIP1
+WFDC2
+BASP1
+IFITM3
+CLEC10A
+CXCL13
+IFITM2
+SLC17A3
+FGL2
+UPK1A
+UBE2C
+ELL2
+SEL1L3
+HAVCR1
+LAMP3
+BLNK
+CD209
+EHD3
+CKLF
+MZB1
+FKBP11
+EMCN
+CLIC5
+FXYD4
+KRT20
+CPVL
+MIOX
+TRPV5
+PLEKHB1
+PAPPA2
+IFIH1
+MS4A6A
+PVRIG
+DENND2D
+SLC4A9
+PPP1R1B
+MFSD2A
+GLYATL1
+SP140L
+NLRP3
+SLC26A7
+FAM129A
+ATP6V1G3
+GATA5
+CLEC4C
+ATP6V0D2
+ATP6V1C2
+HEPACAM2
+RTN4RL2
+NRARP
+CD24
+clinical finding
+clinical history
+image finding
+laboratory finding
+disease
+bodily process
+pathological bodily process
+diagnosis
+physical examination finding
+treatment
+health care encounter
+injury
+diagnostic process
+social security number
+human social role
+party to a legal entity
+party to a legal proceeding
+party to a legal agreement
+party to a marriage contract
+party to a power of attorney
+gender role
+male gender role
+female gender role
+human health care role
+patient role
+health care provider role
+physician role
+nurse role
+health care provider organization role
+person health care provider role
+physician practice
+integrated delivery network
+collection of organisms
+collection of humans
+role in human social processes
+organization social role
+organism social role
+organization health care role
+human patient role
+aggregate of organizations
+legal person role
+smoker role
+hospital role
+school role
+school organization
+student role
+nursery school role
+primary school role
+secondary school role
+pediatric trauma patient role
+injured patient role
+burn patient role
+physiatrist role
+trauma patient role
+residence function
+household
+employee role
+US Census reference person role
+socio-legal human social role
+human role within an organization
+employer role
+payer role
+party to an insurance policy
+US Census unemployed role
+US physician assistant role
+anesthesiologist role
+surgeon role
+neurosurgereon role
+heavy smoker role
+light smoker role
+employment data
+income data
+government assistance health care plan data
+health care plan data
+government assistance income data
+WIC data
+socio-economic data
+precision medicine process
+precision medicine investigation
+household size
+more than 5.5 pounds (2500 grams) birth weight
+less than 5.5 pounds (2500 grams) birth weight
+unknown birth weight
+birth weight declined to answer
+individual plan insurance (paid by the member)
+group plan insurance through employee union
+USA government health plan insurance
+no insurance status
+body temperature measured orally
+body temprature by ear (tempanic, aural)
+body temprature by forhead
+arterial line body temperature
+body temprature by other measurement
+higher than 7th but less than 12th Grade education level
+direct serum bilirubin level
+precision medicine objective
+less than 8th Grade education level
+high school completion, GED or equivalent
+answer to question
+yes answer to question
+no answer to question
+unknown answer to question
+do not know due to data unavailable answer to question
+declined to answer to question
+other answer to question
+none answer to question
+textual question
+medical history form
+eligibility assessment form
+demographic information form
+physical measurement form
+question with enumerated responses
+question with yes and no responses
+question with enumerated responses where only one answer chosen
+question with enumerated responses where multiple answers may be chosen
+case report form
+laboratory result form
+new patient form
+biopsy procedure form
+kidney biopsy procedure form
+consent form
+paper form
+paper form with signature required
+sanitation
+contact information form
+biosample collection form
+clinic reception form
+medications form
+participant study status form
+hospitalization form
+personal history form
+AKI hospitalization form
+CKD hospitalization form
+participant reported outcome measures form
+health literacy questionnaire form
+biopsy safety checklist form
+post biopsy form
+tissue tracking form
+pathology images upload form
+diagnostic core .jpg images QC form
+diagnostic core - disease categories form
+central path quality metrics assessment Dx core form
+central path quality metrics assessment interrogation core form
+post-biopsy patient experience survey form
+adverse event entry form
+month of year
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+day of week
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+day of birth
+birthday
+personal information
+person name
+person first name
+person last name
+person middle name
+person full name
+person legal name
+birth name
+person login username
+maiden name
+pseudonym
+marital status
+married marital status
+single marrital status
+divorced marrital status
+widowed marrital status
+legally separated marital status
+not married marital status
+education level
+telephone number
+home telephone number
+work telephone number
+cellular telephone number
+unemployment status
+home postal address
+work postal address
+postal code
+ZIP code
+socioeconomic status
+employment status
+full time employment status
+part time employment status
+hourly employment status
+self-employment status
+temporary employment status
+Master's degree education level
+academic Doctorate degree education level
+no formal school education level
+high school education level
+Bachelor's degree education level
+professional doctorate degree education level
+M.D. completion education level
+Pharmacy complete education level
+kindergarten completion education level
+preschool completion education level
+GED education level
+1st Grade education level
+2nd Grade education level
+3rd Grade education level
+4th Grade education level
+5th Grade education level
+6th Grade education level
+7th Grade education level
+8th Grade education level
+9th Grade education level
+10th Grade education level
+11th Grade education level
+12th Grade education level
+associate academic degree education level
+vocational program completion education level
+health insurance plan
+Medicaid
+Medicare
+private health insurance plan
+worker compensation insurance plan
+body weight
+birth weight
+emergency contact phone number
+care provider
+primary care provider
+centrally registered study identifier symbol
+secondary care provider
+tertiary care provider
+2nd email address
+age question
+Whether age less than 18 years old
+KPMP eligibility assessment form
+BMI question
+Whether BMI greater than 40 kg per m2
+BMI greater than 40 kg per m2
+question about blood transfusion
+Whether unwilling to receive blood transfusion
+pregnancy question
+Whether pregnant
+transplant question
+Whether transplant recipient
+Whether kidney transplant recipient
+KPMP clinical report form
+KPMP biopsy procedure form
+KPMP biosample collection form
+KPMP adverse event entry form
+KPMP biopsy safety checklist form
+KPMP clinic reception form
+KPMP contact information form
+KPMP demographic information form
+KPMP health literacy questionnaire form
+eligibility question
+KPMP AKI hospitalization form
+KPMP CKD hospitalization form
+KPMP laboratory result form
+KPMP medical history form
+KPMP consent form
+KPMP medications form
+KPMP new patient form
+KPMP participant reported outcome measures form
+KPMP participant study status form
+KPMP pathology images upload form
+KPMP patient experience survey form
+KPMP personal history form
+KPMP physical measurement form
+KPMP post biopsy form
+KPMP tissue tracking form
+KPMP Dx core - .jpg images QC form
+KPMP Dx core - disease categories form
+KPMP central path quality metrics assessment Dx core form
+KPMP central path quality metrics assessment interrogation core form
+last four digits of social security number
+self
+email question
+What email address
+Whether self owns email address
+Who owns email address
+What is your birthday
+contact name
+emergency contact name
+Who owns the 2nd email address
+Who owns the 3rd email address
+physician information
+physician specialty information
+health care
+patient care
+primary care
+secondary care
+tertiary care
+quaternary care
+hospital care
+nephrology care
+endocrinology care
+physician question
+What physician's specialty
+hospital question
+what name of hospital
+address question
+What street name
+What city
+What state
+What Zip code
+What street number and name
+What apartment
+What country
+Whether have physician for usual medical care
+nephrology care provider
+patient condition question
+Whether diabetic kidney disease (DKD)
+Whether hypertensive CKD (H-CKD)
+Whether diabetic nephropathy resisters percutaneous biopsy
+Whether AKI percutaneous biopsy
+Whether AKI open biopsy
+Whether biopsy
+CRF filled up by patient
+What postal code
+CRF filled up by research coordinator
+CRF filled up by biopsy operator
+biopsy-related CRF
+post biopsy hospitlization form
+pathology CRF
+screening and patient tracking CRF
+enrollment CRF
+Whether patient eligible to consent
+HIPAA release
+Whether patient signed HIPPA release form
+When HIPAA release form signed
+Whether scanned HIPAA release form uploaded
+hypertensive chronic kidney disease
+biopsy
+electronic health record
+percutaneous biopsy
+AKi percutaneous biopsy
+open biopsy
+AKI open biopsy
+diabetic nephropathy resisters percutaneous biopsy
+health status
+medical condition
+Whether diseased
+Whether kidney diseased
+visit date
+barcode
+specimen barcode
+tissue tracking
+National Clinical Trial identifier
+title of clinical trial
+official title of clinical trial
+lay title of clinical trial
+investigator
+clinical investigator
+study start date
+clinical trial start date
+study completion date
+clinical trial study completion date
+clinical trial primary completion date
+clinical trial primary purpose specification
+date of registration
+primary health outcome measurement datum
+recruitment status
+electronic case report form
+clinical study participant candidate
+answering textual question
+today's date
+CRF filled up by participant candidate
+pregnancy test positive
+hemoglobin test finding
+hemoglobin test positive with result < 9 g/dl
+date of first test
+date of test
+date of second test
+person first and last name
+sign date
+status
+study status
+patient status
+exclusion criterion
+bleeding exclusion criteria
+PROMIS form
+kit identifier
+biopsy kit identifier
+KPMP PROMIS form
+biopsy pass
+needle biopsy
+health status question
+what health status
+excellent health status
+very good health status
+good health status
+fair health status
+poor health status
+quality of life
+excellent quality of life
+very good quality of life
+good quality of life
+fair quality of life
+poor quality of life
+consent status
+unwilling to receive a blood transfusion
+willing to receive a blood transfusion
+year
+medical history question
+What birth weight
+age less than 18 years
+GFR 30-59 mL/min/1.73m2
+eGFR >=60 mL/min/1.73m2 with urine albumin excretion >= 30 mg/g creatinine
+eGFR >= 60 mL/min/1.73m2 with urine protein excretion >= 150 mg/g creatinine
+medical history information provider role
+study participant's family member role
+study participant's physician role
+age at diagnosis of disease
+age at diagnosis of kidney disease
+Whether chronic kidney disease
+Whether acute kidney injury
+time of biopsy
+year of kidney biopsy
+time of kidney biopsy
+month of kidney biopsy
+age at the start of kidney stone
+age at the start of disease
+Whether diabetes
+age at diagosis of diabetes
+What disease
+What type of diabetes
+treatment question
+medicatoin treatment question
+surgical treatment question
+Whether taking medication for diabetes
+age at the start of medication
+age at the start of taking medication for diabetes
+What medication
+What medication taken for diabetes
+Whether insulin taken for diabetes
+Whether diabetes during pregnancy
+clinical trial
+Phase 0 clinical trial
+Phase 1 clinical trial
+Phase 2 clinical trial
+Phase 3 clinical trial
+Phase 4 clinical trial
+quality
+age
+composition
+biological sex
+morphology
+shape
+spatial pattern
+qualitative
+deviation(from_normal)
+amount
+size
+height
+weight
+position
+structure
+rate
+viability
+behavioral quality
+female
+male
+acute
+regular spatial pattern
+abnormal
+absent
+present
+increased amount
+increased size
+decreased size
+oriented
+bilateral
+mislocalised
+unilateral
+dysplastic
+hypoplastic
+decreased rate
+increased rate
+physical quality
+pressure
+process quality
+quality of a single physical entity
+physical object quality
+duration
+cellular quality
+cellular potency
+unipotent
+oligopotent
+multipotent
+nucleate quality
+mononucleate
+calcified
+duplicated
+functionality
+functional
+non-functional
+has number of
+having extra processual parts
+extra or missing processual parts
+dilated
+increased pressure
+rotated
+atrophied
+decreased functionality
+cystic
+constricted
+concave
+chronic
+U-shaped
+phenotypic sex
+lobed
+organismal quality
+decreased amount
+lacks parts or has fewer parts of type
+lacks all parts of type
+has extra parts of type
+concavity
+concave 3-D shape
+structure, cavities
+physical quality of a process
+affinity
+altered number of
+polycystic
+basophilic
+displaced
+molecular quality
+3-D shape
+aplastic/hypoplastic
+increased quality
+decreased quality
+decreased process quality
+decreased object quality
+increased process quality
+increased object quality
+nucleated
+collection of organisms
+plant anatomical entity
+protein
+CD19 molecule
+CD34 molecule
+CD4 molecule
+integrin alpha with A domain
+receptor-type tyrosine-protein phosphatase C
+integrin alpha-M
+integrin alpha-X
+receptor-type tyrosine-protein phosphatase C isoform CD45RA
+CD3 subunit with immunoglobulin domain
+CD3 epsilon
+neural cell adhesion molecule
+neural cell adhesion molecule NCAM
+neural cell adhesion molecule 1
+C-type lectin with multiple lectin domains
+CD2 molecule
+T-cell surface glycoprotein CD8 alpha chain
+adhesion G-protein coupled receptor
+rhodopsin-like G-protein coupled receptor
+chemokine receptor
+C-C chemokine receptor type 2
+CX3C chemokine receptor 1
+high affinity interleukin-8 receptor
+C-X-C chemokine receptor type 1
+C-X-C chemokine receptor type 2
+ADP-ribosyl cyclase
+membrane-spanning 4-domains subfamily A member 1
+CD209 molecule
+alpha-(1,3)-fucosyltransferase
+cadherin
+carcinoembryonic antigen-related cell adhesion molecule 8
+endoglin
+immunoglobulin gamma Fc receptor II/III/IV
+interleukin-2 receptor subunit beta
+ADP-ribosyl cyclase 1
+cadherin-5
+alpha-(1,3)-fucosyltransferase FUT4
+low affinity immunoglobulin gamma Fc region receptor II
+low affinity immunoglobulin gamma Fc region receptor III
+prominin
+prominin-1
+5'-nucleotidase
+CD59-like glycoprotein
+CSF-1/PDGF receptor-type tyrosine-protein kinase
+EGF-like module-containing mucin-like hormone receptor-like 1
+CD7 molecule
+T-cell surface glycoprotein CD1
+T-cell surface glycoprotein CD5
+Thy-1 membrane glycoprotein
+arginase-1
+interleukin-3 receptor class 2 alpha chain
+interleukin-5 receptor subunit alpha
+interleukin-7 receptor subunit alpha
+KLRB1-like protein
+leukosialin
+lysosome-associated membrane protein
+CD14 molecule
+CD33 molecule
+neprilysin
+paired box protein PAX-5
+platelet glycoprotein 4
+transcription factor PU.1
+transferrin receptor protein 1
+urokinase plasminogen activator surface receptor
+vascular endothelial growth factor receptor
+T-cell surface glycoprotein CD1a
+macrosialin
+mast/stem cell growth factor receptor
+vascular endothelial growth factor receptor 2
+macrophage mannose receptor 1
+ly-6-like protein
+lymphocyte antigen 6G
+lymphocyte antigen 76
+alkaline phosphatase, tissue-nonspecific isozyme
+CCAAT/enhancer-binding protein alpha
+DNA nucleotidylexotransferase
+proto-oncogene c-Fos
+erythroid transcription factor
+endothelial transcription factor GATA-2
+lactotransferrin
+myeloperoxidase
+myb proto-oncogene protein
+T-cell acute lymphocytic leukemia protein 1
+amino acid chain
+integrin alpha
+G-protein coupled receptor
+system
+submucosa
+zone of skin
+anatomical boundary
+tube
+appendage
+lymph node
+head
+serous membrane
+vessel
+ureter
+urethra
+duct
+anatomical wall
+anatomical structure
+organ
+organ subunit
+organ part
+fully formed stage
+embryo stage part
+embryo stage
+death stage
+renal glomerulus
+subdivision of skeletal system
+external ectoderm
+mixed endoderm/mesoderm-derived structure
+mesonephros
+metanephros
+adult mammalian kidney
+mesonephric tubule
+ureteric bud
+morula
+zona pellucida
+inner cell mass
+trophoblast
+bilaminar disc
+post-embryonic stage
+membrane organ
+life cycle
+life cycle stage
+zygote stage
+cleavage stage
+blastula stage
+gastrula stage
+neurula stage
+organogenesis stage
+sexually immature stage
+cell layer
+anterior region of body
+posterior region of body
+membranous layer
+orifice
+cloaca
+embryonic cloaca
+primitive urogenital sinus
+mouth
+excreta
+blood
+haemolymphatic fluid
+blastula
+late embryo
+mucosa
+parenchyma
+blastocyst
+renal medulla
+urothelium
+musculature of body
+serous gland
+bodily secretion
+organism substance
+anatomical space
+material anatomical entity
+immaterial anatomical entity
+anatomical system
+multicellular organism
+compound organ component
+female reproductive system
+organism subdivision
+acellular anatomical structure
+anatomical cluster
+extraembryonic structure
+tissue
+multi-tissue structure
+epithelium
+simple cuboidal epithelium
+simple columnar epithelium
+multilaminar epithelium
+simple squamous epithelium
+cavitated compound organ
+unilaminar epithelium
+interstitial fluid
+thoracic segment of trunk
+abdomen
+embryo
+germ layer
+ectoderm
+endoderm
+mesoderm
+stomodeum
+proctodeum
+heart
+endocrine system
+lamina
+medulla of organ
+skeletal joint
+reproductive system
+gonad
+ovary
+oviduct
+uterus
+skin epidermis
+respiratory system
+digestive system
+renal system
+circulatory system
+adipose tissue
+musculature
+nervous system
+central nervous system
+foregut
+midgut
+hindgut
+primordium
+neural tube
+Malpighian tubule
+anatomical entity
+posterior vena cava
+urine
+synovial fluid
+skeletal muscle tissue
+smooth muscle tissue
+mesothelium
+renal vein
+right renal vein
+left renal vein
+renal artery
+right ureter
+left ureter
+renal pelvis
+cortex of kidney
+major calyx
+minor calyx
+renal papilla
+renal corpuscle
+glomerular capsule
+nephron tubule
+collecting duct of renal tubule
+anus
+urothelium of ureter
+urinary bladder
+pelvic girdle region
+renal column
+nephron
+Bowman's space
+proximal convoluted tubule
+loop of Henle
+descending limb of loop of Henle
+proximal straight tubule
+thick ascending limb of loop of Henle
+distal convoluted tubule
+outer medulla of kidney
+inner medulla of kidney
+anal region
+skeletal system
+lymphatic vessel
+bone element
+articular capsule
+kidney arcuate artery
+digestive tract
+lower urinary tract
+muscle organ
+artery
+vein
+lymphoid tissue
+cortex
+endothelium of capillary
+endothelium of artery
+blood plasma
+venule
+arteriole
+blood vessel
+capillary
+endothelium
+placenta
+cortex of lymph node
+medulla of lymph node
+kidney capsule
+vasculature
+embryonic structure
+dermis
+urachus
+hypodermis
+viscus
+postcranial axial skeleton
+appendicular skeleton
+skin of body
+trunk
+kidney
+pronephros
+outer cortex of kidney
+hemolymphoid system
+capsule of lymph node
+integument
+vasculature of trunk
+musculoskeletal system
+synovial joint
+thoracic cavity
+juxtaglomerular apparatus
+mesangium
+glomerular mesangium
+extraglomerular mesangium
+coelemic cavity lumen
+epithelium of urethra
+notochord
+somite
+exocrine system
+umbilical cord
+macula densa
+neural crest
+neurectoderm
+pelvic region of trunk
+exocrine gland
+endocrine gland
+bone marrow
+connective tissue
+muscle tissue
+hematopoietic system
+lymph
+immune system
+integumental system
+abdominal segment of trunk
+lymphoid system
+bone tissue
+gland
+epiblast (generic)
+anatomical cavity
+organ cavity
+periderm
+presomitic mesoderm
+pronephric duct
+blood island
+intermediate mesoderm
+axial mesoderm
+mesonephric duct
+neural plate
+paraxial mesoderm
+lateral plate mesoderm
+heart primordium
+sclerotome
+female organism
+surface structure
+compound organ
+mesenchyme
+chorion
+reproductive organ
+female reproductive organ
+metanephric mesenchyme
+chorionic mesenchyme
+epithelium of mucosa
+chorionic ectoderm
+renal lymph node
+inner renal medulla loop of Henle
+thoracic cavity vein
+abdomen blood vessel
+arterial blood vessel
+trunk blood vessel
+kidney blood vessel
+thoracic cavity blood vessel
+kidney capillary
+distal convoluted tubule macula densa
+abdomen connective tissue
+trunk connective tissue
+kidney arterial blood vessel
+neural tissue
+abdominal segment blood vessel
+abdominal segment connective tissue
+future coelemic cavity lumen
+intraembryonic coelom
+stroma
+capsule
+epithelial tube
+endothelial tube
+kidney mesenchyme
+venous blood vessel
+dermatome
+vena cava
+renal collecting system
+anatomical conduit
+endoderm-derived structure
+mesoderm-derived structure
+ectoderm-derived structure
+genitourinary system
+proximal tubule
+distal tubule
+intermediate tubule
+cardiogenic plate
+primary heart field
+heart tube
+cardiac chamber
+internal genitalia
+external genitalia
+hemopoietic organ
+glomerular epithelium
+glomerular endothelium
+renal glomerulus vasculature
+loop of Henle ascending limb thin segment
+long nephron
+short nephron
+proximal convoluted tubule segment 1
+proximal convoluted tubule segment 2
+comma-shaped body
+S-shaped body
+kidney pyramid
+kidney outer medulla inner stripe
+kidney outer medulla outer stripe
+cortical collecting duct
+outer medullary collecting duct
+inner medullary collecting duct
+nephrogenic mesenchyme
+renal vesicle
+nephron epithelium
+glomerular capillary
+kidney pelvis smooth muscle
+skeleton
+dermomyotome
+heart rudiment
+glomerular capillary endothelium
+allantois
+primitive streak
+trophectoderm
+cardiovascular system
+lymph vasculature
+blood vasculature
+left kidney
+right kidney
+systemic arterial system
+arterial system
+systemic artery
+venous system
+blood vessel endothelium
+renal afferent arteriole
+renal efferent arteriole
+arterial system endothelium
+conceptus
+kidney arcuate vein
+interlobular artery
+vasa recta
+gastrula
+metanephric glomerulus
+metanephric collecting duct
+metanephric juxtaglomerular apparatus
+pronephric glomerulus
+skeletal tissue
+skeletal element
+articular system
+outer renal medulla vasa recta
+inner renal medulla vasa recta
+kidney pelvis urothelium
+nephron tubule epithelium
+kidney epithelium
+cardiovascular system endothelium
+somatic layer of lateral plate mesoderm
+splanchnic layer of lateral plate mesoderm
+somatopleure
+nephrogenic cord
+urogenital fold
+chordamesoderm
+articulation
+subdivision of digestive tract
+organ component layer
+mucosa of ureter
+mucosa of renal pelvis
+mucosa of major calyx
+mucosa of minor calyx
+immune organ
+neural groove
+neural fold
+neural rod
+metanephric ureteric bud
+ureter ureteric bud
+muscle structure
+kidney rudiment
+descending thin limb
+renal connecting tubule
+short descending thin limb
+long descending thin limb
+early distal convoluted tubule
+late distal convoluted tubule
+mesonephric epithelium
+anterior mesonephric tubule
+posterior mesonephric tubule
+metanephric tubule
+metanephric epithelium
+metanephric nephron
+metanephric pyramid
+metanephric cortex mesenchyme
+metanephric ascending thin limb
+metanephric distal convoluted tubule
+metanephric early distal convoluted tubule
+metanephric late distal convoluted tubule
+metanephric macula densa
+metanephric proximal convoluted tubule
+metanephric proximal straight tubule
+metanephric thick ascending limb
+metanephric distal tubule
+metanephric loop of Henle
+metanephric long nephron
+metanephric glomerulus vasculature
+metanephric nephron epithelium
+metanephric glomerular epithelium
+metanephric glomerular endothelium
+metanephric capsule
+metanephric long descending thin limb
+metanephric short nephron
+metanephric short descending thin limb
+metanephric glomerular capillary
+metanephric nephron tubule
+metanephric renal vesicle
+metanephric connecting tubule
+metanephric proximal tubule
+reproductive structure
+epithelial fold
+multi cell part structure
+ascending limb of loop of Henle
+papillary duct
+renal interlobular vein
+interstitial tissue
+abdomen element
+abdominal segment element
+trunk region element
+thoracic cavity element
+pelvic region element
+thoracic segment organ
+renal medulla collecting duct
+distal straight tubule macula densa
+renal medulla interstitium
+outer renal medulla interstitium
+inner renal medulla interstitium
+kidney interstitium
+metanephric renal pelvis
+trunk mesenchyme
+renal cortex artery
+renal cortex vein
+renal cortex interstitium
+juxtamedullary cortex
+peritubular capillary
+embryonic tissue
+extraembryonic tissue
+pronephric nephron
+pronephric nephron tubule
+primary ureteric bud
+mesonephric collecting duct
+mesonephric juxtaglomerular apparatus
+mesonephric nephron
+mesonephric mesenchyme
+mesonephric macula densa
+mesonephric glomerulus
+mesonephric glomerulus vasculature
+mesonephric glomerular epithelium
+mesonephric nephron tubule
+mesonephric nephron epithelium
+mesonephric renal vesicle
+developing anatomical structure
+primitive heart tube
+gonad primordium
+vascular plexus
+extraembryonic membrane
+pronephric mesoderm
+extraembryonic mesoderm
+adventitia
+glomerular tuft
+glomerular parietal epithelium
+visceral layer of glomerular capsule
+caudal part of nephrogenic cord
+rostral part of nephrogenic cord
+acellular membrane
+basement membrane of epithelium
+nephric ridge
+embryonic uterus
+developing mesenchymal condensation
+mesonephric early distal tubule
+serous sac
+endo-epithelium
+transitional epithelium of major calyx
+axial skeleton plus cranial skeleton
+amniotic fold
+mesonephric capsule
+renal sinus
+pronephric proximal tubule
+pronephric sinus
+pronephric distal tubule
+mesonephric glomerular capillary
+mesonephric connecting tubule
+mesonephric distal tubule
+mesonephric proximal tubule
+renal sinus of right kidney
+renal sinus of left kidney
+mesonephric sinus
+cloacal membrane
+notochordal plate
+notochordal process
+bodily fluid
+distal early tubule
+outer renal medulla peritubular capillary
+ureteric bud tip
+perihilar interstitium
+premacula segment of distal straight tubule
+kidney calyx
+renal convoluted tubule
+outer medulla inner stripe loop of Henle
+outer medulla outer stripe loop of Henle
+kidney vasculature
+renal duct
+excretory tube
+lymphatic part of lymphoid system
+pharynx
+presumptive endoderm
+presumptive blood
+presumptive structure
+presumptive ectoderm
+presumptive mesoderm
+muscular coat
+renal cortex peritubular capillary
+glomerular visceral epithelium
+renal cortex tubule
+distal straight tubule postmacula segment
+muscular coat of ureter
+terminal part of digestive tract
+vasculature of organ
+squamous epithelium
+vascular cord
+nephridium
+protonephridium
+metanephridium
+anatomical surface
+cardiac mesoderm
+cleaving embryo
+presumptive gut
+primary circulatory organ
+umbilicus
+glomeral mesenchyme
+head kidney
+neural keel
+neonate stage
+presumptive segmental plate
+presumptive neural plate
+presumptive paraxial mesoderm
+presumptive pronephric mesoderm
+pronephric proximal convoluted tubule
+pronephric glomerular capillary
+pronephric distal early tubule
+outer epithelium
+stratum compactum
+enveloping layer of ectoderm
+epithelial sac
+epithelial tube open at both ends
+arborizing epithelial duct system
+epithelial vesicle
+dense mesenchyme tissue
+migrating mesenchyme population
+layer of synovial tissue
+synovial cavity of joint
+anatomical junction
+capillary loop nephron
+maturing nephron
+uriniferous tubule
+region of nephron tubule
+kidney field
+anlage
+transudate
+secretion of serous gland
+vascular system
+connecting stalk
+craniocervical region
+appendage girdle region
+pelvic girdle skeleton
+proximal tubular epithelium
+distal tubular epithelium
+inner cell mass derived epiblast
+renal parenchyma
+renal straight tubule
+inner medulla vasa recta descending limb
+outer medulla vasa recta descending limb
+vasa recta ascending limb
+inner medulla vasa recta ascending limb
+outer medulla vasa recta ascending limb
+tip of renal papilla
+indifferent gonad
+entire embryonic mesenchyme
+indifferent external genitalia
+nephric duct
+vasa recta descending limb
+subdivision of trunk
+trunk paraxial mesoderm
+pronephric proximal straight tubule
+nephron tubule basement membrane
+lymph node medullary sinus
+lymph node medullary cord
+renal tubule
+glandular acinus
+sac
+nephrogenic zone
+anterior lateral plate mesoderm
+medullary ray
+interlobar artery
+anatomical lobe
+renal lobe
+wall of ureter
+kidney corticomedullary boundary
+ureter smooth muscle
+multicellular anatomical structure
+cuboidal epithelium
+future dermis
+polarized epithelium
+straight venules of kidney
+bona-fide anatomical boundary
+structure with developmental contribution from neural crest
+germ layer / neural crest
+extraembryonic membrane mesenchyme
+ecto-epithelium
+mesenchyme from somatopleure
+microcirculatory vessel
+metanephros induced blastemal cells
+primitive nephron
+metanephros cortex
+primitive mesonephric nephron
+primitive metanephric nephron
+nephron progenitor
+appendage girdle complex
+pelvic complex
+girdle skeleton
+subdivision of skeleton
+nonsynovial joint
+axial skeletal system
+post-cranial axial skeletal system
+upper urinary tract
+urachus epithelium
+organ system subdivision
+appendicular skeletal system
+embryonic skin basal layer
+cell condensation
+subdivision of organism along main body axis
+embryonic cardiovascular system
+irregular connective tissue
+dense irregular connective tissue
+dense connective tissue
+fibrous connective tissue
+loose connective tissue
+acinus of exocrine gland
+collection of collagen fibrils
+coelom
+ureteric bud trunk
+abdominal aorta artery
+columnar epithelium
+meso-epithelium
+embryonic cloacal fold
+internal anal region
+layer of microvilli
+brush border layer
+proximal convoluted tubule brush border
+hematopoietic tissue
+endothelium of peritubular capillary
+external anal region
+skeleton of pelvic complex
+vein of abdomen
+serous acinus
+embryonic urethral groove
+space surrounding organism
+subdivision of oviduct
+subdivision of tube
+anatomical conduit space
+main body axis
+body proper
+integumentary system layer
+venous blood
+great vessel of heart
+kidney collecting duct epithelium
+renal venous blood vessel
+thoracic skeleton
+primitive renal collecting duct system
+primordial vasculature
+lateral structure
+circulatory organ
+heart plus pericardium
+heterogeneous tissue
+pit
+future central nervous system
+future nervous system
+entire extraembryonic component
+transitional anatomical structure
+developing mesenchymal structure
+left kidney interstitium
+right kidney interstitium
+left renal pelvis
+right renal pelvis
+left renal cortex interstitium
+right renal cortex interstitium
+left renal medulla interstitium
+right renal medulla interstitium
+layer of muscle tissue
+nursing stage
+bladder organ
+lymphomyeloid tissue
+juxtaglomerular arteriole
+infant stage
+multi organ part structure
+cell cluster
+anatomical collection
+zone of organ
+embryonic lymph sac
+epithelial layer of duct
+outer renal medulla loop of Henle
+renal medulla loop of Henle
+anterior surface of kidney
+capillary plexus
+peritubular capillary plexus of kidney
+capillary network of kidney
+future mouth
+cardiopharyngeal field
+anatomical surface region
+posterior pronephric duct
+distal late tubule
+pronephric glomerular capsule epithelium
+external integument structure
+mesonephric early proximal tubule
+mesonephric late proximal tubule
+time unit
+Phenotype
+abnormal phenotype
+vaccine
+vaccination
+mineral salt vaccine adjuvant
+vaccine adjuvant role
+bacterial vaccine
+vaccine component
+vaccine organism inactivated
+vaccine function
+company
+intramuscular route
+vaccine additive role
+preventive vaccine function
+immunization
+active immunization
+vaccine immunization
+induction of adaptive immune response to antigen
+disorder prevention
+disorder treatment
+modification of adaptive immune response to antigen
+therapeutic vaccine function
+route of administration
+vaccine adjuvant
+immunization objective
+vaccine preparation
+viral vaccine
+vaccine role
+vaccine component role
+licensed vaccine role
+Clostridium vaccine
+Clostridium tetani vaccine
+Hepatitis B virus vaccine
+vaccine allergen disposition
+USA licensed vaccine role
+vaccine residual
+cell culture residual in vaccine
+Canada licensed vaccine role
+aluminum vaccine adjuvant
+vaccine allergen
+latex vaccine allergen
+yeast protein cell culture residual in vaccine
+vaccine organism viability
+intramuscular vaccination
+vaccine host role
+vaccine target specification
+Hepatitis B surface antigen vaccine
+Recombivax HB
+

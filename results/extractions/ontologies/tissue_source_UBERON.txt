@@ -1,0 +1,725 @@
+submucosa
+zone of skin
+anatomical boundary
+tube
+appendage
+lymph node
+head
+serous membrane
+vessel
+ureter
+urethra
+duct
+anatomical wall
+anatomical structure
+organ
+organ subunit
+organ part
+fully formed stage
+embryo stage part
+embryo stage
+death stage
+renal glomerulus
+subdivision of skeletal system
+external ectoderm
+mixed endoderm/mesoderm-derived structure
+mesonephros
+metanephros
+adult mammalian kidney
+mesonephric tubule
+ureteric bud
+morula
+zona pellucida
+inner cell mass
+trophoblast
+bilaminar disc
+post-embryonic stage
+membrane organ
+life cycle
+life cycle stage
+zygote stage
+cleavage stage
+blastula stage
+gastrula stage
+neurula stage
+organogenesis stage
+sexually immature stage
+cell layer
+anterior region of body
+posterior region of body
+membranous layer
+orifice
+cloaca
+embryonic cloaca
+primitive urogenital sinus
+mouth
+excreta
+blood
+haemolymphatic fluid
+blastula
+late embryo
+mucosa
+parenchyma
+blastocyst
+renal medulla
+urothelium
+musculature of body
+serous gland
+bodily secretion
+organism substance
+anatomical space
+material anatomical entity
+immaterial anatomical entity
+anatomical system
+multicellular organism
+compound organ component
+female reproductive system
+organism subdivision
+acellular anatomical structure
+anatomical cluster
+extraembryonic structure
+tissue
+multi-tissue structure
+epithelium
+simple cuboidal epithelium
+simple columnar epithelium
+multilaminar epithelium
+simple squamous epithelium
+cavitated compound organ
+unilaminar epithelium
+interstitial fluid
+thoracic segment of trunk
+abdomen
+embryo
+germ layer
+ectoderm
+endoderm
+mesoderm
+stomodeum
+proctodeum
+heart
+endocrine system
+lamina
+medulla of organ
+skeletal joint
+reproductive system
+gonad
+ovary
+oviduct
+uterus
+skin epidermis
+respiratory system
+digestive system
+renal system
+circulatory system
+adipose tissue
+musculature
+nervous system
+central nervous system
+foregut
+midgut
+hindgut
+primordium
+neural tube
+Malpighian tubule
+anatomical entity
+posterior vena cava
+urine
+synovial fluid
+skeletal muscle tissue
+smooth muscle tissue
+mesothelium
+renal vein
+right renal vein
+left renal vein
+renal artery
+right ureter
+left ureter
+renal pelvis
+cortex of kidney
+major calyx
+minor calyx
+renal papilla
+renal corpuscle
+glomerular capsule
+nephron tubule
+collecting duct of renal tubule
+anus
+urothelium of ureter
+urinary bladder
+pelvic girdle region
+renal column
+nephron
+Bowman's space
+proximal convoluted tubule
+loop of Henle
+descending limb of loop of Henle
+proximal straight tubule
+thick ascending limb of loop of Henle
+distal convoluted tubule
+outer medulla of kidney
+inner medulla of kidney
+anal region
+skeletal system
+lymphatic vessel
+bone element
+articular capsule
+kidney arcuate artery
+digestive tract
+lower urinary tract
+muscle organ
+artery
+vein
+lymphoid tissue
+cortex
+endothelium of capillary
+endothelium of artery
+blood plasma
+venule
+arteriole
+blood vessel
+capillary
+endothelium
+placenta
+cortex of lymph node
+medulla of lymph node
+kidney capsule
+vasculature
+embryonic structure
+dermis
+urachus
+hypodermis
+viscus
+postcranial axial skeleton
+appendicular skeleton
+skin of body
+trunk
+kidney
+pronephros
+outer cortex of kidney
+hemolymphoid system
+capsule of lymph node
+integument
+vasculature of trunk
+musculoskeletal system
+synovial joint
+thoracic cavity
+juxtaglomerular apparatus
+mesangium
+glomerular mesangium
+extraglomerular mesangium
+coelemic cavity lumen
+epithelium of urethra
+notochord
+somite
+exocrine system
+umbilical cord
+macula densa
+neural crest
+neurectoderm
+pelvic region of trunk
+exocrine gland
+endocrine gland
+bone marrow
+connective tissue
+muscle tissue
+hematopoietic system
+lymph
+immune system
+integumental system
+abdominal segment of trunk
+lymphoid system
+bone tissue
+gland
+epiblast (generic)
+anatomical cavity
+organ cavity
+periderm
+presomitic mesoderm
+pronephric duct
+blood island
+intermediate mesoderm
+axial mesoderm
+mesonephric duct
+neural plate
+paraxial mesoderm
+lateral plate mesoderm
+heart primordium
+sclerotome
+female organism
+surface structure
+compound organ
+mesenchyme
+chorion
+reproductive organ
+female reproductive organ
+metanephric mesenchyme
+chorionic mesenchyme
+epithelium of mucosa
+chorionic ectoderm
+renal lymph node
+inner renal medulla loop of Henle
+thoracic cavity vein
+abdomen blood vessel
+arterial blood vessel
+trunk blood vessel
+kidney blood vessel
+thoracic cavity blood vessel
+kidney capillary
+distal convoluted tubule macula densa
+abdomen connective tissue
+trunk connective tissue
+kidney arterial blood vessel
+neural tissue
+abdominal segment blood vessel
+abdominal segment connective tissue
+future coelemic cavity lumen
+intraembryonic coelom
+stroma
+capsule
+epithelial tube
+endothelial tube
+kidney mesenchyme
+venous blood vessel
+dermatome
+vena cava
+renal collecting system
+anatomical conduit
+endoderm-derived structure
+mesoderm-derived structure
+ectoderm-derived structure
+genitourinary system
+proximal tubule
+distal tubule
+intermediate tubule
+cardiogenic plate
+primary heart field
+heart tube
+cardiac chamber
+internal genitalia
+external genitalia
+hemopoietic organ
+glomerular epithelium
+glomerular endothelium
+renal glomerulus vasculature
+loop of Henle ascending limb thin segment
+long nephron
+short nephron
+proximal convoluted tubule segment 1
+proximal convoluted tubule segment 2
+comma-shaped body
+S-shaped body
+kidney pyramid
+kidney outer medulla inner stripe
+kidney outer medulla outer stripe
+cortical collecting duct
+outer medullary collecting duct
+inner medullary collecting duct
+nephrogenic mesenchyme
+renal vesicle
+nephron epithelium
+glomerular capillary
+kidney pelvis smooth muscle
+skeleton
+dermomyotome
+heart rudiment
+glomerular capillary endothelium
+allantois
+primitive streak
+trophectoderm
+cardiovascular system
+lymph vasculature
+blood vasculature
+left kidney
+right kidney
+systemic arterial system
+arterial system
+systemic artery
+venous system
+blood vessel endothelium
+renal afferent arteriole
+renal efferent arteriole
+arterial system endothelium
+conceptus
+kidney arcuate vein
+interlobular artery
+vasa recta
+gastrula
+metanephric glomerulus
+metanephric collecting duct
+metanephric juxtaglomerular apparatus
+pronephric glomerulus
+skeletal tissue
+skeletal element
+articular system
+outer renal medulla vasa recta
+inner renal medulla vasa recta
+kidney pelvis urothelium
+nephron tubule epithelium
+kidney epithelium
+cardiovascular system endothelium
+somatic layer of lateral plate mesoderm
+splanchnic layer of lateral plate mesoderm
+somatopleure
+nephrogenic cord
+urogenital fold
+chordamesoderm
+articulation
+subdivision of digestive tract
+organ component layer
+mucosa of ureter
+mucosa of renal pelvis
+mucosa of major calyx
+mucosa of minor calyx
+immune organ
+neural groove
+neural fold
+neural rod
+metanephric ureteric bud
+ureter ureteric bud
+muscle structure
+kidney rudiment
+descending thin limb
+renal connecting tubule
+short descending thin limb
+long descending thin limb
+early distal convoluted tubule
+late distal convoluted tubule
+mesonephric epithelium
+anterior mesonephric tubule
+posterior mesonephric tubule
+metanephric tubule
+metanephric epithelium
+metanephric nephron
+metanephric pyramid
+metanephric cortex mesenchyme
+metanephric ascending thin limb
+metanephric distal convoluted tubule
+metanephric early distal convoluted tubule
+metanephric late distal convoluted tubule
+metanephric macula densa
+metanephric proximal convoluted tubule
+metanephric proximal straight tubule
+metanephric thick ascending limb
+metanephric distal tubule
+metanephric loop of Henle
+metanephric long nephron
+metanephric glomerulus vasculature
+metanephric nephron epithelium
+metanephric glomerular epithelium
+metanephric glomerular endothelium
+metanephric capsule
+metanephric long descending thin limb
+metanephric short nephron
+metanephric short descending thin limb
+metanephric glomerular capillary
+metanephric nephron tubule
+metanephric renal vesicle
+metanephric connecting tubule
+metanephric proximal tubule
+reproductive structure
+epithelial fold
+multi cell part structure
+ascending limb of loop of Henle
+papillary duct
+renal interlobular vein
+interstitial tissue
+abdomen element
+abdominal segment element
+trunk region element
+thoracic cavity element
+pelvic region element
+thoracic segment organ
+renal medulla collecting duct
+distal straight tubule macula densa
+renal medulla interstitium
+outer renal medulla interstitium
+inner renal medulla interstitium
+kidney interstitium
+metanephric renal pelvis
+trunk mesenchyme
+renal cortex artery
+renal cortex vein
+renal cortex interstitium
+juxtamedullary cortex
+peritubular capillary
+embryonic tissue
+extraembryonic tissue
+pronephric nephron
+pronephric nephron tubule
+primary ureteric bud
+mesonephric collecting duct
+mesonephric juxtaglomerular apparatus
+mesonephric nephron
+mesonephric mesenchyme
+mesonephric macula densa
+mesonephric glomerulus
+mesonephric glomerulus vasculature
+mesonephric glomerular epithelium
+mesonephric nephron tubule
+mesonephric nephron epithelium
+mesonephric renal vesicle
+developing anatomical structure
+primitive heart tube
+gonad primordium
+vascular plexus
+extraembryonic membrane
+pronephric mesoderm
+extraembryonic mesoderm
+adventitia
+glomerular tuft
+glomerular parietal epithelium
+visceral layer of glomerular capsule
+caudal part of nephrogenic cord
+rostral part of nephrogenic cord
+acellular membrane
+basement membrane of epithelium
+nephric ridge
+embryonic uterus
+developing mesenchymal condensation
+mesonephric early distal tubule
+serous sac
+endo-epithelium
+transitional epithelium of major calyx
+axial skeleton plus cranial skeleton
+amniotic fold
+mesonephric capsule
+renal sinus
+pronephric proximal tubule
+pronephric sinus
+pronephric distal tubule
+mesonephric glomerular capillary
+mesonephric connecting tubule
+mesonephric distal tubule
+mesonephric proximal tubule
+renal sinus of right kidney
+renal sinus of left kidney
+mesonephric sinus
+cloacal membrane
+notochordal plate
+notochordal process
+bodily fluid
+distal early tubule
+outer renal medulla peritubular capillary
+ureteric bud tip
+perihilar interstitium
+premacula segment of distal straight tubule
+kidney calyx
+renal convoluted tubule
+outer medulla inner stripe loop of Henle
+outer medulla outer stripe loop of Henle
+kidney vasculature
+renal duct
+excretory tube
+lymphatic part of lymphoid system
+pharynx
+presumptive endoderm
+presumptive blood
+presumptive structure
+presumptive ectoderm
+presumptive mesoderm
+muscular coat
+renal cortex peritubular capillary
+glomerular visceral epithelium
+renal cortex tubule
+distal straight tubule postmacula segment
+muscular coat of ureter
+terminal part of digestive tract
+vasculature of organ
+squamous epithelium
+vascular cord
+nephridium
+protonephridium
+metanephridium
+anatomical surface
+cardiac mesoderm
+cleaving embryo
+presumptive gut
+primary circulatory organ
+umbilicus
+glomeral mesenchyme
+head kidney
+neural keel
+neonate stage
+presumptive segmental plate
+presumptive neural plate
+presumptive paraxial mesoderm
+presumptive pronephric mesoderm
+pronephric proximal convoluted tubule
+pronephric glomerular capillary
+pronephric distal early tubule
+outer epithelium
+stratum compactum
+enveloping layer of ectoderm
+epithelial sac
+epithelial tube open at both ends
+arborizing epithelial duct system
+epithelial vesicle
+dense mesenchyme tissue
+migrating mesenchyme population
+layer of synovial tissue
+synovial cavity of joint
+anatomical junction
+capillary loop nephron
+maturing nephron
+uriniferous tubule
+region of nephron tubule
+kidney field
+anlage
+transudate
+secretion of serous gland
+vascular system
+connecting stalk
+craniocervical region
+appendage girdle region
+pelvic girdle skeleton
+proximal tubular epithelium
+distal tubular epithelium
+inner cell mass derived epiblast
+renal parenchyma
+renal straight tubule
+inner medulla vasa recta descending limb
+outer medulla vasa recta descending limb
+vasa recta ascending limb
+inner medulla vasa recta ascending limb
+outer medulla vasa recta ascending limb
+tip of renal papilla
+indifferent gonad
+entire embryonic mesenchyme
+indifferent external genitalia
+nephric duct
+vasa recta descending limb
+subdivision of trunk
+trunk paraxial mesoderm
+pronephric proximal straight tubule
+nephron tubule basement membrane
+lymph node medullary sinus
+lymph node medullary cord
+renal tubule
+glandular acinus
+sac
+nephrogenic zone
+anterior lateral plate mesoderm
+medullary ray
+interlobar artery
+anatomical lobe
+renal lobe
+wall of ureter
+kidney corticomedullary boundary
+ureter smooth muscle
+multicellular anatomical structure
+cuboidal epithelium
+future dermis
+polarized epithelium
+straight venules of kidney
+bona-fide anatomical boundary
+structure with developmental contribution from neural crest
+germ layer / neural crest
+extraembryonic membrane mesenchyme
+ecto-epithelium
+mesenchyme from somatopleure
+microcirculatory vessel
+metanephros induced blastemal cells
+primitive nephron
+metanephros cortex
+primitive mesonephric nephron
+primitive metanephric nephron
+nephron progenitor
+appendage girdle complex
+pelvic complex
+girdle skeleton
+subdivision of skeleton
+nonsynovial joint
+axial skeletal system
+post-cranial axial skeletal system
+upper urinary tract
+urachus epithelium
+organ system subdivision
+appendicular skeletal system
+embryonic skin basal layer
+cell condensation
+subdivision of organism along main body axis
+embryonic cardiovascular system
+irregular connective tissue
+dense irregular connective tissue
+dense connective tissue
+fibrous connective tissue
+loose connective tissue
+acinus of exocrine gland
+collection of collagen fibrils
+coelom
+ureteric bud trunk
+abdominal aorta artery
+columnar epithelium
+meso-epithelium
+embryonic cloacal fold
+internal anal region
+layer of microvilli
+brush border layer
+proximal convoluted tubule brush border
+hematopoietic tissue
+endothelium of peritubular capillary
+external anal region
+skeleton of pelvic complex
+vein of abdomen
+serous acinus
+embryonic urethral groove
+space surrounding organism
+subdivision of oviduct
+subdivision of tube
+anatomical conduit space
+main body axis
+body proper
+integumentary system layer
+venous blood
+great vessel of heart
+kidney collecting duct epithelium
+renal venous blood vessel
+thoracic skeleton
+primitive renal collecting duct system
+primordial vasculature
+lateral structure
+circulatory organ
+heart plus pericardium
+heterogeneous tissue
+pit
+future central nervous system
+future nervous system
+entire extraembryonic component
+transitional anatomical structure
+developing mesenchymal structure
+left kidney interstitium
+right kidney interstitium
+left renal pelvis
+right renal pelvis
+left renal cortex interstitium
+right renal cortex interstitium
+left renal medulla interstitium
+right renal medulla interstitium
+layer of muscle tissue
+nursing stage
+bladder organ
+lymphomyeloid tissue
+juxtaglomerular arteriole
+infant stage
+multi organ part structure
+cell cluster
+anatomical collection
+zone of organ
+embryonic lymph sac
+epithelial layer of duct
+outer renal medulla loop of Henle
+renal medulla loop of Henle
+anterior surface of kidney
+capillary plexus
+peritubular capillary plexus of kidney
+capillary network of kidney
+future mouth
+cardiopharyngeal field
+anatomical surface region
+posterior pronephric duct
+distal late tubule
+pronephric glomerular capsule epithelium
+external integument structure
+mesonephric early proximal tubule
+mesonephric late proximal tubule
