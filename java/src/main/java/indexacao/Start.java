@@ -6,7 +6,7 @@ public class Start {
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
-		final String SAIR = "5"; 
+		final String SAIR = "6"; 
 		
 		String opcao = "";
 		do 
@@ -16,6 +16,7 @@ public class Start {
 			System.out.println("2 - Procurar arquivos");
 			System.out.println("3 - Salvar ocorrências");
 			System.out.println("4 - Salvar ocorrências da lista");
+			System.out.println("5 - Salvar ocorrências da lista diferente");
 			System.out.println(SAIR + " - Sair");
 			opcao = in.nextLine();
 			
@@ -50,6 +51,15 @@ public class Start {
 			{
 				try {
 					new Save().saveFromList();
+				} catch (Exception e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+			}
+			else if (opcao.equals("5"))
+			{
+				try {
+					new Save().saveFromFile();
 				} catch (Exception e) {
 					// TODO Auto-generated catch block
 					e.printStackTrace();

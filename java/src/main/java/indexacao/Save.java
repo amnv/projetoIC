@@ -17,7 +17,7 @@ public class Save {
 		if (docs.size() > 0) {
 			BufferedWriter writer = null;
 			try {
-				File file = new File("../data/seed/" + docName + ".txt");
+				File file = new File("../result/seed/novos2" + docName + ".txt");
 
 				// This will output the full path where the file will be written to...
 				System.out.println(file.getCanonicalPath());
@@ -53,5 +53,30 @@ public class Save {
 		}
 	}
 
-	
+	public void saveFromFile() throws Exception {
+		String[] toSearch = new String[] {
+				"neuronal receptor cell",
+				"early embryonic cell",
+				"neuroplacodal cell",
+				"apocrine cell",
+				"stem cell", 
+				"totipotent stem cell",
+				"bone matrix secreting cell",
+				"ameloblast",
+				"odontoblast",
+				"cementoblast",
+				"osteoblast",
+				"neural cell",
+				"precursor cell",
+				"kidney cell",
+				"myoblast",
+				"fibroblast",
+				"epithelial cell"
+		};
+		
+		for (String queryString : toSearch) 
+		{
+			buildDocument(queryString);
+		}
+	}
 }
