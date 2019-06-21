@@ -17,7 +17,7 @@ public class Save {
 		if (docs.size() > 0) {
 			BufferedWriter writer = null;
 			try {
-				File file = new File("../result/seed/novos2" + docName + ".txt");
+				File file = new File("../results/seed/novos2/" + docName + ".txt");
 
 				// This will output the full path where the file will be written to...
 				System.out.println(file.getCanonicalPath());
@@ -25,7 +25,7 @@ public class Save {
 				writer = new BufferedWriter(new FileWriter(file));
 				for (int i = 0; i < docs.size(); i++) {
 					writer.write(docs.get(i).get("contents"));
-					writer.write("\n\n");
+					writer.write("\n");
 				}
 			} catch (Exception e) {
 				e.printStackTrace();
