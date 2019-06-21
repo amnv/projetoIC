@@ -1,462 +1,479 @@
-Chemical Ingredients 
-Clinical Kinetics 
-Diseases, Manifestations or Physiologic States 
-Mental Disorders and Manifestations 
-Infectious Diseases 
-Elimination 
-Metabolism 
-Site of Metabolism 
-Hepatic Metabolism 
-Route of Excretion 
-Renal Excretion 
-Physiochemical Activity 
-Small Ion Transport Pump Interactions 
-Active Transporter Interactions 
-Immunologic Factors 
-Receptor Interactions 
-Reverse Transcriptase Inhibitors 
-Dopamine Agonists 
-Adrenergic Agonists 
-Enzyme Inhibitors 
-Biological Macromolecular Activity 
-G-Protein-linked Receptor Interactions 
-Adrenergic Receptor Interactions 
-Enzyme Interactions 
-Cytokine Receptor Superfamily Interactions 
-Ion Channel Interactions 
-Cholinergic Nicotinic Receptor Interactions 
-beta Lactamase Inhibitors 
-Dopamine Receptor Interactions 
-Electrolyte Activity 
-Cellular or Molecular Interactions 
-Acid-Base Activity 
-Cholinergic Nicotinic Antagonists 
-Structural Macromolecules 
-Nucleic Acid Synthesis Inhibitors 
-Adrenergic beta-Agonists 
-Polycationic Channel Interactions 
-Immunologic and Biological Factors 
-Congenital Abnormalities 
-Abnormalities, Drug-Induced 
-Acid-Base Imbalance 
-Acidosis 
-Alcohol Withdrawal Delirium 
-Alkalosis 
-Anuria 
-Aortic Stenosis, Subvalvular 
-Aortic Valve Stenosis 
-Arrhythmias, Cardiac 
-Ascites 
-Bacterial Infections and Mycoses 
-Mental Disorders 
-Blood Coagulation Disorders 
-Bone Diseases 
-Bone Diseases, Metabolic 
-Bradycardia 
-Brain Diseases 
-Calcium Metabolism Disorders 
-Calculi 
-Candidiasis 
-Candidiasis, Chronic Mucocutaneous 
-Candidiasis, Cutaneous 
-Candidiasis, Oral 
-Candidiasis, Vulvovaginal 
-Cardiac Output, Low 
-Cardiovascular Diseases 
-Central Nervous System Diseases 
-Cerebrovascular Disorders 
-Coma 
-Consciousness Disorders 
-Corneal Diseases 
-Crohn Disease 
-Cytomegalovirus Infections 
-Deficiency Diseases 
-Dehydration 
-Dermatitis 
-Dermatitis, Atopic 
-Dermatomycoses 
-Digestive System Diseases 
-DNA Virus Infections 
-Drug Hypersensitivity 
-Drug Toxicity 
-Edema 
-Eye Diseases 
-Female Urogenital Diseases and Pregnancy Complications 
-Food Hypersensitivity 
-Gastroenteritis 
-Gastrointestinal Diseases 
-Genital Diseases, Female 
-Genital Diseases, Male 
-Graft vs Host Disease 
-Heart Arrest 
-Heart Block 
-Heart Diseases 
-Heart Failure 
-Heart Valve Diseases 
-Hematologic Diseases 
-Hemic and Lymphatic Diseases 
-Hemorrhage 
-Hemorrhagic Disorders 
-Hepatitis 
-Herpes Genitalis 
-Herpes Simplex 
-Herpesviridae Infections 
-Hypercalcemia 
-Hyperglycemia 
-Hyperkalemia 
-Hypernatremia 
-Hypersensitivity 
-Hypersensitivity, Immediate 
-Hypertension 
-Hypocalcemia 
-Hypoglycemia 
-Hyponatremia 
-Hypoprothrombinemias 
-Immunologic Deficiency Syndromes 
-Immune System Diseases 
-Infant, Newborn, Diseases 
-Infant, Premature, Diseases 
-Infection 
-Intestinal Diseases 
-Kidney Calculi 
-Kidney Diseases 
-Kidney Failure, Acute 
-Kidney Failure, Chronic 
-Lacrimal Apparatus Diseases 
-Liver Cirrhosis 
-Liver Diseases 
-Lung Diseases 
-Lung Neoplasms 
-Magnesium Deficiency 
-Metabolic Diseases 
-Stomatognathic Diseases 
-Mouth Diseases 
-Muscle Hypotonia 
-Musculoskeletal Diseases 
-Mycoses 
-Congenital, Hereditary, and Neonatal Diseases and Abnormalities 
-Neoplasms 
-Neoplasms by Histologic Type 
-Neoplasms by Site 
-Neoplasms, Germ Cell and Embryonal 
-Neoplasms, Nerve Tissue 
-Nephrosis 
-Nephrotic Syndrome 
-Nervous System Diseases 
-Neurologic Manifestations 
-Nutrition Disorders 
-Nutritional and Metabolic Diseases 
-Opportunistic Infections 
-Osteoporosis 
-Paraganglioma 
-Parasitic Diseases 
-Pathologic Processes 
-Pheochromocytoma 
-Poisoning 
-Postoperative Complications 
-Psoriasis 
-Pulmonary Edema 
-Respiratory Tract Diseases 
-Respiratory Tract Neoplasms 
-Retroviridae Infections 
-RNA Virus Infections 
-Sexually Transmitted Diseases 
-Shock 
-Shock, Hemorrhagic 
-Signs and Symptoms 
-Skin Diseases 
-Skin Diseases, Genetic 
-Skin Diseases, Infectious 
-Skin Neoplasms 
-Substance Withdrawal Syndrome 
-Pathological Conditions, Signs and Symptoms 
-Tetany 
-Thoracic Neoplasms 
-Unconsciousness 
-Urinary Calculi 
-Urination Disorders 
-Male Urogenital Diseases 
-Urologic Diseases 
-Vaginal Diseases 
-Vaginitis 
-Vascular Diseases 
-Ventricular Fibrillation 
-Ventricular Outflow Obstruction 
-Virus Diseases 
-Vulvar Diseases 
-Vulvitis 
-Vulvovaginitis 
-Water-Electrolyte Imbalance 
-Wounds and Injuries 
-Inflammatory Bowel Diseases 
-Sexually Transmitted Diseases, Viral 
-Dry Eye Syndromes 
-Overdose 
-HIV Infections 
-Corneal Edema 
-Lentivirus Infections 
-AIDS-Related Opportunistic Infections 
-Kidney Failure 
-Skin Diseases, Viral 
-Skin and Connective Tissue Diseases 
-Skin Diseases, Eczematous 
-Skin Diseases, Papulosquamous 
-Neuroectodermal Tumors 
-Neuroendocrine Tumors 
-Neurobehavioral Manifestations 
-Delirium, Dementia, Amnestic, Cognitive Disorders 
-Substance-Related Disorders 
-Pathological Conditions, Anatomical 
-Neuromuscular Manifestations 
-Discrete Subaortic Stenosis 
-basiliximab 
-Carbohydrates 
-Metolazone 
-Proteins 
-torsemide 
-Dobutamine 
-Dopamine 
-Lipids 
-Vitamin D 
-Vitamin K 
-Magnesium 
-Glucose 
-Hydrochloric Acid 
-Calcifediol 
-Calcium 
-Calcium Chloride 
-Sodium Lactate 
-Lactates 
-Atracurium 
-Nystatin 
-Sulbactam 
-Fatty Acids 
-Chlorothiazide 
-Cholecalciferol 
-Foscarnet 
-Magnesium Chloride 
-Sodium Chloride 
-Tacrolimus 
-Alkaloids 
-Phenethylamines 
-Macrolides 
-Anions 
-Benzothiadiazines 
-Biogenic Monoamines 
-Hexoses 
-Quinazolines 
-Globulins 
-Acids 
-Acids, Acyclic 
-Acids, Noncarboxylic 
-Lactams 
-Lactones 
-Organic Chemicals 
-Amides 
-Organophosphorus Compounds 
-Phosphorus Acids 
-Chlorides 
-Catecholamines 
-Steroids 
-Phosphonoacetic Acid 
-Biogenic Amines 
-Sterols 
-Cholestenes 
-Chlorine Compounds 
-Calcium Compounds 
-Magnesium Compounds 
-Naphthalenes 
-Bicyclo Compounds, Heterocyclic 
-Naphthoquinones 
-Membrane Lipids 
-Amino Acids, Peptides, and Proteins 
-Sodium Compounds 
-Peptides 
-Glycosides 
-Elements 
-Blood Coagulation Factors 
-Secosteroids 
-Immunoglobulins 
-Blood Proteins 
-Terpenes 
-Recombinant Proteins 
-Isoquinolines 
-Hydrocarbons 
-Hydroxy Acids 
-Hydroxycholecalciferols 
-Metals, Alkaline Earth 
-Metals, Light 
-Ethylamines 
-Sulfites 
-Sulfonamides 
-Sulfones 
-Heterocyclic Compounds 
-Acetic Acids 
-Carboxylic Acids 
-Bridged Compounds 
-Phosphorus Compounds 
-Polycyclic Hydrocarbons, Aromatic 
-Amines 
-Bicyclo Compounds 
-Fatty Acids, Volatile 
-Phosphonic Acids 
-Quinones 
-Cholestanes 
-Ions 
-Diterpenes 
-Immunoglobulin Fragments 
-Immunoproteins 
-Hydrocarbons, Aromatic 
-Metals 
-Serum Globulins 
-Sulfur Compounds 
-Monosaccharides 
-Inorganic Chemicals 
-Heterocyclic Compounds, Bridged-Ring 
-Heterocyclic Compounds, 1-Ring 
-Heterocyclic Compounds, 2-Ring 
-Electrolytes 
-Hydrocarbons, Cyclic 
-Alveolar Surface Tension Alteration 
-Alveolar Surface Tension Reduction 
-Arterial Vasoconstriction 
-Arterial Vasodilation 
-Blood & Lymphatic Fluid Function Alteration 
-Carbohydrate Metabolism Alteration 
-Cardiac Contractility Alteration 
-Cardiac Rate Alteration 
-Cardiovascular Activity Alteration 
-Cell Wall Alteration 
-Cellular Activity Alteration 
-Cellular Cycle Alteration 
-Cellular Growth Phase Alteration 
-Cellular Growth Phase Arrest 
-Cellular Structure Alteration 
-Cellular Synthetic Activity Alteration 
-Coagulation Factor Activity Alteration 
-Coagulation Factor Alteration 
-DNA Replication Alteration 
-Decreased Cell Wall Integrity 
-Decreased Cytokine Activity 
-Decreased Cytokine Production 
-Decreased DNA Replication 
-Decreased Hematopoiesis 
-Decreased Immunologically Active Molecule Activity 
-Decreased Immunologically Active Molecule Production 
-Decreased Intravascular Volume 
-Decreased Lymphocyte Cell Production 
-Decreased Protein Synthesis 
-Decreased Respiratory Secretion Viscosity 
-Decreased Striated Muscle Contraction 
-Decreased T Lymphocyte Production 
-Electrical Activity Alteration 
-Generalized Systemic Effects 
-Glycogen Metabolism Alteration 
-Hematologic Activity Alteration 
-Hematological Cell Quantity Alteration 
-Hematopoiesis Alteration 
-Hemic/Lymphatic Activity Alteration 
-Hemostasis Alteration 
-Immunologic Activity Alteration 
-Immunologically Active Molecule Activity Alteration 
-Immunologically Active Molecule Production Alteration 
-Increased Cardiac Muscle Organized Electrical Activity 
-Increased Coagulation Factor Activity 
-Increased Distal Tubule H+ Excretion 
-Increased Distal Tubule K+ Excretion 
-Increased Distal Tubule Na+ Excretion 
-Increased Glycogenesis 
-Increased Intravascular Volume 
-Increased Loop of Henle Ca++ Excretion 
-Increased Loop of Henle Cl- Excretion 
-Increased Loop of Henle K+ Excretion 
-Increased Loop of Henle Mg++ Excretion 
-Increased Loop of Henle Na+ Excretion 
-Increased Metabolic Rate 
-Increased Muscular System Organized Electrical Activity 
-Increased Organized Electrical Activity 
-Increased Renal Ca++ Excretion 
-Increased Renal Cl- Excretion 
-Increased Renal H+ Excretion 
-Increased Renal HCO3- Excretion 
-Increased Renal Ion Excretion 
-Increased Renal K+ Excretion 
-Increased Renal Mg++ Excretion 
-Increased Renal Na+ Excretion 
-Intravascular Volume Alteration 
-Metabolic Activity Alteration 
-Metabolic Rate Alteration 
-Musculoskeletal Activity Alteration 
-Nervous System Activity Alteration 
-Nucleic Acid Replication Alteration 
-Organ System Specific Effects 
-Organic Ion Metabolism Alteration 
-Organic Ion Synthesis Alteration 
-Organized Electrical Activity Alteration 
-Physiological Effects 
-Positive Chronotropy 
-Positive Inotropy 
-Renal Arterial Vasodilation 
-Renal Ion Transport Alteration 
-Renal/Urological Activity Alteration 
-Respiratory Secretion Alteration 
-Respiratory Secretion Viscosity Alteration 
-Respiratory/Pulmonary Activity Alteration 
-Striated Muscle Metabolic Alteration 
-Striated Muscle Anabolism Alteration 
-Striated Muscle Contraction Alteration 
-Translation Alteration 
-Vascular Tone Alteration 
-Vasoconstriction 
-Vasodilation 
-Unknown Cellular or Molecular Interaction 
-Adrenergic beta1-Agonists 
-Systemic Arterial Vasoconstriction 
-Sterol Synthesis Inhibitors 
-Ergosterol Synthesis Inhibitors 
-Dose Forms [Dose 
-Pregnancy 
-Physiologic States 
-Antibody Interactions 
-Interleukin 2 Receptor Interactions 
-Interleukin 2 Receptor Antagonists 
+Chemical Ingredients [Chemical/Ingredient]
+Clinical Kinetics [PK]
+Diseases, Manifestations or Physiologic States [Disease/Finding]
+Mental Disorders and Manifestations [Disease/Finding]
+Infectious Diseases [Disease/Finding]
+Elimination [PK]
+Metabolism [PK]
+Site of Metabolism [PK]
+Hepatic Metabolism [PK]
+Route of Excretion [PK]
+Renal Excretion [PK]
+Physiochemical Activity [MoA]
+Small Ion Transport Pump Interactions [MoA]
+Active Transporter Interactions [MoA]
+Immunologic Factors [MoA]
+Receptor Interactions [MoA]
+Reverse Transcriptase Inhibitors [MoA]
+Dopamine Agonists [MoA]
+Adrenergic Agonists [MoA]
+Enzyme Inhibitors [MoA]
+Biological Macromolecular Activity [MoA]
+G-Protein-linked Receptor Interactions [MoA]
+Adrenergic Receptor Interactions [MoA]
+Enzyme Interactions [MoA]
+Cytokine Receptor Superfamily Interactions [MoA]
+Ion Channel Interactions [MoA]
+Cholinergic Nicotinic Receptor Interactions [MoA]
+beta Lactamase Inhibitors [MoA]
+Dopamine Receptor Interactions [MoA]
+Electrolyte Activity [MoA]
+Cellular or Molecular Interactions [MoA]
+Acid-Base Activity [MoA]
+Cholinergic Nicotinic Antagonists [MoA]
+Structural Macromolecules [MoA]
+Nucleic Acid Synthesis Inhibitors [MoA]
+Adrenergic beta-Agonists [MoA]
+Polycationic Channel Interactions [MoA]
+Immunologic and Biological Factors [MoA]
+Congenital Abnormalities [Disease/Finding]
+Abnormalities, Drug-Induced [Disease/Finding]
+Acid-Base Imbalance [Disease/Finding]
+Acidosis [Disease/Finding]
+Alcohol Withdrawal Delirium [Disease/Finding]
+Alkalosis [Disease/Finding]
+Anuria [Disease/Finding]
+Aortic Stenosis, Subvalvular [Disease/Finding]
+Aortic Valve Stenosis [Disease/Finding]
+Arrhythmias, Cardiac [Disease/Finding]
+Ascites [Disease/Finding]
+Bacterial Infections and Mycoses [Disease/Finding]
+Mental Disorders [Disease/Finding]
+Blood Coagulation Disorders [Disease/Finding]
+Bone Diseases [Disease/Finding]
+Bone Diseases, Metabolic [Disease/Finding]
+Bradycardia [Disease/Finding]
+Brain Diseases [Disease/Finding]
+Calcium Metabolism Disorders [Disease/Finding]
+Calculi [Disease/Finding]
+Candidiasis [Disease/Finding]
+Candidiasis, Chronic Mucocutaneous [Disease/Finding]
+Candidiasis, Cutaneous [Disease/Finding]
+Candidiasis, Oral [Disease/Finding]
+Candidiasis, Vulvovaginal [Disease/Finding]
+Cardiac Output, Low [Disease/Finding]
+Cardiovascular Diseases [Disease/Finding]
+Central Nervous System Diseases [Disease/Finding]
+Cerebrovascular Disorders [Disease/Finding]
+Coma [Disease/Finding]
+Consciousness Disorders [Disease/Finding]
+Corneal Diseases [Disease/Finding]
+Crohn Disease [Disease/Finding]
+Cytomegalovirus Infections [Disease/Finding]
+Deficiency Diseases [Disease/Finding]
+Dehydration [Disease/Finding]
+Dermatitis [Disease/Finding]
+Dermatitis, Atopic [Disease/Finding]
+Dermatomycoses [Disease/Finding]
+Digestive System Diseases [Disease/Finding]
+DNA Virus Infections [Disease/Finding]
+Drug Hypersensitivity [Disease/Finding]
+Drug Toxicity [Disease/Finding]
+Edema [Disease/Finding]
+Eye Diseases [Disease/Finding]
+Female Urogenital Diseases and Pregnancy Complications [Disease/Finding]
+Food Hypersensitivity [Disease/Finding]
+Gastroenteritis [Disease/Finding]
+Gastrointestinal Diseases [Disease/Finding]
+Genital Diseases, Female [Disease/Finding]
+Genital Diseases, Male [Disease/Finding]
+Graft vs Host Disease [Disease/Finding]
+Heart Arrest [Disease/Finding]
+Heart Block [Disease/Finding]
+Heart Diseases [Disease/Finding]
+Heart Failure [Disease/Finding]
+Heart Valve Diseases [Disease/Finding]
+Hematologic Diseases [Disease/Finding]
+Hemic and Lymphatic Diseases [Disease/Finding]
+Hemorrhage [Disease/Finding]
+Hemorrhagic Disorders [Disease/Finding]
+Hepatitis [Disease/Finding]
+Herpes Genitalis [Disease/Finding]
+Herpes Simplex [Disease/Finding]
+Herpesviridae Infections [Disease/Finding]
+Hypercalcemia [Disease/Finding]
+Hyperglycemia [Disease/Finding]
+Hyperkalemia [Disease/Finding]
+Hypernatremia [Disease/Finding]
+Hypersensitivity [Disease/Finding]
+Hypersensitivity, Immediate [Disease/Finding]
+Hypertension [Disease/Finding]
+Hypocalcemia [Disease/Finding]
+Hypoglycemia [Disease/Finding]
+Hyponatremia [Disease/Finding]
+Hypoprothrombinemias [Disease/Finding]
+Immunologic Deficiency Syndromes [Disease/Finding]
+Immune System Diseases [Disease/Finding]
+Infant, Newborn, Diseases [Disease/Finding]
+Infant, Premature, Diseases [Disease/Finding]
+Infection [Disease/Finding]
+Intestinal Diseases [Disease/Finding]
+Kidney Calculi [Disease/Finding]
+Kidney Diseases [Disease/Finding]
+Kidney Failure, Acute [Disease/Finding]
+Kidney Failure, Chronic [Disease/Finding]
+Lacrimal Apparatus Diseases [Disease/Finding]
+Liver Cirrhosis [Disease/Finding]
+Liver Diseases [Disease/Finding]
+Lung Diseases [Disease/Finding]
+Lung Neoplasms [Disease/Finding]
+Magnesium Deficiency [Disease/Finding]
+Metabolic Diseases [Disease/Finding]
+Stomatognathic Diseases [Disease/Finding]
+Mouth Diseases [Disease/Finding]
+Muscle Hypotonia [Disease/Finding]
+Musculoskeletal Diseases [Disease/Finding]
+Mycoses [Disease/Finding]
+Congenital, Hereditary, and Neonatal Diseases and Abnormalities [Disease/Finding]
+Neoplasms [Disease/Finding]
+Neoplasms by Histologic Type [Disease/Finding]
+Neoplasms by Site [Disease/Finding]
+Neoplasms, Germ Cell and Embryonal [Disease/Finding]
+Neoplasms, Nerve Tissue [Disease/Finding]
+Nephrosis [Disease/Finding]
+Nephrotic Syndrome [Disease/Finding]
+Nervous System Diseases [Disease/Finding]
+Neurologic Manifestations [Disease/Finding]
+Nutrition Disorders [Disease/Finding]
+Nutritional and Metabolic Diseases [Disease/Finding]
+Opportunistic Infections [Disease/Finding]
+Osteoporosis [Disease/Finding]
+Paraganglioma [Disease/Finding]
+Parasitic Diseases [Disease/Finding]
+Pathologic Processes [Disease/Finding]
+Pheochromocytoma [Disease/Finding]
+Poisoning [Disease/Finding]
+Postoperative Complications [Disease/Finding]
+Psoriasis [Disease/Finding]
+Pulmonary Edema [Disease/Finding]
+Respiratory Tract Diseases [Disease/Finding]
+Respiratory Tract Neoplasms [Disease/Finding]
+Retroviridae Infections [Disease/Finding]
+RNA Virus Infections [Disease/Finding]
+Sexually Transmitted Diseases [Disease/Finding]
+Shock [Disease/Finding]
+Shock, Hemorrhagic [Disease/Finding]
+Signs and Symptoms [Disease/Finding]
+Skin Diseases [Disease/Finding]
+Skin Diseases, Genetic [Disease/Finding]
+Skin Diseases, Infectious [Disease/Finding]
+Skin Neoplasms [Disease/Finding]
+Substance Withdrawal Syndrome [Disease/Finding]
+Pathological Conditions, Signs and Symptoms [Disease/Finding]
+Tetany [Disease/Finding]
+Thoracic Neoplasms [Disease/Finding]
+Unconsciousness [Disease/Finding]
+Urinary Calculi [Disease/Finding]
+Urination Disorders [Disease/Finding]
+Male Urogenital Diseases [Disease/Finding]
+Urologic Diseases [Disease/Finding]
+Vaginal Diseases [Disease/Finding]
+Vaginitis [Disease/Finding]
+Vascular Diseases [Disease/Finding]
+Ventricular Fibrillation [Disease/Finding]
+Ventricular Outflow Obstruction [Disease/Finding]
+Virus Diseases [Disease/Finding]
+Vulvar Diseases [Disease/Finding]
+Vulvitis [Disease/Finding]
+Vulvovaginitis [Disease/Finding]
+Water-Electrolyte Imbalance [Disease/Finding]
+Wounds and Injuries [Disease/Finding]
+Inflammatory Bowel Diseases [Disease/Finding]
+Sexually Transmitted Diseases, Viral [Disease/Finding]
+Dry Eye Syndromes [Disease/Finding]
+Overdose [Disease/Finding]
+HIV Infections [Disease/Finding]
+Corneal Edema [Disease/Finding]
+Lentivirus Infections [Disease/Finding]
+AIDS-Related Opportunistic Infections [Disease/Finding]
+Kidney Failure [Disease/Finding]
+Skin Diseases, Viral [Disease/Finding]
+Skin and Connective Tissue Diseases [Disease/Finding]
+Skin Diseases, Eczematous [Disease/Finding]
+Skin Diseases, Papulosquamous [Disease/Finding]
+Neuroectodermal Tumors [Disease/Finding]
+Neuroendocrine Tumors [Disease/Finding]
+Neurobehavioral Manifestations [Disease/Finding]
+Delirium, Dementia, Amnestic, Cognitive Disorders [Disease/Finding]
+Substance-Related Disorders [Disease/Finding]
+Alcohol-Related Disorders [Disease/Finding]
+Coagulation Protein Disorders [Disease/Finding]
+Neurotoxicity Syndromes [Disease/Finding]
+Alcohol-Induced Disorders, Nervous System [Disease/Finding]
+Intracranial Hemorrhages [Disease/Finding]
+Alcohol-Induced Disorders [Disease/Finding]
+Pathological Conditions, Anatomical [Disease/Finding]
+Neuromuscular Manifestations [Disease/Finding]
+Discrete Subaortic Stenosis [Disease/Finding]
+basiliximab [Chemical/Ingredient]
+Carbohydrates [Chemical/Ingredient]
+Metolazone [Chemical/Ingredient]
+Proteins [Chemical/Ingredient]
+torsemide [Chemical/Ingredient]
+Dobutamine [Chemical/Ingredient]
+Dopamine [Chemical/Ingredient]
+Lipids [Chemical/Ingredient]
+Vitamin D [Chemical/Ingredient]
+Vitamin K [Chemical/Ingredient]
+Magnesium [Chemical/Ingredient]
+Glucose [Chemical/Ingredient]
+Hydrochloric Acid [Chemical/Ingredient]
+Calcifediol [Chemical/Ingredient]
+Calcium [Chemical/Ingredient]
+Calcium Chloride [Chemical/Ingredient]
+Sodium Lactate [Chemical/Ingredient]
+Lactates [Chemical/Ingredient]
+Atracurium [Chemical/Ingredient]
+Nystatin [Chemical/Ingredient]
+Sulbactam [Chemical/Ingredient]
+Fatty Acids [Chemical/Ingredient]
+Chlorothiazide [Chemical/Ingredient]
+Cholecalciferol [Chemical/Ingredient]
+Foscarnet [Chemical/Ingredient]
+Magnesium Chloride [Chemical/Ingredient]
+Sodium Chloride [Chemical/Ingredient]
+Tacrolimus [Chemical/Ingredient]
+Alkaloids [Chemical/Ingredient]
+Phenethylamines [Chemical/Ingredient]
+Macrolides [Chemical/Ingredient]
+Anions [Chemical/Ingredient]
+Benzothiadiazines [Chemical/Ingredient]
+Biogenic Monoamines [Chemical/Ingredient]
+Hexoses [Chemical/Ingredient]
+Quinazolines [Chemical/Ingredient]
+Globulins [Chemical/Ingredient]
+Acids [Chemical/Ingredient]
+Acids, Acyclic [Chemical/Ingredient]
+Acids, Noncarboxylic [Chemical/Ingredient]
+Lactams [Chemical/Ingredient]
+Lactones [Chemical/Ingredient]
+Organic Chemicals [Chemical/Ingredient]
+Amides [Chemical/Ingredient]
+Organophosphorus Compounds [Chemical/Ingredient]
+Phosphorus Acids [Chemical/Ingredient]
+Chlorides [Chemical/Ingredient]
+Catecholamines [Chemical/Ingredient]
+Steroids [Chemical/Ingredient]
+Phosphonoacetic Acid [Chemical/Ingredient]
+Biogenic Amines [Chemical/Ingredient]
+Sterols [Chemical/Ingredient]
+Cholestenes [Chemical/Ingredient]
+Chlorine Compounds [Chemical/Ingredient]
+Calcium Compounds [Chemical/Ingredient]
+Magnesium Compounds [Chemical/Ingredient]
+Naphthalenes [Chemical/Ingredient]
+Bicyclo Compounds, Heterocyclic [Chemical/Ingredient]
+Naphthoquinones [Chemical/Ingredient]
+Membrane Lipids [Chemical/Ingredient]
+Amino Acids, Peptides, and Proteins [Chemical/Ingredient]
+Sodium Compounds [Chemical/Ingredient]
+Peptides [Chemical/Ingredient]
+Glycosides [Chemical/Ingredient]
+Elements [Chemical/Ingredient]
+Blood Coagulation Factors [Chemical/Ingredient]
+Secosteroids [Chemical/Ingredient]
+Immunoglobulins [Chemical/Ingredient]
+Blood Proteins [Chemical/Ingredient]
+Terpenes [Chemical/Ingredient]
+Recombinant Proteins [Chemical/Ingredient]
+Isoquinolines [Chemical/Ingredient]
+Hydrocarbons [Chemical/Ingredient]
+Hydroxy Acids [Chemical/Ingredient]
+Hydroxycholecalciferols [Chemical/Ingredient]
+Metals, Alkaline Earth [Chemical/Ingredient]
+Metals, Light [Chemical/Ingredient]
+Ethylamines [Chemical/Ingredient]
+Sulfites [Chemical/Ingredient]
+Sulfonamides [Chemical/Ingredient]
+Sulfones [Chemical/Ingredient]
+Heterocyclic Compounds [Chemical/Ingredient]
+Acetic Acids [Chemical/Ingredient]
+Carboxylic Acids [Chemical/Ingredient]
+Bridged Compounds [Chemical/Ingredient]
+Phosphorus Compounds [Chemical/Ingredient]
+Polycyclic Hydrocarbons, Aromatic [Chemical/Ingredient]
+Amines [Chemical/Ingredient]
+Bicyclo Compounds [Chemical/Ingredient]
+Fatty Acids, Volatile [Chemical/Ingredient]
+Phosphonic Acids [Chemical/Ingredient]
+Quinones [Chemical/Ingredient]
+Cholestanes [Chemical/Ingredient]
+Ions [Chemical/Ingredient]
+Diterpenes [Chemical/Ingredient]
+Immunoglobulin Fragments [Chemical/Ingredient]
+Immunoproteins [Chemical/Ingredient]
+Hydrocarbons, Aromatic [Chemical/Ingredient]
+Metals [Chemical/Ingredient]
+Serum Globulins [Chemical/Ingredient]
+Sulfur Compounds [Chemical/Ingredient]
+Monosaccharides [Chemical/Ingredient]
+Inorganic Chemicals [Chemical/Ingredient]
+Heterocyclic Compounds, Bridged-Ring [Chemical/Ingredient]
+Heterocyclic Compounds, 1-Ring [Chemical/Ingredient]
+Heterocyclic Compounds, 2-Ring [Chemical/Ingredient]
+Electrolytes [Chemical/Ingredient]
+Hydrocarbons, Cyclic [Chemical/Ingredient]
+Alveolar Surface Tension Alteration [PE]
+Alveolar Surface Tension Reduction [PE]
+Arterial Vasoconstriction [PE]
+Arterial Vasodilation [PE]
+Blood & Lymphatic Fluid Function Alteration [PE]
+Carbohydrate Metabolism Alteration [PE]
+Cardiac Contractility Alteration [PE]
+Cardiac Rate Alteration [PE]
+Cardiovascular Activity Alteration [PE]
+Cell Wall Alteration [PE]
+Cellular Activity Alteration [PE]
+Cellular Cycle Alteration [PE]
+Cellular Growth Phase Alteration [PE]
+Cellular Growth Phase Arrest [PE]
+Cellular Structure Alteration [PE]
+Cellular Synthetic Activity Alteration [PE]
+Coagulation Factor Activity Alteration [PE]
+Coagulation Factor Alteration [PE]
+DNA Replication Alteration [PE]
+Decreased Cell Wall Integrity [PE]
+Decreased Cytokine Activity [PE]
+Decreased Cytokine Production [PE]
+Decreased DNA Replication [PE]
+Decreased Hematopoiesis [PE]
+Decreased Immunologically Active Molecule Activity [PE]
+Decreased Immunologically Active Molecule Production [PE]
+Decreased Intravascular Volume [PE]
+Decreased Lymphocyte Cell Production [PE]
+Decreased Protein Synthesis [PE]
+Decreased Respiratory Secretion Viscosity [PE]
+Decreased Striated Muscle Contraction [PE]
+Decreased T Lymphocyte Production [PE]
+Electrical Activity Alteration [PE]
+Generalized Systemic Effects [PE]
+Glycogen Metabolism Alteration [PE]
+Hematologic Activity Alteration [PE]
+Hematological Cell Quantity Alteration [PE]
+Hematopoiesis Alteration [PE]
+Hemic/Lymphatic Activity Alteration [PE]
+Hemostasis Alteration [PE]
+Immunologic Activity Alteration [PE]
+Immunologically Active Molecule Activity Alteration [PE]
+Immunologically Active Molecule Production Alteration [PE]
+Increased Cardiac Muscle Organized Electrical Activity [PE]
+Increased Coagulation Factor Activity [PE]
+Increased Distal Tubule H+ Excretion [PE]
+Increased Distal Tubule K+ Excretion [PE]
+Increased Distal Tubule Na+ Excretion [PE]
+Increased Glycogenesis [PE]
+Increased Intravascular Volume [PE]
+Increased Loop of Henle Ca++ Excretion [PE]
+Increased Loop of Henle Cl- Excretion [PE]
+Increased Loop of Henle K+ Excretion [PE]
+Increased Loop of Henle Mg++ Excretion [PE]
+Increased Loop of Henle Na+ Excretion [PE]
+Increased Metabolic Rate [PE]
+Increased Muscular System Organized Electrical Activity [PE]
+Increased Organized Electrical Activity [PE]
+Increased Renal Ca++ Excretion [PE]
+Increased Renal Cl- Excretion [PE]
+Increased Renal H+ Excretion [PE]
+Increased Renal HCO3- Excretion [PE]
+Increased Renal Ion Excretion [PE]
+Increased Renal K+ Excretion [PE]
+Increased Renal Mg++ Excretion [PE]
+Increased Renal Na+ Excretion [PE]
+Intravascular Volume Alteration [PE]
+Metabolic Activity Alteration [PE]
+Metabolic Rate Alteration [PE]
+Musculoskeletal Activity Alteration [PE]
+Nervous System Activity Alteration [PE]
+Nucleic Acid Replication Alteration [PE]
+Organ System Specific Effects [PE]
+Organic Ion Metabolism Alteration [PE]
+Organic Ion Synthesis Alteration [PE]
+Organized Electrical Activity Alteration [PE]
+Physiological Effects [PE]
+Positive Chronotropy [PE]
+Positive Inotropy [PE]
+Renal Arterial Vasodilation [PE]
+Renal Ion Transport Alteration [PE]
+Renal/Urological Activity Alteration [PE]
+Respiratory Secretion Alteration [PE]
+Respiratory Secretion Viscosity Alteration [PE]
+Respiratory/Pulmonary Activity Alteration [PE]
+Striated Muscle Metabolic Alteration [PE]
+Striated Muscle Anabolism Alteration [PE]
+Striated Muscle Contraction Alteration [PE]
+Translation Alteration [PE]
+Vascular Tone Alteration [PE]
+Vasoconstriction [PE]
+Vasodilation [PE]
+Unknown Cellular or Molecular Interaction [MoA]
+Adrenergic beta1-Agonists [MoA]
+Systemic Arterial Vasoconstriction [PE]
+Sterol Synthesis Inhibitors [MoA]
+Ergosterol Synthesis Inhibitors [MoA]
+Dose Forms [Dose Form]
+Pregnancy [Disease/Finding]
+Physiologic States [Disease/Finding]
+Antibody Interactions [MoA]
+Interleukin 2 Receptor Interactions [MoA]
+Interleukin 2 Receptor Antagonists [MoA]
 Drug Products by VA Class
 Drug Products by Generic Ingredient Combinations
-Blood Coagulation Disorders, Inherited 
-Malnutrition 
-Genetic Diseases, Inborn 
-Glucose Metabolism Disorders 
-beta-Lactams 
-Antibodies, Monoclonal 
-Antibodies 
-Recombinant Fusion Proteins 
-Penicillins 
-Biological Factors 
-Aza Compounds 
-Phytol 
-Macrocyclic Compounds 
-Polycyclic Compounds 
-Benzylisoquinolines 
-cisatracurium 
-Peptide Fragments 
-Vascular Alterations 
-Cellular Growth Phase Reduction 
-Polysaccharide Metabolism Alteration 
+B [Preparations]
+C [Preparations]
+D [Preparations]
+E [Preparations]
+F [Preparations]
+G [Preparations]
+M [Preparations]
+N [Preparations]
+S [Preparations]
+T [Preparations]
+V [Preparations]
+Blood Coagulation Disorders, Inherited [Disease/Finding]
+Malnutrition [Disease/Finding]
+Genetic Diseases, Inborn [Disease/Finding]
+Glucose Metabolism Disorders [Disease/Finding]
+beta-Lactams [Chemical/Ingredient]
+Antibodies, Monoclonal [Chemical/Ingredient]
+Antibodies [Chemical/Ingredient]
+Recombinant Fusion Proteins [Chemical/Ingredient]
+Penicillins [Chemical/Ingredient]
+Biological Factors [Chemical/Ingredient]
+Aza Compounds [Chemical/Ingredient]
+Phytol [Chemical/Ingredient]
+Macrocyclic Compounds [Chemical/Ingredient]
+Polycyclic Compounds [Chemical/Ingredient]
+Benzylisoquinolines [Chemical/Ingredient]
+cisatracurium [Chemical/Ingredient]
+Peptide Fragments [Chemical/Ingredient]
+Vascular Alterations [PE]
+Cellular Growth Phase Reduction [PE]
+Polysaccharide Metabolism Alteration [PE]
 CALCIFEDIOL
 DEXTROSE/PERITONEAL DIALYSIS SOLUTION
 DIGOXIN IMMUNE FAB
 CISATRACURIUM
-[AM000 ANTIMICROBIALS
-[AM700 ANTIFUNGALS
-[IR000 IRRIGATION/DIALYSIS SOLUTIONS
-[IR200 PERITONEAL DIALYSIS SOLUTIONS
-Injectable Solution [Dose 
-Intraperitoneal Solution [Dose 
-Liquid [Dose 
-Oral Suspension [Dose 
-Orderable Drug Form [Dose 
-Solution [Dose 
-Suspension [Dose 
+[AM000] ANTIMICROBIALS
+[AM700] ANTIFUNGALS
+[IR000] IRRIGATION/DIALYSIS SOLUTIONS
+[IR200] PERITONEAL DIALYSIS SOLUTIONS
+Injectable Solution [Dose Form]
+Intraperitoneal Solution [Dose Form]
+Liquid [Dose Form]
+Oral Suspension [Dose Form]
+Orderable Drug Form [Dose Form]
+Solution [Dose Form]
+Suspension [Dose Form]
 SODIUM CHLORIDE
 NYSTATIN
 CALCIUM
@@ -482,32 +499,32 @@ CISATRACURIUM BESYLATE
 BASILIXIMAB
 
 
-Thiazides 
-Immunoglobulin Fab Fragments 
-Renal Insufficiency 
-Renal Insufficiency, Chronic 
-Quinazolinones 
-Diuresis Alteration 
-Increased Diuresis 
-Increased Diuresis at Loop of Henle 
-Cholinergic Interactions 
-Cholinergic Antagonists 
-Decreased Immunologic Activity 
-Competitive Cholinergic Nicotinic Antagonists 
-Cholinergic Neuromuscular Nicotinic Antagonists 
-Coagulation Activity Alteration 
-Increased Coagulation Activity 
+Thiazides [Chemical/Ingredient]
+Immunoglobulin Fab Fragments [Chemical/Ingredient]
+Renal Insufficiency [Disease/Finding]
+Renal Insufficiency, Chronic [Disease/Finding]
+Quinazolinones [Chemical/Ingredient]
+Diuresis Alteration [PE]
+Increased Diuresis [PE]
+Increased Diuresis at Loop of Henle [PE]
+Cholinergic Interactions [MoA]
+Cholinergic Antagonists [MoA]
+Decreased Immunologic Activity [PE]
+Competitive Cholinergic Nicotinic Antagonists [MoA]
+Cholinergic Neuromuscular Nicotinic Antagonists [MoA]
+Coagulation Activity Alteration [PE]
+Increased Coagulation Activity [PE]
 ECULIZUMAB
-Blood Pressure Alteration 
-Decreased Blood Pressure 
-Azabicyclo Compounds 
-Dopamine Hydrochloride 
-digoxin antibodies Fab fragments 
-eculizumab 
-Nephrolithiasis 
-Urolithiasis 
-Female Urogenital Diseases 
-Acute Kidney Injury 
+Blood Pressure Alteration [PE]
+Decreased Blood Pressure [PE]
+Azabicyclo Compounds [Chemical/Ingredient]
+Dopamine Hydrochloride [Chemical/Ingredient]
+digoxin antibodies Fab fragments [Chemical/Ingredient]
+eculizumab [Chemical/Ingredient]
+Nephrolithiasis [Disease/Finding]
+Urolithiasis [Disease/Finding]
+Female Urogenital Diseases [Disease/Finding]
+Acute Kidney Injury [Disease/Finding]
 BELATACEPT
 entity
 continuant
@@ -4031,3 +4048,1204 @@ academic Doctorate degree education level
 no formal school education level
 high school education level
 Bachelor's degree education level
+professional doctorate degree education level
+M.D. completion education level
+Pharmacy complete education level
+kindergarten completion education level
+preschool completion education level
+GED education level
+1st Grade education level
+2nd Grade education level
+3rd Grade education level
+4th Grade education level
+5th Grade education level
+6th Grade education level
+7th Grade education level
+8th Grade education level
+9th Grade education level
+10th Grade education level
+11th Grade education level
+12th Grade education level
+associate academic degree education level
+vocational program completion education level
+health insurance plan
+Medicaid
+Medicare
+private health insurance plan
+worker compensation insurance plan
+body weight
+birth weight
+emergency contact phone number
+care provider
+primary care provider
+centrally registered study identifier symbol
+secondary care provider
+tertiary care provider
+2nd email address
+age question
+Whether age less than 18 years old
+KPMP eligibility assessment form
+BMI question
+Whether BMI greater than 40 kg per m2
+BMI greater than 40 kg per m2
+question about blood transfusion
+Whether unwilling to receive blood transfusion
+pregnancy question
+Whether pregnant
+transplant question
+Whether transplant recipient
+Whether kidney transplant recipient
+KPMP clinical report form
+KPMP biopsy procedure form
+KPMP biosample collection form
+KPMP adverse event entry form
+KPMP biopsy safety checklist form
+KPMP clinic reception form
+KPMP contact information form
+KPMP demographic information form
+KPMP health literacy questionnaire form
+eligibility question
+KPMP AKI hospitalization form
+KPMP CKD hospitalization form
+KPMP laboratory result form
+KPMP medical history form
+KPMP consent form
+KPMP medications form
+KPMP new patient form
+KPMP participant reported outcome measures form
+KPMP participant study status form
+KPMP pathology images upload form
+KPMP patient experience survey form
+KPMP personal history form
+KPMP physical measurement form
+KPMP post biopsy form
+KPMP tissue tracking form
+KPMP Dx core - .jpg images QC form
+KPMP Dx core - disease categories form
+KPMP central path quality metrics assessment Dx core form
+KPMP central path quality metrics assessment interrogation core form
+last four digits of social security number
+self
+email question
+What email address
+Whether self owns email address
+Who owns email address
+What is your birthday
+contact name
+emergency contact name
+Who owns the 2nd email address
+Who owns the 3rd email address
+physician information
+physician specialty information
+health care
+patient care
+primary care
+secondary care
+tertiary care
+quaternary care
+hospital care
+nephrology care
+endocrinology care
+physician question
+What physician's specialty
+hospital question
+what name of hospital
+address question
+What street name
+What city
+What state
+What Zip code
+What street number and name
+What apartment
+What country
+Whether have physician for usual medical care
+nephrology care provider
+patient condition question
+Whether diabetic kidney disease (DKD)
+Whether hypertensive CKD (H-CKD)
+Whether diabetic nephropathy resisters percutaneous biopsy
+Whether AKI percutaneous biopsy
+Whether AKI open biopsy
+Whether biopsy
+CRF filled up by patient
+What postal code
+CRF filled up by research coordinator
+CRF filled up by biopsy operator
+biopsy-related CRF
+post biopsy hospitlization form
+pathology CRF
+screening and patient tracking CRF
+enrollment CRF
+Whether patient eligible to consent
+HIPAA release
+Whether patient signed HIPPA release form
+When HIPAA release form signed
+Whether scanned HIPAA release form uploaded
+hypertensive chronic kidney disease
+biopsy
+electronic health record
+percutaneous biopsy
+AKi percutaneous biopsy
+open biopsy
+AKI open biopsy
+diabetic nephropathy resisters percutaneous biopsy
+health status
+medical condition
+Whether diseased
+Whether kidney diseased
+visit date
+barcode
+specimen barcode
+tissue tracking
+National Clinical Trial identifier
+title of clinical trial
+official title of clinical trial
+lay title of clinical trial
+investigator
+clinical investigator
+study start date
+clinical trial start date
+study completion date
+clinical trial study completion date
+clinical trial primary completion date
+clinical trial primary purpose specification
+date of registration
+primary health outcome measurement datum
+recruitment status
+electronic case report form
+clinical study participant candidate
+answering textual question
+today's date
+CRF filled up by participant candidate
+pregnancy test positive
+hemoglobin test finding
+hemoglobin test positive with result < 9 g/dl
+date of first test
+date of test
+date of second test
+person first and last name
+sign date
+status
+study status
+patient status
+exclusion criterion
+bleeding exclusion criteria
+PROMIS form
+kit identifier
+biopsy kit identifier
+KPMP PROMIS form
+biopsy pass
+needle biopsy
+health status question
+what health status
+excellent health status
+very good health status
+good health status
+fair health status
+poor health status
+quality of life
+excellent quality of life
+very good quality of life
+good quality of life
+fair quality of life
+poor quality of life
+consent status
+unwilling to receive a blood transfusion
+willing to receive a blood transfusion
+year
+medical history question
+What birth weight
+age less than 18 years
+GFR 30-59 mL/min/1.73m2
+eGFR >=60 mL/min/1.73m2 with urine albumin excretion >= 30 mg/g creatinine
+eGFR >= 60 mL/min/1.73m2 with urine protein excretion >= 150 mg/g creatinine
+medical history information provider role
+study participant's family member role
+study participant's physician role
+age at diagnosis of disease
+age at diagnosis of kidney disease
+Whether chronic kidney disease
+Whether acute kidney injury
+time of biopsy
+year of kidney biopsy
+time of kidney biopsy
+month of kidney biopsy
+age at the start of kidney stone
+age at the start of disease
+Whether diabetes
+age at diagosis of diabetes
+What disease
+What type of diabetes
+treatment question
+medicatoin treatment question
+surgical treatment question
+Whether taking medication for diabetes
+age at the start of medication
+age at the start of taking medication for diabetes
+What medication
+What medication taken for diabetes
+Whether insulin taken for diabetes
+Whether diabetes during pregnancy
+clinical trial
+Phase 0 clinical trial
+Phase 1 clinical trial
+Phase 2 clinical trial
+Phase 3 clinical trial
+Phase 4 clinical trial
+quality
+age
+composition
+biological sex
+morphology
+shape
+spatial pattern
+qualitative
+deviation(from_normal)
+amount
+size
+height
+weight
+position
+structure
+rate
+viability
+behavioral quality
+female
+male
+acute
+regular spatial pattern
+abnormal
+absent
+present
+increased amount
+increased size
+decreased size
+oriented
+bilateral
+mislocalised
+unilateral
+dysplastic
+hypoplastic
+decreased rate
+increased rate
+physical quality
+pressure
+process quality
+quality of a single physical entity
+physical object quality
+duration
+cellular quality
+cellular potency
+unipotent
+oligopotent
+multipotent
+nucleate quality
+mononucleate
+calcified
+duplicated
+functionality
+functional
+non-functional
+has number of
+having extra processual parts
+extra or missing processual parts
+dilated
+increased pressure
+rotated
+atrophied
+decreased functionality
+cystic
+constricted
+concave
+chronic
+U-shaped
+phenotypic sex
+lobed
+organismal quality
+decreased amount
+lacks parts or has fewer parts of type
+lacks all parts of type
+has extra parts of type
+concavity
+concave 3-D shape
+structure, cavities
+physical quality of a process
+affinity
+altered number of
+polycystic
+basophilic
+displaced
+molecular quality
+3-D shape
+aplastic/hypoplastic
+increased quality
+decreased quality
+decreased process quality
+decreased object quality
+increased process quality
+increased object quality
+nucleated
+collection of organisms
+plant anatomical entity
+protein
+CD19 molecule
+CD34 molecule
+CD4 molecule
+integrin alpha with A domain
+receptor-type tyrosine-protein phosphatase C
+integrin alpha-M
+integrin alpha-X
+receptor-type tyrosine-protein phosphatase C isoform CD45RA
+CD3 subunit with immunoglobulin domain
+CD3 epsilon
+neural cell adhesion molecule
+neural cell adhesion molecule NCAM
+neural cell adhesion molecule 1
+C-type lectin with multiple lectin domains
+CD2 molecule
+T-cell surface glycoprotein CD8 alpha chain
+adhesion G-protein coupled receptor
+rhodopsin-like G-protein coupled receptor
+chemokine receptor
+C-C chemokine receptor type 2
+CX3C chemokine receptor 1
+high affinity interleukin-8 receptor
+C-X-C chemokine receptor type 1
+C-X-C chemokine receptor type 2
+ADP-ribosyl cyclase
+membrane-spanning 4-domains subfamily A member 1
+CD209 molecule
+alpha-(1,3)-fucosyltransferase
+cadherin
+carcinoembryonic antigen-related cell adhesion molecule 8
+endoglin
+immunoglobulin gamma Fc receptor II/III/IV
+interleukin-2 receptor subunit beta
+ADP-ribosyl cyclase 1
+cadherin-5
+alpha-(1,3)-fucosyltransferase FUT4
+low affinity immunoglobulin gamma Fc region receptor II
+low affinity immunoglobulin gamma Fc region receptor III
+prominin
+prominin-1
+5'-nucleotidase
+CD59-like glycoprotein
+CSF-1/PDGF receptor-type tyrosine-protein kinase
+EGF-like module-containing mucin-like hormone receptor-like 1
+CD7 molecule
+T-cell surface glycoprotein CD1
+T-cell surface glycoprotein CD5
+Thy-1 membrane glycoprotein
+arginase-1
+interleukin-3 receptor class 2 alpha chain
+interleukin-5 receptor subunit alpha
+interleukin-7 receptor subunit alpha
+KLRB1-like protein
+leukosialin
+lysosome-associated membrane protein
+CD14 molecule
+CD33 molecule
+neprilysin
+paired box protein PAX-5
+platelet glycoprotein 4
+transcription factor PU.1
+transferrin receptor protein 1
+urokinase plasminogen activator surface receptor
+vascular endothelial growth factor receptor
+T-cell surface glycoprotein CD1a
+macrosialin
+mast/stem cell growth factor receptor
+vascular endothelial growth factor receptor 2
+macrophage mannose receptor 1
+ly-6-like protein
+lymphocyte antigen 6G
+lymphocyte antigen 76
+alkaline phosphatase, tissue-nonspecific isozyme
+CCAAT/enhancer-binding protein alpha
+DNA nucleotidylexotransferase
+proto-oncogene c-Fos
+erythroid transcription factor
+endothelial transcription factor GATA-2
+lactotransferrin
+myeloperoxidase
+myb proto-oncogene protein
+T-cell acute lymphocytic leukemia protein 1
+amino acid chain
+integrin alpha
+G-protein coupled receptor
+system
+submucosa
+zone of skin
+anatomical boundary
+tube
+appendage
+lymph node
+head
+serous membrane
+vessel
+ureter
+urethra
+duct
+anatomical wall
+anatomical structure
+organ
+organ subunit
+organ part
+fully formed stage
+embryo stage part
+embryo stage
+death stage
+renal glomerulus
+subdivision of skeletal system
+external ectoderm
+mixed endoderm/mesoderm-derived structure
+mesonephros
+metanephros
+adult mammalian kidney
+mesonephric tubule
+ureteric bud
+morula
+zona pellucida
+inner cell mass
+trophoblast
+bilaminar disc
+post-embryonic stage
+membrane organ
+life cycle
+life cycle stage
+zygote stage
+cleavage stage
+blastula stage
+gastrula stage
+neurula stage
+organogenesis stage
+sexually immature stage
+cell layer
+anterior region of body
+posterior region of body
+membranous layer
+orifice
+cloaca
+embryonic cloaca
+primitive urogenital sinus
+mouth
+excreta
+blood
+haemolymphatic fluid
+blastula
+late embryo
+mucosa
+parenchyma
+blastocyst
+renal medulla
+urothelium
+musculature of body
+serous gland
+bodily secretion
+organism substance
+anatomical space
+material anatomical entity
+immaterial anatomical entity
+anatomical system
+multicellular organism
+compound organ component
+female reproductive system
+organism subdivision
+acellular anatomical structure
+anatomical cluster
+extraembryonic structure
+tissue
+multi-tissue structure
+epithelium
+simple cuboidal epithelium
+simple columnar epithelium
+multilaminar epithelium
+simple squamous epithelium
+cavitated compound organ
+unilaminar epithelium
+interstitial fluid
+thoracic segment of trunk
+abdomen
+embryo
+germ layer
+ectoderm
+endoderm
+mesoderm
+stomodeum
+proctodeum
+heart
+endocrine system
+lamina
+medulla of organ
+skeletal joint
+reproductive system
+gonad
+ovary
+oviduct
+uterus
+skin epidermis
+respiratory system
+digestive system
+renal system
+circulatory system
+adipose tissue
+musculature
+nervous system
+central nervous system
+foregut
+midgut
+hindgut
+primordium
+neural tube
+Malpighian tubule
+anatomical entity
+posterior vena cava
+urine
+synovial fluid
+skeletal muscle tissue
+smooth muscle tissue
+mesothelium
+renal vein
+right renal vein
+left renal vein
+renal artery
+right ureter
+left ureter
+renal pelvis
+cortex of kidney
+major calyx
+minor calyx
+renal papilla
+renal corpuscle
+glomerular capsule
+nephron tubule
+collecting duct of renal tubule
+anus
+urothelium of ureter
+urinary bladder
+pelvic girdle region
+renal column
+nephron
+Bowman's space
+proximal convoluted tubule
+loop of Henle
+descending limb of loop of Henle
+proximal straight tubule
+thick ascending limb of loop of Henle
+distal convoluted tubule
+outer medulla of kidney
+inner medulla of kidney
+anal region
+skeletal system
+lymphatic vessel
+bone element
+articular capsule
+kidney arcuate artery
+digestive tract
+lower urinary tract
+muscle organ
+artery
+vein
+lymphoid tissue
+cortex
+endothelium of capillary
+endothelium of artery
+blood plasma
+venule
+arteriole
+blood vessel
+capillary
+endothelium
+placenta
+cortex of lymph node
+medulla of lymph node
+kidney capsule
+vasculature
+embryonic structure
+dermis
+urachus
+hypodermis
+viscus
+postcranial axial skeleton
+appendicular skeleton
+skin of body
+trunk
+kidney
+pronephros
+outer cortex of kidney
+hemolymphoid system
+capsule of lymph node
+integument
+vasculature of trunk
+musculoskeletal system
+synovial joint
+thoracic cavity
+juxtaglomerular apparatus
+mesangium
+glomerular mesangium
+extraglomerular mesangium
+coelemic cavity lumen
+epithelium of urethra
+notochord
+somite
+exocrine system
+umbilical cord
+macula densa
+neural crest
+neurectoderm
+pelvic region of trunk
+exocrine gland
+endocrine gland
+bone marrow
+connective tissue
+muscle tissue
+hematopoietic system
+lymph
+immune system
+integumental system
+abdominal segment of trunk
+lymphoid system
+bone tissue
+gland
+epiblast (generic)
+anatomical cavity
+organ cavity
+periderm
+presomitic mesoderm
+pronephric duct
+blood island
+intermediate mesoderm
+axial mesoderm
+mesonephric duct
+neural plate
+paraxial mesoderm
+lateral plate mesoderm
+heart primordium
+sclerotome
+female organism
+surface structure
+compound organ
+mesenchyme
+chorion
+reproductive organ
+female reproductive organ
+metanephric mesenchyme
+chorionic mesenchyme
+epithelium of mucosa
+chorionic ectoderm
+renal lymph node
+inner renal medulla loop of Henle
+thoracic cavity vein
+abdomen blood vessel
+arterial blood vessel
+trunk blood vessel
+kidney blood vessel
+thoracic cavity blood vessel
+kidney capillary
+distal convoluted tubule macula densa
+abdomen connective tissue
+trunk connective tissue
+kidney arterial blood vessel
+neural tissue
+abdominal segment blood vessel
+abdominal segment connective tissue
+future coelemic cavity lumen
+intraembryonic coelom
+stroma
+capsule
+epithelial tube
+endothelial tube
+kidney mesenchyme
+venous blood vessel
+dermatome
+vena cava
+renal collecting system
+anatomical conduit
+endoderm-derived structure
+mesoderm-derived structure
+ectoderm-derived structure
+genitourinary system
+proximal tubule
+distal tubule
+intermediate tubule
+cardiogenic plate
+primary heart field
+heart tube
+cardiac chamber
+internal genitalia
+external genitalia
+hemopoietic organ
+glomerular epithelium
+glomerular endothelium
+renal glomerulus vasculature
+loop of Henle ascending limb thin segment
+long nephron
+short nephron
+proximal convoluted tubule segment 1
+proximal convoluted tubule segment 2
+comma-shaped body
+S-shaped body
+kidney pyramid
+kidney outer medulla inner stripe
+kidney outer medulla outer stripe
+cortical collecting duct
+outer medullary collecting duct
+inner medullary collecting duct
+nephrogenic mesenchyme
+renal vesicle
+nephron epithelium
+glomerular capillary
+kidney pelvis smooth muscle
+skeleton
+dermomyotome
+heart rudiment
+glomerular capillary endothelium
+allantois
+primitive streak
+trophectoderm
+cardiovascular system
+lymph vasculature
+blood vasculature
+left kidney
+right kidney
+systemic arterial system
+arterial system
+systemic artery
+venous system
+blood vessel endothelium
+renal afferent arteriole
+renal efferent arteriole
+arterial system endothelium
+conceptus
+kidney arcuate vein
+interlobular artery
+vasa recta
+gastrula
+metanephric glomerulus
+metanephric collecting duct
+metanephric juxtaglomerular apparatus
+pronephric glomerulus
+skeletal tissue
+skeletal element
+articular system
+outer renal medulla vasa recta
+inner renal medulla vasa recta
+kidney pelvis urothelium
+nephron tubule epithelium
+kidney epithelium
+cardiovascular system endothelium
+somatic layer of lateral plate mesoderm
+splanchnic layer of lateral plate mesoderm
+somatopleure
+nephrogenic cord
+urogenital fold
+chordamesoderm
+articulation
+subdivision of digestive tract
+organ component layer
+mucosa of ureter
+mucosa of renal pelvis
+mucosa of major calyx
+mucosa of minor calyx
+immune organ
+neural groove
+neural fold
+neural rod
+metanephric ureteric bud
+ureter ureteric bud
+muscle structure
+kidney rudiment
+descending thin limb
+renal connecting tubule
+short descending thin limb
+long descending thin limb
+early distal convoluted tubule
+late distal convoluted tubule
+mesonephric epithelium
+anterior mesonephric tubule
+posterior mesonephric tubule
+metanephric tubule
+metanephric epithelium
+metanephric nephron
+metanephric pyramid
+metanephric cortex mesenchyme
+metanephric ascending thin limb
+metanephric distal convoluted tubule
+metanephric early distal convoluted tubule
+metanephric late distal convoluted tubule
+metanephric macula densa
+metanephric proximal convoluted tubule
+metanephric proximal straight tubule
+metanephric thick ascending limb
+metanephric distal tubule
+metanephric loop of Henle
+metanephric long nephron
+metanephric glomerulus vasculature
+metanephric nephron epithelium
+metanephric glomerular epithelium
+metanephric glomerular endothelium
+metanephric capsule
+metanephric long descending thin limb
+metanephric short nephron
+metanephric short descending thin limb
+metanephric glomerular capillary
+metanephric nephron tubule
+metanephric renal vesicle
+metanephric connecting tubule
+metanephric proximal tubule
+reproductive structure
+epithelial fold
+multi cell part structure
+ascending limb of loop of Henle
+papillary duct
+renal interlobular vein
+interstitial tissue
+abdomen element
+abdominal segment element
+trunk region element
+thoracic cavity element
+pelvic region element
+thoracic segment organ
+renal medulla collecting duct
+distal straight tubule macula densa
+renal medulla interstitium
+outer renal medulla interstitium
+inner renal medulla interstitium
+kidney interstitium
+metanephric renal pelvis
+trunk mesenchyme
+renal cortex artery
+renal cortex vein
+renal cortex interstitium
+juxtamedullary cortex
+peritubular capillary
+embryonic tissue
+extraembryonic tissue
+pronephric nephron
+pronephric nephron tubule
+primary ureteric bud
+mesonephric collecting duct
+mesonephric juxtaglomerular apparatus
+mesonephric nephron
+mesonephric mesenchyme
+mesonephric macula densa
+mesonephric glomerulus
+mesonephric glomerulus vasculature
+mesonephric glomerular epithelium
+mesonephric nephron tubule
+mesonephric nephron epithelium
+mesonephric renal vesicle
+developing anatomical structure
+primitive heart tube
+gonad primordium
+vascular plexus
+extraembryonic membrane
+pronephric mesoderm
+extraembryonic mesoderm
+adventitia
+glomerular tuft
+glomerular parietal epithelium
+visceral layer of glomerular capsule
+caudal part of nephrogenic cord
+rostral part of nephrogenic cord
+acellular membrane
+basement membrane of epithelium
+nephric ridge
+embryonic uterus
+developing mesenchymal condensation
+mesonephric early distal tubule
+serous sac
+endo-epithelium
+transitional epithelium of major calyx
+axial skeleton plus cranial skeleton
+amniotic fold
+mesonephric capsule
+renal sinus
+pronephric proximal tubule
+pronephric sinus
+pronephric distal tubule
+mesonephric glomerular capillary
+mesonephric connecting tubule
+mesonephric distal tubule
+mesonephric proximal tubule
+renal sinus of right kidney
+renal sinus of left kidney
+mesonephric sinus
+cloacal membrane
+notochordal plate
+notochordal process
+bodily fluid
+distal early tubule
+outer renal medulla peritubular capillary
+ureteric bud tip
+perihilar interstitium
+premacula segment of distal straight tubule
+kidney calyx
+renal convoluted tubule
+outer medulla inner stripe loop of Henle
+outer medulla outer stripe loop of Henle
+kidney vasculature
+renal duct
+excretory tube
+lymphatic part of lymphoid system
+pharynx
+presumptive endoderm
+presumptive blood
+presumptive structure
+presumptive ectoderm
+presumptive mesoderm
+muscular coat
+renal cortex peritubular capillary
+glomerular visceral epithelium
+renal cortex tubule
+distal straight tubule postmacula segment
+muscular coat of ureter
+terminal part of digestive tract
+vasculature of organ
+squamous epithelium
+vascular cord
+nephridium
+protonephridium
+metanephridium
+anatomical surface
+cardiac mesoderm
+cleaving embryo
+presumptive gut
+primary circulatory organ
+umbilicus
+glomeral mesenchyme
+head kidney
+neural keel
+neonate stage
+presumptive segmental plate
+presumptive neural plate
+presumptive paraxial mesoderm
+presumptive pronephric mesoderm
+pronephric proximal convoluted tubule
+pronephric glomerular capillary
+pronephric distal early tubule
+outer epithelium
+stratum compactum
+enveloping layer of ectoderm
+epithelial sac
+epithelial tube open at both ends
+arborizing epithelial duct system
+epithelial vesicle
+dense mesenchyme tissue
+migrating mesenchyme population
+layer of synovial tissue
+synovial cavity of joint
+anatomical junction
+capillary loop nephron
+maturing nephron
+uriniferous tubule
+region of nephron tubule
+kidney field
+anlage
+transudate
+secretion of serous gland
+vascular system
+connecting stalk
+craniocervical region
+appendage girdle region
+pelvic girdle skeleton
+proximal tubular epithelium
+distal tubular epithelium
+inner cell mass derived epiblast
+renal parenchyma
+renal straight tubule
+inner medulla vasa recta descending limb
+outer medulla vasa recta descending limb
+vasa recta ascending limb
+inner medulla vasa recta ascending limb
+outer medulla vasa recta ascending limb
+tip of renal papilla
+indifferent gonad
+entire embryonic mesenchyme
+indifferent external genitalia
+nephric duct
+vasa recta descending limb
+subdivision of trunk
+trunk paraxial mesoderm
+pronephric proximal straight tubule
+nephron tubule basement membrane
+lymph node medullary sinus
+lymph node medullary cord
+renal tubule
+glandular acinus
+sac
+nephrogenic zone
+anterior lateral plate mesoderm
+medullary ray
+interlobar artery
+anatomical lobe
+renal lobe
+wall of ureter
+kidney corticomedullary boundary
+ureter smooth muscle
+multicellular anatomical structure
+cuboidal epithelium
+future dermis
+polarized epithelium
+straight venules of kidney
+bona-fide anatomical boundary
+structure with developmental contribution from neural crest
+germ layer / neural crest
+extraembryonic membrane mesenchyme
+ecto-epithelium
+mesenchyme from somatopleure
+microcirculatory vessel
+metanephros induced blastemal cells
+primitive nephron
+metanephros cortex
+primitive mesonephric nephron
+primitive metanephric nephron
+nephron progenitor
+appendage girdle complex
+pelvic complex
+girdle skeleton
+subdivision of skeleton
+nonsynovial joint
+axial skeletal system
+post-cranial axial skeletal system
+upper urinary tract
+urachus epithelium
+organ system subdivision
+appendicular skeletal system
+embryonic skin basal layer
+cell condensation
+subdivision of organism along main body axis
+embryonic cardiovascular system
+irregular connective tissue
+dense irregular connective tissue
+dense connective tissue
+fibrous connective tissue
+loose connective tissue
+acinus of exocrine gland
+collection of collagen fibrils
+coelom
+ureteric bud trunk
+abdominal aorta artery
+columnar epithelium
+meso-epithelium
+embryonic cloacal fold
+internal anal region
+layer of microvilli
+brush border layer
+proximal convoluted tubule brush border
+hematopoietic tissue
+endothelium of peritubular capillary
+external anal region
+skeleton of pelvic complex
+vein of abdomen
+serous acinus
+embryonic urethral groove
+space surrounding organism
+subdivision of oviduct
+subdivision of tube
+anatomical conduit space
+main body axis
+body proper
+integumentary system layer
+venous blood
+great vessel of heart
+kidney collecting duct epithelium
+renal venous blood vessel
+thoracic skeleton
+primitive renal collecting duct system
+primordial vasculature
+lateral structure
+circulatory organ
+heart plus pericardium
+heterogeneous tissue
+pit
+future central nervous system
+future nervous system
+entire extraembryonic component
+transitional anatomical structure
+developing mesenchymal structure
+left kidney interstitium
+right kidney interstitium
+left renal pelvis
+right renal pelvis
+left renal cortex interstitium
+right renal cortex interstitium
+left renal medulla interstitium
+right renal medulla interstitium
+layer of muscle tissue
+nursing stage
+bladder organ
+lymphomyeloid tissue
+juxtaglomerular arteriole
+infant stage
+multi organ part structure
+cell cluster
+anatomical collection
+zone of organ
+embryonic lymph sac
+epithelial layer of duct
+outer renal medulla loop of Henle
+renal medulla loop of Henle
+anterior surface of kidney
+capillary plexus
+peritubular capillary plexus of kidney
+capillary network of kidney
+future mouth
+cardiopharyngeal field
+anatomical surface region
+posterior pronephric duct
+distal late tubule
+pronephric glomerular capsule epithelium
+external integument structure
+mesonephric early proximal tubule
+mesonephric late proximal tubule
+time unit
+Phenotype
+abnormal phenotype
+vaccine
+vaccination
+mineral salt vaccine adjuvant
+vaccine adjuvant role
+bacterial vaccine
+vaccine component
+vaccine organism inactivated
+vaccine function
+company
+intramuscular route
+vaccine additive role
+preventive vaccine function
+immunization
+active immunization
+vaccine immunization
+induction of adaptive immune response to antigen
+disorder prevention
+disorder treatment
+modification of adaptive immune response to antigen
+therapeutic vaccine function
+route of administration
+vaccine adjuvant
+immunization objective
+vaccine preparation
+viral vaccine
+vaccine role
+vaccine component role
+licensed vaccine role
+Clostridium vaccine
+Clostridium tetani vaccine
+Hepatitis B virus vaccine
+vaccine allergen disposition
+USA licensed vaccine role
+vaccine residual
+cell culture residual in vaccine
+Canada licensed vaccine role
+aluminum vaccine adjuvant
+vaccine allergen
+latex vaccine allergen
+yeast protein cell culture residual in vaccine
+vaccine organism viability
+intramuscular vaccination
+vaccine host role
+vaccine target specification
+Hepatitis B surface antigen vaccine
+Recombivax HB
+

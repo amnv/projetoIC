@@ -1,0 +1,50 @@
+"10 AP_genomic DNA from subcutaneous adipose tissue"
+"10 GLM_genomic DNA from subcutaneous adipose tissue"
+"16 AP_genomic DNA from subcutaneous adipose tissue"
+"16 GRM_genomic DNA from subcutaneous adipose tissue"
+"17 AP_genomic DNA from subcutaneous adipose tissue"
+"17 GLM_genomic DNA from subcutaneous adipose tissue"
+"22 AP_genomic DNA from subcutaneous adipose tissue"
+"22 GLL_genomic DNA from subcutaneous adipose tissue"
+"23 AP_genomic DNA from subcutaneous adipose tissue"
+"23 GLL_genomic DNA from subcutaneous adipose tissue"
+"26 AP_genomic DNA from subcutaneous adipose tissue"
+"26 GLM_genomic DNA from subcutaneous adipose tissue"
+"Bisulphite converted DNA from 24 visceral adipose tissue (VAT) samples were hybridised to the Illumina Infinium HumanMethylation450 Beadchip.
+"Bisulphite converted DNA from the 71 subcutaneous adipose tissue samples were hybridised to the Illumina Infinium 450k Human Methylation Beadchip."
+"Bisulphite converted DNA from the 71 visceral adipose tissue samples were hybridised to the Illumina Infinium 450k Human Methylation Beadchip."
+Comparing four commonly use MSC sources (bone marrow (BM), white adipose tissue (WAT), umbilical cord (UC) and skin) we found only bone marrow (BM)-derived MSCs capable of endochondral ossification and marrow attraction.
+Controls for unmethylated and methylated DNA were represented, respectively, by whole-genome amplified DNA from subcutaneous adipose tissue (using the GenomiPhi DNA amplification kit; GE Healthcare, Piscataway, NJ, USA) and the universal methylated human DNA standard (Zymo Research).
+"DNA methylation analysis of subcutaneous adipose tissue abdominal versus subcutenaous adipose tissue gluteal"
+"DNA methylation profiles of abdominal adipose tissue (6 samples) and gluteal adipose tissue (6 samples) were generated using Infinium methylation 450K BeadChips from Illumina (Illumina, San Diego, USA)."
+"Epigenome analysis of the human subqutaneous adipose tissue"
+"Epigenome analysis of the human visceral adipose tissue"
+Gene expression was analyzed in subcutaneous adipose tissue from 9 women in each group.
+"Gene methylation profiles in visceral adipose tissue of obese men with and without the metabolic syndrome"
+"genomic DNA from human adipose tissue"
+Indeed, triglycerides and fatty acids of abdominal adipose tissue were more saturated compared to triglycerides and fatty acids in gluteal adipose tissue.
+"In humans, adipose tissue is distributed in subcutaneous abdominal and subcutaneous gluteal depots that comprise a variety of functional differences.
+"In this study, we have analyzed DNA methylation characteristics of human mesenchymal stem and progenitor cells (MSPCs) form different tissue sources including bone marrow (BM), white adipose tissue (WAT ), umbilical cord (UC) as well as dermal fibroblasts by using the HumanMethylation450K array.
+"Mesenchymal stem and progenitor cells (MSPCs) from human white adipose tissue (WAT)"
+"normal adipose tissue sample"
+"severely obese patient_Subqutaneous adipose tissue"
+"severely obese patient_visceral adipose tissue"
+"subcutaneous adipose tissue abdominal"
+"subcutaneous adipose tissue gluteal"
+"Subcutaneous adipose tissue samples were obtained from severely obese individuals that underwent bariatric surgery.
+Taken together, our results uncover clear differences between abdominal and gluteal adipose tissue on the gene expression and DNA methylation level as well as in fatty acid composition.
+Therefore, a detailed molecular characterization of adipose tissue depots will be essential to develop new treatment strategies for metabolic syndrome associated complications."
+"tisse source for mscs: white adipose tissue (WAT)"
+"tissue: Subqutaneous adipose tissue"
+"tissue: visceral adipose tissue"
+"tissue: Visceral adipose tissue"
+Using array-based analyses of transcription profiles, we identified a specific set of genes that was differentially expressed between subcutaneous abdominal and gluteal adipose tissue.
+"Visceral adipose tissue from obese men with the metabolic syndrome (MetS+, N=7) vs. obese men without the metabolic syndrome (MetS-, N=7)"
+"Visceral adipose tissue samples were obtained from severely obese individuals that underwent bariatric surgery.
+"Visceral adipose tissue was obtained during biliopancreatic diversion surgery"
+"Visceral adipose tissue was obtained during biliopancreatic diversion surgery, rapidly frozen in liquid N2 and stored at -80 oC."
+Whereas energy storage in gluteal adipose tissue has been shown to mediate a protective effect, an increase of abdominal adipose tissue is associated with metabolic disorders.
+Whole-transcriptome subcutaneous adipose tissue methylation levels were determined in 60 individuals with a BMI >35 kg/m2."
+Whole-transcriptome subcutaneous adipose tissue methylation levels were determined in 67 individuals with a BMI >35 kg/m2."
+Whole-transcriptome subcutaneous adipose tissue methylation levels were determined in 71  individuals with a BMI >35 kg/m2."
+Whole-transcriptome subcutaneous adipose tissue methylation levels were determined in 71 individuals with a BMI >35 kg/m2."
