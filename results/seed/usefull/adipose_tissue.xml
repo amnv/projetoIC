@@ -14,32 +14,19 @@
     <sentence>Bisulphite converted DNA from 24 visceral <cell_type>adipose tissue</cell_type> (VAT) samples were hybridised to the Illumina Infinium HumanMethylation450 Beadchip.</sentence>
     <sentence>Bisulphite converted DNA from the 71 subcutaneous <cell_type>adipose tissue</cell_type> samples were hybridised to the Illumina Infinium 450k Human Methylation Beadchip.</sentence>
     <sentence>Bisulphite converted DNA from the 71 visceral <cell_type>adipose tissue</cell_type> samples were hybridised to the Illumina Infinium 450k Human Methylation Beadchip.</sentence>
-    <sentence>By combining both data sets, we identified a highly significant set of depot-specifically expressed genes that appear to be epigenetically regulated.</sentence>
-    <sentence>Cells able to form bone through endochondral ossification and attract bone marrow in an innovative in vivo model were compared to cells lacking these capacities.</sentence>
     <sentence>Comparing four commonly use MSC sources (bone marrow (BM), white <cell_type>adipose tissue</cell_type> (WAT), umbilical cord (UC) and skin) we found only bone marrow (BM)-derived MSCs capable of endochondral ossification and marrow attraction.</sentence>
-    <sentence>Contributor: the Multiple Tissue Human Expression Resource Consortium</sentence>
     <sentence>Controls for unmethylated and methylated DNA were represented, respectively, by whole-genome amplified DNA from subcutaneous <cell_type>adipose tissue</cell_type> (using the GenomiPhi DNA amplification kit; GE Healthcare, Piscataway, NJ, USA) and the universal methylated human DNA standard (Zymo Research).</sentence>
-    <sentence>Dataset includes 32 samples from Germany.</sentence>
-    <sentence>Despite similarities in morphology, phenotype and in vitro behavior, Mesenchymal Stromal Cells (MSC) form various tissue sources show striking differences in their in vivo potential to form bone, cartilage and hematopoietic support tissue.</sentence>
     <sentence>DNA methylation analysis of subcutaneous <cell_type>adipose tissue</cell_type> abdominal versus subcutenaous <cell_type>adipose tissue</cell_type> gluteal</sentence>
-    <sentence>DNA methylation analysis of the total 72 tissue samples and controls was performed with the Illumina Infinium HumanMethylation450 BeadChip.</sentence>
     <sentence>DNA methylation profiles of abdominal <cell_type>adipose tissue</cell_type> (6 samples) and gluteal <cell_type>adipose tissue</cell_type> (6 samples) were generated using Infinium methylation 450K BeadChips from Illumina (Illumina, San Diego, USA).</sentence>
     <sentence>Epigenome analysis of the human subqutaneous <cell_type>adipose tissue</cell_type></sentence>
     <sentence>Epigenome analysis of the human visceral <cell_type>adipose tissue</cell_type></sentence>
     <sentence>Gene expression was analyzed in subcutaneous <cell_type>adipose tissue</cell_type> from 9 women in each group.</sentence>
     <sentence>Gene methylation profiles in visceral <cell_type>adipose tissue</cell_type> of obese men with and without the metabolic syndrome</sentence>
     <sentence>genomic DNA from human <cell_type>adipose tissue</cell_type></sentence>
-    <sentence>However, the molecular basis of depot-specific characteristics is not completely understood yet.</sentence>
-    <sentence>In a secondary analysis, we examined DNA methylation and expression of adipogenesis genes in 15 and 11 obese women, respectively.</sentence>
     <sentence>Indeed, triglycerides and fatty acids of abdominal <cell_type>adipose tissue</cell_type> were more saturated compared to triglycerides and fatty acids in gluteal <cell_type>adipose tissue</cell_type>.</sentence>
     <sentence>In humans, <cell_type>adipose tissue</cell_type> is distributed in subcutaneous abdominal and subcutaneous gluteal depots that comprise a variety of functional differences.</sentence>
-    <sentence>Interestingly only BM-derived MSPCs were capable of bone formation and marrow attraction.</sentence>
-    <sentence>Interestingly, the majority of these genes form part of the homeobox gene family.</sentence>
     <sentence>In this study, we have analyzed DNA methylation characteristics of human mesenchymal stem and progenitor cells (MSPCs) form different tissue sources including bone marrow (BM), white <cell_type>adipose tissue</cell_type> (WAT ), umbilical cord (UC) as well as dermal fibroblasts by using the HumanMethylation450K array.</sentence>
-    <sentence>Liver tissue samples were obtained from severely obese individuals that underwent bariatric surgery.</sentence>
     <sentence>Mesenchymal stem and progenitor cells (MSPCs) from human white <cell_type>adipose tissue</cell_type> (WAT)</sentence>
-    <sentence>Moreover, genes involved in fatty acid metabolism were also differentially expressed.</sentence>
-    <sentence>Muscle tissue samples were obtained from severely obese individuals that underwent bariatric surgery.</sentence>
     <sentence>normal <cell_type>adipose tissue</cell_type> sample</sentence>
     <sentence>severely obese patient_Subqutaneous <cell_type>adipose tissue</cell_type></sentence>
     <sentence>severely obese patient_visceral <cell_type>adipose tissue</cell_type></sentence>
@@ -48,19 +35,11 @@
     <sentence>Subcutaneous <cell_type>adipose tissue</cell_type> samples were obtained from severely obese individuals that underwent bariatric surgery.</sentence>
     <sentence>Subjects/Methods: Genome-wide DNA methylation was analyzed in abdominal subcutaneous fat cells from 16 women examined two years after gastric bypass surgery at a post-obese state (BMI 26±2 kg/m2, mean±s.d.)</sentence>
     <sentence>Taken together, our results uncover clear differences between abdominal and gluteal <cell_type>adipose tissue</cell_type> on the gene expression and DNA methylation level as well as in fatty acid composition.</sentence>
-    <sentence>The 17 post-mortem human somatic tissues used in this study were collected at the time of autopsy.</sentence>
-    <sentence>The goal of the study was to evalute the relationship between body mass index and DNA methylation levels.</sentence>
-    <sentence>The goal of this study was to identify tissue specific methylation QTLs.</sentence>
-    <sentence>The Illumina Infinium 450k Human DNA methylation Beadchip v1.2 was used to obtain DNA methylation profiles across approximately 485,000 CpGs.</sentence>
     <sentence>Therefore, a detailed molecular characterization of <cell_type>adipose tissue</cell_type> depots will be essential to develop new treatment strategies for metabolic syndrome associated complications.</sentence>
-    <sentence>Therefore we suppose that changes in gene expression profiles might account for depot-specific differences in lipid composition.</sentence>
-    <sentence>These features correlated with unique epigenetic characteristics potentially enabling BM-derived cells to undergo endochondral ossification.</sentence>
     <sentence>tisse source for mscs: white <cell_type>adipose tissue</cell_type> (WAT)</sentence>
     <sentence>tissue: Subqutaneous <cell_type>adipose tissue</cell_type></sentence>
     <sentence>tissue: visceral <cell_type>adipose tissue</cell_type></sentence>
     <sentence>tissue: Visceral <cell_type>adipose tissue</cell_type></sentence>
-    <sentence>To gain mechanistic insights explaining this differences we analyzed gene expression characteristics of MSC from all four tissue sources using  Affymetrix Genechip Human Gene 2.0 ST Array.</sentence>
-    <sentence>To investigate the role of epigenetic regulation in depot-specific gene expression, we additionally analyzed genome-wide DNA methylation patterns in abdominal and gluteal depots.</sentence>
     <sentence>Using array-based analyses of transcription profiles, we identified a specific set of genes that was differentially expressed between subcutaneous abdominal and gluteal <cell_type>adipose tissue</cell_type>.</sentence>
     <sentence>Visceral <cell_type>adipose tissue</cell_type> from obese men with the metabolic syndrome (MetS+, N=7) vs. obese men without the metabolic syndrome (MetS-, N=7)</sentence>
     <sentence>Visceral <cell_type>adipose tissue</cell_type> samples were obtained from severely obese individuals that underwent bariatric surgery.</sentence>

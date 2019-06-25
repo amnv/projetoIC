@@ -1,0 +1,46 @@
+B-cell precursor acute lymphoblastic leukemia (pre-B ALL) is the most common pediatric cancer. Although the genetic origin of the disease remains unclear, epigenetic modifications including DNA methylation are suggested to contribute significantly to leukemogenesis. We assessed the DNA methylation status of 402,842 CpG-sites across the genome (Illumina 450k array) in tumor and remission samples of 46 pre-B ALL patients, thus generating the most comprehensive single CpG-site resolution pre-B ALL methylomes so far. Unsupervised hierarchical clustering of CpG-site neighborhood, protein-coding gene, or miRNA gene associated methylation levels separated the tumor cohort according to major pre-B ALL subtypes, and methylation in CpG islands, shores, and in regions around the transcription start site of protein-coding genes strongly correlated with transcript expression. Focusing on samples carrying the t(12;21)(p13;q22) translocation (ETV6-RUNX1 fusion gene) we identified subtype-specific methylation of 430 CpG-sites. Pathway analyses implied the associated genes in hematopoiesis and cancer. Further intersection with transcriptome data identified methylation to impact expression of 18 genes. In summary, our data illustrate the power of methylation profiling to classify leukemic subtypes and to identify subtype-specific methylation markers. Further, we demonstrate that integration of methylome and transcriptome alterations allows the study of downstream effects of individual genomic rearrangements in cancer.
+B-cell precursors at S1.
+B-cell precursors at S1_FBM12_S1_DNA methylation.
+B-cell precursors at S1_FBM16_S1_DNA methylation.
+B-cell precursors at S1_FBM20_S1_DNA methylation.
+B-cell precursors at S1_FBM24_S1_DNA methylation.
+B-cell precursors at S1_FBM28_S1_DNA methylation.
+B-cell precursors at S1_FBM32_S1_DNA methylation.
+B-cell precursors at S2.
+B-cell precursors at S2_FBM11_S2_DNA methylation.
+B-cell precursors at S2_FBM15_S2_DNA methylation.
+B-cell precursors at S2_FBM19_S2_DNA methylation.
+B-cell precursors at S2_FBM23_S2_DNA methylation.
+B-cell precursors at S2_FBM27_S2_DNA methylation.
+B-cell precursors at S2_FBM31_S2_DNA methylation.
+B-cell precursors at S3.
+B-cell precursors at S3_FBM10_S3_DNA methylation.
+B-cell precursors at S3_FBM14_S3_DNA methylation.
+B-cell precursors at S3_FBM18_S3_DNA methylation.
+B-cell precursors at S3_FBM22_S3_DNA methylation.
+B-cell precursors at S3_FBM26_S3_DNA methylation.
+B-cell precursors at S3_FBM30_S3_DNA methylation.
+B-cell precursors at S4.
+B-cell precursors at S4_FBM17_S4_DNA methylation.
+B-cell precursors at S4_FBM21_S4_DNA methylation.
+B-cell precursors at S4_FBM29_S4_DNA methylation.
+B-cell precursors at S4_FBM9_S4_DNA methylation.
+Bisulfite converted genomic DNA lysates from human pluripotent stem cell-derived hematopoietic precursor cells (CD34+CD38-CD43+ lineage marker-) were hybridized to Illumina HumanMethylation450 BeadChip.
+cell type: B-cell precursors at S1, predominantly multipotent progenitors and common lymphoid progenitors.
+cell type: B-cell precursors at S2, predominantly pre-B-I cells.
+cell type: B-cell precursors at S3, predominantly pre-B-II cells.
+cell type: B-cell precursors at S4, predominantly immature B cells.
+cell type: ES-derived neural precursor cells.
+cell type: Pluripotent-stem cell derived hematopoietic precursor cells.
+cell type (precursor used to generate ipscs): dermal fibroblast.
+cell type (precursor used to generate ipscs): LCL.
+Comparative studies in primates are extremely restricted because we only have access to a few types of cell lines from non-human apes and to a limited collection of frozen tissues. In order to gain better insight into regulatory processes that underlie variation in complex phenotypes, we must have access to faithful model systems for a wide range of tissues and cell types. To facilitate this, we have generated a panel of 7 fully characterized chimpanzee (Pan troglodytes) induced pluripotent stem cell (iPSC) lines derived from fibroblasts of healthy donors. All lines are free of integration from exogenous reprogramming vectors, can be maintained using standard iPSC culture techniques, and have proliferative and differentiation potential similar to human and mouse lines. To begin demonstrating the utility of comparative iPSC panels, we collected RNA-seq data and methylation profiles from the chimpanzee iPSCs and their corresponding fibroblast precursors, as well as from 7 human iPSCs and their precursors, which were of multiple cell type and population origins. Overall, we observed much less regulatory variation within species in the iPSCs than in the somatic precursors, indicating that the reprogramming process has erased many of the differences observed between somatic cells of different origins. We identified 4,918 differentially expressed genes and 1,986 differentially methylated regions between iPSCs of the two species, many of which are novel inter-species differences and not observed between the somatic cells of the two species. Our panel will help realise the potential of iPSCs, and in combination with genomic technologies, transform studies of comparative evolution in primates.
+donor cell type: endothelial precursor.
+ES-derived neural precursor cells.
+Examination of hMeDIP-Seq and MBD-Seq in 3 cell types (human embryonic stem, neural precursor, and dopamine neuron cells).
+Genome wide DNA methylation profiling of normal kidney (n=36), nephrogenic rest (n=22) and Wilms tumour (n=37) was performed using the Illumina 450k array. Two papers were composed after analysis of this data (1) describes comparative analysis of 22 matched normal kidney-Wilms tumour pairs which identified biomarker differentially methylated regions (DMRs) that could be detected in patient blood; (2) describes comparative analysis of 20 matched trios which identified changes in methylation associated with progression from the precursor lesion towards tumourigenesis.
+Germ cell tumours (GCTs) are a complex group of malignancies. They are unique in developing from a pluripotent progenitor cell. The initial lesion is believed to be the relatively benign precursor lesion (ICGNU), from which either highly chemosensitive seminomas or the more aggressive non-seminomas develop. Previous analyses of selected genes have suggested that non-seminomas exhibit much higher levels of DNA methylation than seminomas. However, the genomic targets that are methylated, the extent to which this results in gene silencing and the identity of the silenced genes most likely to play a role in the tumours’ biology have not yet been established.   Here genome-wide methylation and expression analysis of GCT cell lines was combined with gene expression data. This demonstrated that the seminoma cells exhibited very little aberrant DNA methylation while non-seminoma cells exhibited very high levels of DNA methylation. Large differences in the level of methylation of the CpG islands of individual genes between tumour cell lines correlated well with differential gene expression. Treatment of non-seminoma cells with 5-aza-2-deoxycytidine verified that methylation of all genes tested did indeed play a role in their silencing and many of these genes were also differentially expressed in primary tumours. Through this approach the genes silenced in the various GCT cell lines were identified.   Conclusions: Several pluripotency-associated genes, never before implicated in this type of cancer, were identified as a major functional group of silenced genes. Silencing of these factors that normally suppress somatic differentiation might play an important role in the progression to non-seminoma formation.
+H9 ES-derived neural precursor cells 1.
+H9 ES-derived neural precursor cells 2.
+human PSC-derived hematopoietic precursor cells.
+Methylation data of early B-cell precursors from human fetuses ranging in age between 20 and 24 weeks of gestation.

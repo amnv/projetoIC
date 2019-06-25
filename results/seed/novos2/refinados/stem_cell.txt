@@ -1,0 +1,252 @@
+A variety of somatic cells can be reprogrammed to induced pluripotent stem cells (iPSCs), but the small number of CD34+ hematopoietic stem cells (HSCs) present in non-mobilized peripheral blood (PB) would be a convenient and desirable starting target. We report here a simple method for targeting derivation of iPSC from non-mobilized PB CD34+ HSCs using immunobead purification and 2-4 day culture to achieve enrichment of CD34+ HSCs to 80±9%, followed by reprogramming transduction with loxP-flanked polycistronic (Oct4, Klf4, Sox2, and c-Myc) STEMCCA-loxP lentivector at an MOI of 2. Our yield was 4.7±2.2 iPSC colonies (n=12) per 20 mL non-mobilized peripheral blood, where most colonies had single copy STEMCCA-loxP that was easily excised by transient transfection expression of Cre. Resultant iPSC clones expressed pluripotent cell markers, had genomic methylation pattern closely matching embryonic stem cells, and generated teratomas containing tissues of all three germ lineages in immunodeficient mice. Furthermore, we conclude that these iPSC are derived from the non-mobilized CD34+ HSCs enriched from PB rather than from any lymphocyte or monocyte contaminants because they lacked somatic rearrangements typical of T or B lymphocytes, and because we demonstrated that purified CD14+ monocytes do not yield iPSC colonies under these reprogramming conditions.
+Background: Germ Cell Cancers (GCC), originating from Primordial Germ Cells /gonocytes, are the most common cancer in young men, subdivided in seminoma (SE) and non-seminoma (NS, stem cell component: embryonal carcinoma (EC)). Somatic mutations are rarely found in GCC. It has been proposed that disruption of the epigenetic constitution, either primarily or secondary (e.g. environmental influences), is involved in cancer, and specifically in GCC.
+beta-thalassemia female stem cell.
+Bisulfite converted genomic DNA lysates from human pluripotent stem cell-derived hematopoietic precursor cells (CD34+CD38-CD43+ lineage marker-) were hybridized to Illumina HumanMethylation450 BeadChip.
+Bisulfite converted genomic DNA lysates from induced pluripotent stem cell　and embryonic stem cell lines were hybridized to Illumina HumanMethylation450 BeadChip.
+brain location: brain stem.
+CD34+ cells were isolated from fresh umbilical cord blood after written consent according to the guidelines specifically approved by the Ethic Committee of RWTH Aachen University (Permit Number: EK187/08) using  the CD34 Micro Bead Kit on a MiniMACS system (Miltenyi Biotec GmbH, Bergisch-Gladbach, Germany). Cells were cultured in StemSpan serum free expansion medium (Stem Cell Technologies, Grenoble, France) supplemented with 10 µg/mL heparin (ratiopharm, GmbH, Ulm, Germany), 20 ng/mL thrombopoietin (TPO; PeproTech GmbH, Hamburg, Germany), 10 ng/mL stem cell factor (SCF; PeproTech), 10 ng/mL fibroblast growth factor 1 (FGF1; PeproTech). Culture was either performed on tissue culture plastic (TCP) or on a confluent layer of mesenchymal stromal cells (MSCs; passage 3 to 6). After seven days, CD34+ and CD34- fractions were again separated as described above.
+cell description: embryonic stem cells.
+cell line: Embryonic stem cell line.
+cell line: embryonic stem cell line HES-2.
+cell line: induced pluripotent stem cell line.
+cell line: Nuclear-transfer embryonic stem cell line derived from adult fibroblasts of a type 1 diabetic subject (ID 1018).
+cell line: Nuclear-transfer embryonic stem cell line derived from neonatal BJ fibroblasts, clone 5.
+cell line: Nuclear-transfer embryonic stem cell line derived from neonatal BJ fibroblasts, clone 6.
+cell line: Nuclear-transfer embryonic stem cell line derived from neonatal BJ fibroblasts, clone 8.
+cell line: RNA-reprogrammed induced pluripotent stem cell line derived from neonatal BJ fibroblasts, clone M.
+cell line: RNA-reprogrammed induced pluripotent stem cell line derived from neonatal BJ fibroblasts, clone O.
+cell line: RNA-reprogrammed induced pluripotent stem cell line from adult fibroblasts of a type 1 diabetic subject (ID 1018), clone A.
+cell line: RNA-reprogrammed induced pluripotent stem cell line from adult fibroblasts of a type 1 diabetic subject (ID 1018), clone B.
+cell line: RNA-reprogrammed induced pluripotent stem cell line from adult fibroblasts of a type 1 diabetic subject (ID 1018), clone C.
+cell line: RNA-reprogrammed induced pluripotent stem cell line from adult fibroblasts of a type 1 diabetic subject (ID 1018), clone D.
+cell line: RNA-reprogrammed induced pluripotent stem cell line from adult fibroblasts of a type 1 diabetic subject (ID 1018), clone E.
+cell line: RNA-reprogrammed induced pluripotent stem cell line from adult fibroblasts of a type 1 diabetic subject (ID 1018), clone F.
+Cells were grown as monolayers in NS-A basal media (Stem Cell Technologies) supplemented with N2, B27, 75 μg/mL BSA (Sigma), 10 ng/mL rhEGF (Sigma), 10 ng/mL bFGF (Sigma) and 2 μg/mL heparin (Sigma).
+cell type: embryonic stem cell, differentiated;NeuralProgenitors.day22.
+cell type: embryonic stem cell, differentiated;OligodendrocyteProgenitors.day42.
+cell type: embryonic stem cell, differentiated;spontaneous.day3.
+cell type: embryonic stem cell, undifferentiated.
+cell type: Embryonic stem (ES) cells H9.
+cell type: ES03 human Embryonic Stem Cells, Passage 87 (ES Cell International), p7 after conversion to a naïve state with L3i.
+cell type: ES03 human Embryonic Stem Cells, Passage 88 (ES Cell International).
+cell type: H7 human Embryonic Stem Cells, Passage 42 (NIH Code WA07), P6 after conversion to a naïve state with L3i.
+cell type: H7 human Embryonic Stem Cells, Passage 46 (NIH Code WA07).
+cell type: H9 human Embryonic Stem Cells, Passage 34 (NIH Code WA09), P4 after conversion to a naïve state with L3i.
+cell type: H9 human Embryonic Stem Cells, Passage 38 (NIH Code WA09).
+cell type: human embryonic stem cells.
+cell type: human embryonic stem cells (hESCs).
+cell type: human induced pluripotent stem cell.
+cell type: human induced pluripotent stem cells.
+cell type: Human Pluripotent Stem Cell.
+cell type: induced pluripotent stem cell, differentiated;NeuralProgenitors.day22.
+cell type: induced pluripotent stem cell, differentiated;NeuralProgenitors.day23.
+cell type: induced pluripotent stem cell, differentiated;OligodendrocyteProgenitors.day42.
+cell type: induced pluripotent stem cells derived from prostate epithelial cells.
+cell type: induced pluripotent stem cell, undifferentiated.
+cell type: Induced pluripotent stem (iPS) cells.
+cell type: Mesenchymal stem and progenitor cells (MSPCs).
+cell type: mesenchymal stem cells (MSCs).
+cell type: mesenchymal stem cells (MSCs).
+cell type: parthenogentic embryonic stem cell, undifferentiated.
+cell type: Pluripotent-stem cell derived hematopoietic precursor cells.
+cell type: Undifferentiated embryonic stem cells.
+cell type: Undifferentiated induced pluripotent stem cells.
+cell type: Undifferentiated nuclear-transfer embryonic stem cells.
+CHB-8 embryonic stem cell line.
+Comparative studies in primates are extremely restricted because we only have access to a few types of cell lines from non-human apes and to a limited collection of frozen tissues. In order to gain better insight into regulatory processes that underlie variation in complex phenotypes, we must have access to faithful model systems for a wide range of tissues and cell types. To facilitate this, we have generated a panel of 7 fully characterized chimpanzee (Pan troglodytes) induced pluripotent stem cell (iPSC) lines derived from fibroblasts of healthy donors. All lines are free of integration from exogenous reprogramming vectors, can be maintained using standard iPSC culture techniques, and have proliferative and differentiation potential similar to human and mouse lines. To begin demonstrating the utility of comparative iPSC panels, we collected RNA-seq data and methylation profiles from the chimpanzee iPSCs and their corresponding fibroblast precursors, as well as from 7 human iPSCs and their precursors, which were of multiple cell type and population origins. Overall, we observed much less regulatory variation within species in the iPSCs than in the somatic precursors, indicating that the reprogramming process has erased many of the differences observed between somatic cells of different origins. We identified 4,918 differentially expressed genes and 1,986 differentially methylated regions between iPSCs of the two species, many of which are novel inter-species differences and not observed between the somatic cells of the two species. Our panel will help realise the potential of iPSCs, and in combination with genomic technologies, transform studies of comparative evolution in primates.
+Defining Differentiated Methylation Regions Especial for Pluripotency Acquisition and Maintenance in Human Stem Cell.
+Dept. of Internal Medicine, Division of Hematology, Stem Cell Research Unit.
+Developmental and Stem Cell Biology.
+differentiated angioblast (CD34+) human embryonic stem cell.
+differentiated angioblast (CD34+) human induced pluripotent stem cell.
+differentiated endothelial human embryonic stem cell.
+differentiated endothelial human induced pluripotent stem cell.
+differentiated smooth muscle human induced pluripotent stem cell.
+Differentiation of human limbal-derived induced pluripotent stem cells into limbal-like epithelium.
+DNA methylation profiles of human myoblasts (day1, day3, day8, day15), human mesenchymal stem cells (1 sample) and human skeletal muscle tissues (2 samples) were obtained using Infinium HumanMethylation450 BeadChips (Illumina).
+donor cell type: embryonic stem cell.
+embryonic stem cell line.
+Embryonic stem cell line.
+embryonic stem cells (ESC).
+Embryonic stem(ES) cells H9.
+Epigenetic and transcriptional aberrations in human pluripotent stem cells reflect differences in reprogramming mechanisms [methylation array].
+Epigenome analysis of leukemia stem, blast and normal hematopoietic stem/progenitor cells.
+ES03 human Embryonic Stem Cells, Passage 87 (ES Cell International), p7 after conversion to a naïve state with L3i.
+ES03 human Embryonic Stem Cells, Passage 88 (ES Cell International).
+Evaluation of Inter-Batch Differences in Stem-Cell Derived Neurons.
+Examination of hMeDIP-Seq and MBD-Seq in 3 cell types (human embryonic stem, neural precursor, and dopamine neuron cells).
+Fetal origin human dermal fibroblasts (HDF) were acquired from ScienCell Research Laboratories (catalog # 2300) and cultured in DMEM/F12 with 10% fetal bovine serum (FBS). Cells were transduced by retro virus-based iPSC vectors as previously reported (Lowry, W. E. et al. Generation of human induced pluripotent stem cells from dermal fibroblasts. Proceedings of the National Academy of Sciences of the United States of America 105, 2883-2888, doi:10.1073/pnas.0711983105 (2008)). Sendai virus-based reprogramming was carried out according to the manufacturer’s protocol (CytoTune™-iPS Reprogramming Kit, Life Technologies, Inc). Colonies with typical morphology were isolated and manually propagated similar to NT-ESC and IVF-ESC protocols (Tachibana, M. et al. Human embryonic stem cells derived by somatic cell nuclear transfer. Cell 153, 1228-1238, doi:10.1016/j.cell.2013.05.006 (2013)).
+Gene methylation data from the CHB-8 embryonic stem cell line profiled at T0.
+Gene methylation data from the CHB-8 embryonic stem cell line profiled at T24.
+Gene methylation data from the CHB-8 embryonic stem cell line profiled at T5.
+Gene methylation data from the H1 embryonic stem cell line profiled at T0.
+Gene methylation data from the H1 embryonic stem cell line profiled at T24.
+Gene methylation data from the H1 embryonic stem cell line profiled at T5.
+Gene methylation data from the H9 embryonic stem cell line profiled at T0.
+Gene methylation data from the H9 embryonic stem cell line profiled at T24.
+Gene methylation data from the H9 embryonic stem cell line profiled at T5.
+Generation of a Panel of Induced Pluripotent Stem Cells From Chimpanzees: a Resource for Comparative Functional Genomics (methylation array).
+Genome-wide DNA methylation profiling by Illumina Infinium HumanMethylation 450K Beadchip was performed on a total of 21 human cell lines, including: an isogenic set of 3 nuclear-transfer embryonic stem cell (NT-ESC) lines, 2 RNA-reprogrammed induced pluripotent stem cell (iPSC) lines and their parental neonatal fibroblast cell line; an isogenic set of 1 NT-ESC line, 6 iPSC lines and their parental adult fibroblast cell line (derived from a type 1 diabetic subject); as well as 7 control embryonic stem cell (ESC) lines.
+Genome wide DNA methylation profiling of leukemia stem, blast cells obtained from 15 AML patients and of normal hematopoietic stem/progenitor cells from 5 normal bone marrow. The Illumina Infinium 450k Human DNA methylation Beadchip was used to obtain DNA methylation profiles across approximately 450,000 CpGs in the samples. Samples included 20 leukemia stem cells, 24 blast cells and 30 normal hematopoietic stem and progenitor cells (6 different types from 5 normal bone marrows).
+Genome wide DNA methylation profiling of Neurons derived from human induced pluripotent stem cells (iCell Neurons) at different time points were abtained by the Infinium HumanMethylation450 BeadChip (450K array) Kit (WG-314-1002), which interrogates >480,000 CpG sites in the human genome.In total, 36 samples were profiled using the 450K arrays.
+Global DNA CpG methylation profiling of human embryonic stem cells, fibroblast iPSC, and low passage stromal primed myeloid iPSC before and after conversion to the naïve state.
+H1 embryonic stem cell line.
+H3K4me1 marks DNA regions hypomethylated during aging in human stem and differentiated cells.
+H3K4me1 marks DNA regions hypomethylated during aging in human stem and differentiated cells.
+H3K4me1 marks DNA regions hypomethylated during aging in human stem and differentiated cells [MSCs].
+H3K4me1 marks DNA regions hypomethylated during aging in human stem and differentiated cells [twins].
+H7 human Embryonic Stem Cells, Passage 42 (NIH Code WA07), P6 after conversion to a naïve state with L3i.
+H7 human Embryonic Stem Cells, Passage 46 (NIH Code WA07).
+H9 embryonic stem cell line.
+H9 Embryonic stem (ES) cells 1.
+H9 Embryonic stem (ES) cells 2.
+H9 human Embryonic Stem Cells, Passage 34 (NIH Code WA09), P4 after conversion to a naïve state with L3i.
+H9 human Embryonic Stem Cells, Passage 38 (NIH Code WA09).
+Hematopoietic stem and progenitor cells from umbilical cord blood.
+Hematopoietic Stem Cell media, iPSC media.
+Here, we determined the DNA methylation profiles of 12 human cell lines, including 2 ESC lines, 2 pESC lines,4 virally-delivered iPSC lines, 2 episomal-delivered iPSC lines, and 2 parent cell lines that iPSCs derived from using Illumina’s Infinium HumanMethylation450. The iPSCs exhibited a hypermethylation status similarly to ESCs but distinct differences from the parent cells. Genes of common methylation pattern between iPSCs and ESCs were regarded as critical factors for stemness, while differences existing between iPSCs and ESCs implied that iPSCs partly retained the parental characteristics and gained de novo methylation aberrances during cell reprogramming. No significant variant was identified between virally- and episomal- systems. De novo differentiated methylation regions as the signature of particular stem cell lines were figured out in detail in this study.
+HES-2 (ES02) human embryonic stem cells were adapted from mitotically inactive MEF feeders to matrigel substrate (BD Biosciences) and mTesR1 medium (STEMCELL Technologiesaccording to manufacturer's protocol.  Adaptation was for 4 passages and the final passage number was p72.  DNA was extracted from Tra 1-60+ cells isolated by flow cytometry. (Sigma).
+human embrionic stem cell.
+Human Embryonic Stem Cell.
+Human embryonic stem cell differentiated smooth muscle.
+human embryonic stem cells.
+Human embryonic stem cell undifferentiated.
+human induced pluripotent stem cell.
+human induced pluripotent stem cells.
+human induced pluripotent stem cells derived from cord blood.
+human induced pluripotent stem cells derived from dental pulp cell.
+human induced pluripotent stem cells derived from dermal fibroblast.
+human induced pluripotent stem cells derived from dermal fibroblast of neonatal foreskin.
+human induced pluripotent stem cells derived from kerationocyte.
+human induced pluripotent stem cells derived from peripheral blood.
+Human induced pluripotent stem cell undifferentiated.
+human mesenchymal stem cell, 10-year-old female.
+human mesenchymal stem cell, 10-year-old female.
+human mesenchymal stem cell, 12-year-old female.
+human mesenchymal stem cell, 12-year-old female.
+human mesenchymal stem cell, 14-year-old female.
+human mesenchymal stem cell, 14-year-old female.
+human mesenchymal stem cell, 22-year-old female.
+human mesenchymal stem cell, 22-year-old female.
+human mesenchymal stem cell, 28-year-old female.
+human mesenchymal stem cell, 28-year-old female.
+human mesenchymal stem cell, 29-year-old female.
+human mesenchymal stem cell, 29-year-old female.
+human mesenchymal stem cell, 3-year-old female.
+human mesenchymal stem cell, 3-year-old female.
+human mesenchymal stem cell, 63-year-old female.
+human mesenchymal stem cell, 63-year-old female.
+human mesenchymal stem cell, 6-year-old female.
+human mesenchymal stem cell, 6-year-old female.
+human mesenchymal stem cell, 80-year-old female.
+human mesenchymal stem cell, 80-year-old female.
+human mesenchymal stem cell, 86-year-old female.
+human mesenchymal stem cell, 86-year-old female.
+human mesenchymal stem cell, 89-year-old female.
+human mesenchymal stem cell, 89-year-old female.
+human mesenchymal stem cell, 92-year-old female.
+human mesenchymal stem cell, 92-year-old female.
+human mesenchymal stem cells.
+human mesenchymal stem cells, 10-year-old female.
+human mesenchymal stem cells, 10-year-old female.
+human mesenchymal stem cells, 10-year-old male.
+human mesenchymal stem cells, 10-year-old male.
+human mesenchymal stem cells, 12-year-old female.
+human mesenchymal stem cells, 12-year-old female.
+human mesenchymal stem cells, 18-year-old male.
+human mesenchymal stem cells, 18-year-old male.
+human mesenchymal stem cells, 19-year-old male.
+human mesenchymal stem cells, 19-year-old male.
+human mesenchymal stem cells, 22-year-old male.
+human mesenchymal stem cells, 22-year-old male.
+human mesenchymal stem cells, 2-year-old female.
+human mesenchymal stem cells, 2-year-old female.
+human mesenchymal stem cells, 3-year-old female.
+human mesenchymal stem cells, 3-year-old female.
+human mesenchymal stem cells, 61-year-old female.
+human mesenchymal stem cells, 61-year-old female.
+human mesenchymal stem cells, 6-year-old female.
+human mesenchymal stem cells, 6-year-old female.
+human mesenchymal stem cells, 70-year-old female.
+human mesenchymal stem cells, 70-year-old female.
+human mesenchymal stem cells, 77-year-old female.
+human mesenchymal stem cells, 77-year-old female.
+human mesenchymal stem cells, 79-year-old female.
+human mesenchymal stem cells, 79-year-old female.
+human mesenchymal stem cells, 87-year-old female.
+human mesenchymal stem cells, 87-year-old female.
+human mesenchymal stem cells, 87-year-old male.
+human mesenchymal stem cells, 87-year-old male.
+human mesenchymal stem cells, 91-year-old female.
+human mesenchymal stem cells, 91-year-old female.
+human mesenchymal stem cells, 9-year-old female.
+human mesenchymal stem cells, 9-year-old female.
+Human pluripotent stem cells can be derived from somatic cells by forced expression of defined factors, and more recently by nuclear-transfer into human oocytes, revitalizing a debate on whether one reprogramming approach might be advantageous over the other. Here we compared the genetic and epigenetic stability of human nuclear-transfer embryonic stem cell (NT-ESC) lines and isogenic induced pluripotent stem cell (iPSC) lines, derived from the same somatic cell cultures of fetal, neonatal and adult origin. Both cell types shared similar genome-wide gene expression and DNA methylation profiles. Importantly, NT-ESCs and iPSCs have comparable numbers of de novo coding mutations but significantly higher than parthenogenetic ESCs. Similar to iPSCs NT-ESCs displayed clone- and gene-specific aberrations in DNA methylation and allele-specific expression of imprinted genes, similarly to iPSCs. The occurrence of these genetic and epigenetic defects in both NT-ESCs and iPSCs suggests that they are inherent to reprogramming, regardless of the underlying technique.
+Human pluripotent stem cells hold great potential for regenerative medicine, but existing cell types have imitations. Human embryonic stem cells derived from fertilized embryos (IVF-ESCs) are considered the “gold standard”, but are allogeneic to potential recipients. Autologous induced pluripotent stem cells (iPSCs) can be produced from somatic cells by forced expression of pluripotency-associated factors, but are prone to genetic and epigenetic aberrations. To determine whether accumulation of such aberrations is intrinsic to somatic cell reprogramming, or secondary to the reprogramming method, we employed an alternative approach by somatic cell nuclear transfer (SCNT). SCNT-based reprogramming to NT-ESCs is mediated by factors present in oocyte’s cytoplasm, thus mimicking early embryogenesis. We generated genetically matched pluripotent stem cells and conducted genome-wide genetic, epigenetic and transcriptional analyses. We discovered that unlike iPSCs, NT-ESCs have a low burden of de novo copy number variations (CNVs), reflecting superior maintenance of genetic stability. Moreover, DNA methylation and transcriptome profiles of NT-ESCs corresponded closely to those of IVF-ESCs. In contrast, iPSCs harbored methylation abnormalities including residual CpG methylation typical of parental fibroblasts, suggesting incomplete reprogramming. We conclude that human somatic cells can be faithfully reprogrammed to pluripotency by SCNT with the potential to satisfy the clinical requirements for cell replacement therapies.
+Human pluripotent stem cells were culture on mitomycin C-treated SNL feeder cells in Primate ES cell medium (ReproCELL) containing 4 ng/mL recombinant bFGF (Wako).
+In differentiated cells, aging is associated with hypermethylation of DNA regions enriched in repressive histone posttranslational modifications. However, the chromatin marks associated with changes in DNA methylation in adult stem cells during lifetime are still largely unknown. Here, DNA methylation profiling of mesenchymal stem cells obtained from individuals aged 2 to 92 identified 18735 hypermethylated and 45407 hypomethylated CpG sites associated with aging. As in differentiated cells, hypermethylated sequences were enriched in chromatin repressive marks. Most importantly, hypomethylated CpG sites were strongly enriched in the active chromatin mark H3K4me1 in stem and differentiated cells, suggesting this is a cell type-independent chromatin signature of DNA hypomethylation during aging. Analysis of scedasticity showed that interindividual variability of DNA methylation increased during aging in MSCs and differentiated cells, providing a new avenue for the identification of DNA methylation changes over time. DNA methylation profiling of genetically identical individuals showed that both the tendency of DNA methylation changes and scedasticity depended on non-genetic as well as genetic factors. Our results indicate that the dynamics of DNA methylation during aging depend on a complex mixture of factors that include the DNA sequence, cell type and chromatin context involved, and that, depending on the locus, the changes can be modulated by genetic and/or external factors.
+induced Pluripotent Stem Cell.
+induced pluripotent stem cell by OSKM cocktail.
+induced pluripotent stem cell by OSLN cocktail.
+induced pluripotent stem cell line.
+Induced pluripotent stem (iPS) cells are a valuable resource for discovery of epigenetic changes critical to cell type-specific differentiation. Although iPS cells have been generated from other terminally differentiated cells, the reprogramming of normal adult human basal prostatic epithelial (E-PZ) cells to a pluripotent state has not been reported.  Here, we attempted to reprogram E-PZ cells by forced expression of Oct4, Sox2, c-Myc, and Klf4 using lentiviral vectors and obtained embryonic stem cell (ESC)-like colonies at a frequency of 0.01%.  These E-PZ-iPS-like cells with normal karyotype gained expression of pluripotent genes typical of iPS cells (Tra-1-81, SSEA-3, Nanog, Sox2, and Oct4) and lost gene expression characteristic of basal prostatic epithelial cells (CK5, CK14, and p63).  E-PZ-iPS-like cells demonstrated pluripotency by differentiating into ectodermal, mesodermal, and endodermal cells in vitro, although lack of teratoma formation in vivo and incomplete demethylation of pluripotency genes suggested only partial reprogramming.  Importantly, E-PZ-iPS-like cells re-expressed basal epithelial cell markers (CD44, p63, MAO-A) in response to prostate-specific medium in spheroid culture.  Androgen induced expression of androgen receptor (AR), and co-culture with rat urogenital sinus further induced expression of prostate-specific antigen, a hallmark of secretory cells, suggesting that E-PZ-iPS-like cells have the capacity to differentiate into prostatic basal and secretory epithelial cells.  Finally, when injected into mice, E-PZ-iPS-like cells expressed basal epithelial cell markers including CD44 and p63.  When co-injected with rat urogenital mesenchyme, E-PZ-iPS-like cells expressed AR and expression of p63 and CD44 was repressed. DNA methylation profiling identified key pathways and regulators of prostatic differentiation including Wnt5a, BPM7, PTEN, and NKx3.1 using E-PZ-iPS-lke cells. Our results suggest that iPS-like cells can be derived from prostatic epithelial cells.  These cells are pluripotent and capable of prostatic differentiation, and therefore provide a novel model for investigating epigenetic changes involved in prostate cell lineage specification.
+Institute for Stem Cell Biology and Regenerative Medicine.
+Institute for Stem Cell Biology and Regenerative Medicine.
+loring pipeline stem cell matrix version: stem cell matrix version 342.
+Matrix Elasticity Does Not Affect Replicative Senescence or DNA Methylation Patterns of Mesenchymal Stem Cells [DNAm profiling].
+Mesenchymal stem and progenitor cells (MSPCs) from human bone marrow.
+Mesenchymal stem and progenitor cells (MSPCs) from human umbilical cord (UC).
+Mesenchymal stem and progenitor cells (MSPCs) from human white adipose tissue (WAT).
+Nissim Benvenisty Lab, The Azrieli Center for Stem Cells and Genetic Research.
+Non-CG DNA methylation is a biomarker for assessing endodermal differentiation capacity in pluripotent stem cells.
+Non-CG methylation is an unexplored epigenetic hallmark of pluripotent stem cells.  Here we report that a reduction in non-CG methylation is associated with impaired differentiation capacity into endodermal lineages. Genome-wide analysis of 2,670 non-CG sites in a discovery cohort of 25 phenotyped human induced pluripotent stem cell (hiPSC) lines revealed unidirectional loss (Δβ = 13%, p<7.4x10-4) of non-CG methylation that correctly identifies endodermal differentiation capacity in 23 out of 25 (92%) hiPSC lines.  Translation into a simplified assay of only 9 non-CG sites maintains predictive power in the discovery cohort (Δβ = 23%, p<9.1x10-6) and correctly identifies endodermal differentiation capacity in nince out of ten pluripotent stem cell lines in an independent replication cohort consisting of hiPSCs reprogrammed from different cell types and different delivery systems, as well as human embryonic stem cell (hESC) lines.  This finding infers non-CG methylation at these sites as a biomarker when assessing endodermal differentiation capacity as a readout.
+normal female embryonic stem cell.
+normal female stem cell.
+Novel culture conditions facilitating the induction of naïve pluripotency in human embryonic stem cells.
+Nuclear-transfer embryonic stem cell line derived from adult fibroblasts of a type 1 diabetic subject (ID 1018).
+Nuclear-transfer embryonic stem cell line derived from neonatal BJ fibroblasts, clone 5.
+Nuclear-transfer embryonic stem cell line derived from neonatal BJ fibroblasts, clone 6.
+Nuclear-transfer embryonic stem cell line derived from neonatal BJ fibroblasts, clone 8.
+Nuclear Transfer Stem Cell.
+parthenogenesis embryonic stem cell.
+phenotype: HSC (Hematopoietic stem cells).
+phenotype: LSC (leukemia stem cells).
+Pluripotent Stem Cells Escape From Senescence-Associated DNA Methylation Changes [Illumina].
+Pluripotent stem cells evade replicative senescence, whereas other primary cells lose their proliferation and differentiation potential after a limited number of cell divisions – and this is accompanied by specific senescence-associated DNA methylation (SA-DNAm) changes. Here, we investigate SA-DNAm changes in mesenchymal stromal cells (MSC) upon long-term culture, irradiation-induced senescence, immortalization and reprogramming into induced pluripotent stem cells (iPSC) using high density HumanMethylation450 BeadChips. SA-DNAm changes are highly reproducible and occur particularly in intergenic and non-promoter regions of developmental genes. We demonstrate that ionizing irradiation, although associated with a very similar senescence phenotype, does not affect SA-DNAm. Furthermore, overexpression of the catalytic subunit of the human telomerase (TERT) or conditional immortalization with a doxycycline-inducible system (TERT and SV40 TAg) result in telomere extension but do not influence SA-DNAm. In contrast, we demonstrate that reprogramming into iPSC prevented SA-DNAm changes. Our results indicate that replicative senescence is associated with an epigenetically controlled process which stalls cells in a particular differentiated state, whereas irradiation-induced senescence and immortalization are not causally related to this process. Absence of SA-DNAm in pluripotent cells may play a central role for their escape from cellular senescence. 
+Pluripotent stem cells were differentiated as previously described (Kurian et al, 2012). Briefly, undifferentiated human ES/iPS cells were freshly split on to matrigel-coated plates, making sure the sub-colonies were of small size (~300-500 cells /colony). Cells were differentiated using the chemically defined mesodermal induction media (MIM) (DMEM:F12, 15mg/ml stem cell grade BSA (MP biomedicals), 17.5µg/ml Human Insulin, (SAFC bioscience),  275 µg/ml Human holo transferrin (Sigma Aldrich), 20ng/ml bFGF (Hymanzyme), 50ng/ml Human VEGF-165 aa (Humanzyme), 25ng/ml human BMP4 (Stemgent),  450µM monothioglycerol (Sigma Aldrich),  2.25mM  each L-Glutamine and Nonn-essential amino acids (Invitrogen).
+Recurrent Variations in DNA Methylation in Human Pluripotent Stem Cells and their Differentiated Derivatives [Illumina Infinium 450K DNA Methylation].
+Reprogramming-associated aberrant DNA methylation determines hematopoietic differentiation capacity of human induced pluripotent stem cells [parental_lines_methylation].
+Reprogramming-associated aberrant DNA methylation determines hematopoietic differentiation capacity of human induced pluripotent stem cells [PSCderived_HPCs_methylation].
+Reprogramming-associated aberrant DNA methylation determines hematopoietic differentiation capacity of human induced pluripotent stem cells [PSCusedfor_iPSDMRs_methylation].
+Reprogramming-associated aberrant DNA methylation determines hematopoietic differentiation capacity of human induced pluripotent stem cells [undiff_iPSESCs_methylation].
+RNA-reprogrammed induced pluripotent stem cell line derived from neonatal BJ fibroblasts, clone M.
+RNA-reprogrammed induced pluripotent stem cell line derived from neonatal BJ fibroblasts, clone O.
+RNA-reprogrammed induced pluripotent stem cell line from adult fibroblasts of a type 1 diabetic subject (ID 1018), clone A.
+RNA-reprogrammed induced pluripotent stem cell line from adult fibroblasts of a type 1 diabetic subject (ID 1018), clone B.
+RNA-reprogrammed induced pluripotent stem cell line from adult fibroblasts of a type 1 diabetic subject (ID 1018), clone C.
+RNA-reprogrammed induced pluripotent stem cell line from adult fibroblasts of a type 1 diabetic subject (ID 1018), clone D.
+RNA-reprogrammed induced pluripotent stem cell line from adult fibroblasts of a type 1 diabetic subject (ID 1018), clone E.
+RNA-reprogrammed induced pluripotent stem cell line from adult fibroblasts of a type 1 diabetic subject (ID 1018), clone F.
+see L. Vallier et al., Stem Cells (2009) for details.
+Sequencing of bisulfite converted DNA and array based analysis of normal tissues, human embryonic stem cells, androgenetic hydatidiform moles and leukocytes from reciprocal genome-wide uniparental disomies.
+Standardization of mesenchymal stromal cells (MSCs) remains a major obstacle in regenerative medicine. Starting material and culture expansion affect cell preparations and render comparison between studies difficult. In contrast, induced pluripotent stem cells (iPSCs) assimilate towards a ground-state and may therefore give rise to more standardized cell preparations. We reprogrammed bone marrow MSCs into iPSCs which were subsequently re-differentiated towards MSCs. These iPS-MSCs revealed similar morphology, immunophenotype, in vitro differentiation potential, and gene expression profiles as primary MSCs. DNA methylation (DNAm) profiles of iPSCs maintained some donor-specific characteristics, whereas tissue-specific, senescence-associated, and age-related DNAm patterns were erased during reprogramming. iPS-MSCs reacquired senescence-associated DNAm during culture expansion but they remained rejuvenated with regard to age-related DNAm. Overall, iPS-MSCs and MSCs are similar in function but differ in their epigenetic makeup.
+Stem Cell Biology and Cellular Engineering.
+T cell receptor (TCR) αβ+ CD4- CD8- double negative T cells represent a rare T cell subset implicated in the pathogenesis of several autoimmune diseases. In this study, we investigated the DNA methylation signature of double negative T cells to gain insight into the epigenetic architecture and transcriptional capacity of peripheral blood primary human double negative T cells compared to autologous CD4+ and CD8+ T cells.  We identified 2,984 CG sites across the genome with unique loss of DNA methylation in double negative T cells, and showed significant reduction in mRNA expression of DNA methyltransferases DNMT1, DNMT3A, and DNMT3B. DNA methylation was increased in CD8A/CD8B and CD4 consistent with epigenetic repression of both the CD8 and CD4 genetic loci in double negative T cells. Curiously, we show consistent increase in non-CG methylation in double negative T cells, a finding suggestive of pluripotency and previously only known to occur in embryonic stem cells and developing brain tissue. Network analyses of genes hypomethylated in double negative compared to CD4+ and CD8+ T cells indicate a strong relationship between double negative T cells and functions related to cell-cell interaction, cell adhesion, and cell activation pathways. Our data also suggest a robust pro-inflammatory epigenetic signature in double negative T cells, consistent with a transcriptional permissiveness to produce key inflammatory cytokines including IFNγ, IL-17F, IL-12B, IL-5, IL-18, TNFSF11 (RANKL), and TNFSF13B (BLYS or BAFF). These findings highlight an epigenetic basis for a role of double negative T cells in autoimmunity and extend the potential pathogenic transcriptional capacity of this unique T cell subset.
+The current study identified a link between DNA methylome of B-cell acute lymphoblastic leukemias (B-ALLs) and embryonic stem cell (ESC) bivalency, through which tumor cells can mimic the pluripotency of ESCs.
+The variation among induced pluripotent stem cells (iPSCs) in their differentiation capacity to specific lineages is frequently attributed to somatic memory. In this study, we compared hematopoietic differentiation capacity of 35 human iPSC lines derived from four different tissues and four embryonic stem cell lines. The analysis revealed that hematopoietic commitment capacity (PSCs to hematopoietic precursors) is correlated with the expression level of the IGF2 gene independent of the iPSC origins. In contrast, maturation capacity (hematopoietic precursors to mature blood) is affected by iPSC origin; blood-derived iPSCs showed the highest capacity. However, some fibroblast-derived iPSCs showed higher capacity than blood-derived clones. Tracking of DNA methylation changes during reprogramming reveals that maturation capacity is highly associated with aberrant DNA methylation acquired during reprogramming, rather than the types of iPSC origins. These data demonstrated that variations in the hematopoietic differentiation capacity of iPSCs are not attributable to somatic memories of their origins.
+Tissue- and Aging-specific DNA-Methylation Patterns are erased in Mesenchymal Stromal Cells derived from Induced Pluripotent Stem Cells. [Methylation profiling].
+tissue: differentiated angioblast (CD34+) human embryonic stem cell.
+tissue: differentiated angioblast (CD34+) human induced pluripotent stem cell.
+tissue: differentiated endothelial human embryonic stem cell.
+tissue: differentiated endothelial human induced pluripotent stem cell.
+tissue: differentiated smooth muscle human induced pluripotent stem cell.
+tissue: human embryonic stem cell differentiated smooth muscle.
+tissue: human embryonic stem cells.
+tissue: human embryonic stem cell undifferentiated.
+tissue: human induced pluripotent stem cell undifferentiated.
+Total DNA isolated by standard procedures from human adult mesenchymal stem cells (MSCs) obtained from 34 individuals aged 2 to 92.
+Undifferentiated human induced pluripotent stem cells.
+We differeniated human pluripotent stem cell lines by using StemPro-34 (Invitrogen) based media for 15 days.Cytokines or a chemical compound were utilized as follows during differentiation: on day 0-1, human BMP4 (10 ng/ml) and Rock-inhibitor (Y27632) (10 μM); on day 1-4, human BMP4 (10 ng/ml) and human basic fibroblast growth factor (bFGF; 5 ng/ml); on day 4-8, human vascular endothelial growth factor (hVEGF; 10 ng/mL), hbFGF (1 ng/mL), human interleukin-6 (hIL-6; 10 ng/mL), hIL-3 (40 ng/mL), hIL-11 (5 ng/mL), human stem cell factor (hSCF; 100 ng/mL), and human Fms-like tyrosine kinase 3 ligand (hFlt3L; 100 ng/mL); and on Day 8-15, hVEGF (10 ng/mL), hIL-6 (10 ng/mL), hIL-3 (40 ng/mL), hIL-11 (5 ng/mL), hSCF (100 ng/mL), hFlt3L (100 ng/mL), human erythropoietin (hEPO; 4U/ml), and human thrombopoietin (50 ng/mL).
+We first demonstrate that non-genetically determined inter-individual differentially methylated regions (iiDMRs) can be temporally stable for at least two years. Then, we show that iiDMRS are associated with concomitant changes in chromatin state as measured by inter-individual differences in the levels of the histone variant H2A.Z. However, the correlation of promoter iiDMRs with gene expression is negligible and this correlation is not improved even by integrating H2A.Z information. We find that most promoter epialleles, whether genetically or non-genetically determined, are associated with low levels of transcriptional activity, depleted for house keeping genes, and either depleted for H3K4me3/enriched for H3K27me3, or lacking both these marks in human embryonic stem cells. These findings validate in an independent cohort. Interestingly, the key features of iiDMRs are reminiscent of those previously observed for promoters that undergo hyper-methylation in various cancers, in vitro cell culture, and human chronological ageing.
+We have assessed the global DNA methylation (Illumina Infinium HD 450K DNA methylationBeadChips) and transcriptional (Illumina HT12v4 Gene Expression Bead Array) profiles of transdifferentiated endothelial cells and smooth muscle, human embryonic stem cell (hESC) and human induced pluripotent stem cell (hiPSC) differentiated CD34+ angioblasts, hESCs,  hiPSC, primary smooth muscle and primary human umbilical vein endothelial cells using microarrays.
+We monitored 9 pluripotent stem cell lines across three time points of hepatic directed differentiation, representing 3 developmental stages: undifferentiated (T0), definitive endoderm (T5), and early hepatocyte (T24). ESCs (n=3) and patient-derived normal (n=3) or PiZZ (n=3) iPSCs were analyzed in the undifferentiated state (T0), after differentiation to definitive endoderm (T5), and upon reaching hepatic stage (T24) for a total of 27 samples.  We sought to test the hypothesis that a single transgene-free iPSC clone from each donor could be used to detect disease-specific differences between the normal cohort and the PiZZ cohort, anticipating that this difference would emerge only at a developmental stage in which the mutant AAT gene is expressed. Cells were sorted before analysis at T0 and T5 after antibody staining for TRA1-80+/SSEA3+ (T0) or C-kit+/CXCR4+ (T5) cells.

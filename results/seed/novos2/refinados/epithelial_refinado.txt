@@ -1,0 +1,109 @@
+Bisulphite converted DNA from matched mock and human rhinovirus-16 infected nasal epithelial cells from Healthy (n=3) and Asthmatics (n=6) adults were hybridized to the Illumina DNA methylation 450K Bead Array.
+Case control design with nasal epithelial cells from 36 atopic asthmatic and 36 nonatopic nonasthmatic children from the inner city.
+cell description: amniotic epithelial cells.
+cell description: bronchial epithelial cells.
+cell description: choroid plexus epithelial cells.
+cell description: epithelial cell line derived from a lung carcinoma tissue. (PMID: 175022), This line was initiated in 1972 by D.J. Giard, et al. through explant culture of lung carcinomatous tissue from a 58-year-old caucasian male. - ATCC, newly promoted to tier 2: not in 2011 analysis.
+cell description: epithelial cell line derived from a mammary ductal carcinoma.
+cell description: epithelial cell line derived from an endometrium adenocarcinoma, fetal membranes were collected from women who underwent planned cesarean delivery at term, before labor and without rupture of membranes.
+cell description: esophageal epithelial cells.
+cell description: iris pigment epithelial cells.
+cell description: mammary epithelial cells.
+cell description: mammary gland, non-tumorigenic epithelial, inducible cell line, derived from the MCF-10A parental cells and contain ER-Src, a derivative of the Src kinase oncoprotein (v-Src) that is fused to the ligand-binding domain of the estrogen receptor (ER).
+cell description: non-pigment ciliary epithelial cells.
+cell description: prostate epithelial cell line.
+cell description: pulmonary alveolar epithelial cells.
+cell description: renal cortical epithelial cells.
+cell description: renal epithelial cells.
+cell description: renal proximal tubule epithelial cells.
+cell description: retinal pigment epithelial cells.
+cell description: small airway epithelial cells.
+cell type: induced pluripotent stem cells derived from prostate epithelial cells.
+Cellular senescence is a stable arrest of proliferation and is considered a key component of processes associated with carcinogenesis and other ageing-related phenotypes. However, till now, biological markers that define senescence on a genome-wide scale have been limited. Here, we report a DNA methylomic analysis of actively dividing and deeply senescent normal human epithelial cells, identifying 3,852 senescence-associated differentially methylated positions (senDMPs). We find that this human senDMP signature is positively and significantly correlated with both cancer and ageing-associated methylomic dynamics. We also identify germline genetic variants, including those associated with the p16INK4A locus, that are associated with the presence of in vivo senDMP signatures. Importantly, we also demonstrate that the senDMP signature can be effectively reversed in a newly-developed protocol of transient cellular rejuvenation. The senDMP signature has significant potential for understanding some of the key (epi)genetic etiological factors that lead to cancer and age-related diseases in humans.
+DNA methylation has become increasingly recognized in the etiology of psychiatric disorders. Because brain tissue is not accessible in living humans, epigenetic studies are most often conducted in blood. Saliva is often collected for genotyping studies but is rarely used to examine DNA methylation because the proportion of epithelial cells and leukocytes varies extensively between individuals.  The goal of this study was to evaluate whether saliva DNA is informative for studies of psychiatric disorders.   Saliva and blood methylation was clearly distinguishable though there was positive correlation overall. There was little correlation in CpG sites within relevant candidate genes.  Correlated CpG sites were more likely to occur in areas of low CpG density (i.e. CpG shores and open seas). There was more variability in CpG sites from saliva than blood, which may reflect its heterogeneity. Thus, this study provides a framework for using DNA methylation from saliva and suggests that DNA methylation of saliva may offer distinct opportunities for epidemiological and longitudinal studies of psychiatric traits.
+DNA methylation was assessed in saliva and blood samples from 64 adult African Americans. Both saliva and blood samples were collected from each participant. Saliva was stored in Oragene DNA sample collection kits (DNA Genotek), and blood was collected in EDTA vacuum tubes.  DNA was extracted using the Puregene Genomic DNA kit (Invitrogen). DNA methylation was interrogated for each sample using the HumanMethylation450 BeadChip (Illumina).  Analyses for tissue-specific DNA patterns were conducted using linear regression adjusted for appropriate covariates, including estimated cellular proportions.  The estimated proportion of epithelial cells in saliva DNA ranged from 3-99% (median 26%). In blood, the estimated proportion of lymphocytes ranged from 25-70% (median 48%) and neutrophils ranged from 42-84% (median 58%).  Methylation of 68.8% of all CpG sites differed relative to epithelial cell proportion (FDR<.05).  Our results provide a framework for methylation studies in DNA extracted from saliva and highlight the importance of controlling for the proportion of epithelial and leukocyte cells.  This presents an attractive opportunity for investigators that have already collected salivary DNA for genetic studies of psychiatric traits.
+For prostate sphere differentiation: E-PZ-iPS-like cells cultured on Matrigel were digested with collagenase type IV (Invitrogen) and transferred to ultra-low attachment plates (Corning Life Sciences, Tewksbury, MA) for suspension culture for 8 days in DMEM/F12 (1:1) medium supplemented with 5 ng/ml bFGF (PeproTech), 10 ng/ml LIF (Santa Cruz Biotechnology Inc.), and 5% knockout FBS (Invitrogen).  For basal epithelial cell differentiation, E-PZ-iPS-like spheres were then cultured in Complete PFMR-4A medium [29] for 3 days.  To induce expression of androgen receptor (AR), E-PZ-iPS-like spheres were further cultured in Complete PFMR-4A medium with 10 nM R1881 for 3 days.  To induce expression of prostate-specific antigen (PSA), E-PZ-iPS-like spheres were co-cultured with rat urogenital sinus (UGS) isolated from E17 rat embryos as previously described [31] in Complete PFMR-4A medium with 10 nM R1881 for 5 days.
+Genome-wide analysis of DNA methylation between nasopharyngeal carcinoma tissues and normal nasopharyngeal epithelial tissues.
+genomic DNA from normal nasopharyngeal epithelial tissue 1.
+genomic DNA from normal nasopharyngeal epithelial tissue 10.
+genomic DNA from normal nasopharyngeal epithelial tissue 11.
+genomic DNA from normal nasopharyngeal epithelial tissue 12.
+genomic DNA from normal nasopharyngeal epithelial tissue 13.
+genomic DNA from normal nasopharyngeal epithelial tissue 14.
+genomic DNA from normal nasopharyngeal epithelial tissue 15.
+genomic DNA from normal nasopharyngeal epithelial tissue 16.
+genomic DNA from normal nasopharyngeal epithelial tissue 17.
+genomic DNA from normal nasopharyngeal epithelial tissue 18.
+genomic DNA from normal nasopharyngeal epithelial tissue 19.
+genomic DNA from normal nasopharyngeal epithelial tissue 2.
+genomic DNA from normal nasopharyngeal epithelial tissue 20.
+genomic DNA from normal nasopharyngeal epithelial tissue 21.
+genomic DNA from normal nasopharyngeal epithelial tissue 22.
+genomic DNA from normal nasopharyngeal epithelial tissue 23.
+genomic DNA from normal nasopharyngeal epithelial tissue 24.
+genomic DNA from normal nasopharyngeal epithelial tissue 3.
+genomic DNA from normal nasopharyngeal epithelial tissue 4.
+genomic DNA from normal nasopharyngeal epithelial tissue 5.
+genomic DNA from normal nasopharyngeal epithelial tissue 6.
+genomic DNA from normal nasopharyngeal epithelial tissue 7.
+genomic DNA from normal nasopharyngeal epithelial tissue 8.
+genomic DNA from normal nasopharyngeal epithelial tissue 9.
+Human mammary epithelial cell TGFb treated 0 d.
+Human mammary epithelial cell TGFb treated 0 d, M. Sss I treat.
+Human mammary epithelial cell TGFb treated 12 d.
+Human mammary epithelial cell TGFb treated 12 d, M. Sss I treat.
+Human mammary epithelial cell TGFb treated 2 d.
+Human mammary epithelial cell TGFb treated 2 d, M. Sss I treat.
+Human mammary epithelial cell TGFb treated 8 d.
+Human mammary epithelial cell TGFb treated 8 d, M. Sss I treat.
+Human mammary epithelial cell TWIST overexpression 0 d.
+Human mammary epithelial cell TWIST overexpression 0 d, M. Sss I treat.
+Human mammary epithelial cell TWIST overexpression 12 d.
+Human mammary epithelial cell TWIST overexpression 12 d, M. Sss I treat.
+Human mammary epithelial cell TWIST overexpression 2 d.
+Human mammary epithelial cell TWIST overexpression 2 d, M. Sss I treat.
+Human mammary epithelial cell TWIST overexpression 8 d.
+Human mammary epithelial cell TWIST overexpression 8 d, M. Sss I treat.
+Human rhinovirus infection causes different DNA methylation changes in nasal epithelial cells from healthy and asthmatic subjects.
+Immune regulation by low doses of the DNA methyltransferase inhibitor 5-azacitidine in common human epithelial cancers [methylation].
+Induced Pluripotency of Human Prostatic Epithelial Cells.
+Induced pluripotent stem (iPS) cells are a valuable resource for discovery of epigenetic changes critical to cell type-specific differentiation. Although iPS cells have been generated from other terminally differentiated cells, the reprogramming of normal adult human basal prostatic epithelial (E-PZ) cells to a pluripotent state has not been reported.  Here, we attempted to reprogram E-PZ cells by forced expression of Oct4, Sox2, c-Myc, and Klf4 using lentiviral vectors and obtained embryonic stem cell (ESC)-like colonies at a frequency of 0.01%.  These E-PZ-iPS-like cells with normal karyotype gained expression of pluripotent genes typical of iPS cells (Tra-1-81, SSEA-3, Nanog, Sox2, and Oct4) and lost gene expression characteristic of basal prostatic epithelial cells (CK5, CK14, and p63).  E-PZ-iPS-like cells demonstrated pluripotency by differentiating into ectodermal, mesodermal, and endodermal cells in vitro, although lack of teratoma formation in vivo and incomplete demethylation of pluripotency genes suggested only partial reprogramming.  Importantly, E-PZ-iPS-like cells re-expressed basal epithelial cell markers (CD44, p63, MAO-A) in response to prostate-specific medium in spheroid culture.  Androgen induced expression of androgen receptor (AR), and co-culture with rat urogenital sinus further induced expression of prostate-specific antigen, a hallmark of secretory cells, suggesting that E-PZ-iPS-like cells have the capacity to differentiate into prostatic basal and secretory epithelial cells.  Finally, when injected into mice, E-PZ-iPS-like cells expressed basal epithelial cell markers including CD44 and p63.  When co-injected with rat urogenital mesenchyme, E-PZ-iPS-like cells expressed AR and expression of p63 and CD44 was repressed. DNA methylation profiling identified key pathways and regulators of prostatic differentiation including Wnt5a, BPM7, PTEN, and NKx3.1 using E-PZ-iPS-lke cells. Our results suggest that iPS-like cells can be derived from prostatic epithelial cells.  These cells are pluripotent and capable of prostatic differentiation, and therefore provide a novel model for investigating epigenetic changes involved in prostate cell lineage specification.
+Limbal epithelial stem cell (LESC) deficiency represents a significant clinical problem especially in bilateral cases. Induced pluripotent stem cells (iPSC) may be a promising source of LESC, allowing standardized and continual propagation and banking. The objective of this study was to generate iPSC from human limbal epithelial cultures and differentiate them back into limbal epithelial cells using substrata mimicking the natural LESC niche. Using Yamanaka’s episomal vectors limbal-derived iPSC were reprogrammed from LESC cultured from donor corneoscleral rims and from human skin fibroblasts. A clone from limbal-derived iPSC expressed stemness markers, had a diploid karyotype, and produced teratomas in nude mice representing three germ layers. Compared to parental LESC, this clone had fewer specific gene methylation changes revealed using the Illumina Infinium Methylation 450k Beadchips than compared to skin fibroblasts. The expression of putative LESC markers was examined by quantitative RT-PCR and immunostaining in limbal-derived and fibroblast-derived iPSC cultured on denuded human amniotic membrane or denuded cornea. Limbal-derived iPSC had markedly stronger expression of PAX6, ABCG2, Np63, keratins 14, 15, 17, and N-cadherin than fibroblast-derived iPSC. On denuded corneas, limbal-derived iPSC showed the expression of differentiated corneal keratins 3 and 12. The data suggest that iPSC differentiation to a desired lineage may be facilitated by their generation from the same tissue. This may be related to preservation of parental tissue epigenetic methylation signatures in iPSC and use of biological substrata similar to the natural niche of parental cells. The data pave the way for generating transplantable LESC from limbal-derived iPSC.
+Nasal epithelial cells (NECs) were plated in 12-well dishes pre-coated with 0.2 mg/mL Type I purified collagen (Vitrogen 100, Advanced Biomatrix Corp.) in complete Bronchial Epithelial Cell Media (BEGM, Lonza) and incubated at 37°C with 5% CO2 until 80-90% confluence was achieved. Cells were then trypsinized (0.25% Trypsin EDTA), harvested, split and sub cultured onto collagen coated 24-well plates and maintained in BEGM (passage 1).
+Nasopharyngeal carcinoma (NPC) is rare malignancy in most parts around the world but common in Southern China and Southeast Asia, Annually, approximately 80,000 new NPC cases and 50,000 deaths are reported worldwide. In NPC, recent advances have shown that many genes that are predominantly or even exclusively silenced by DNA methylation in epithelial cells during pathogenesis of NPC. However, the causal relationship between DNA methylation status and outcome in NPC remains not well understood. To investigate this problem, we used Illumina 450K BeadChips to examined methylation patterns and survival in NPC. and ultimately provided insight into prognostic value of DNA methylation in NPC clinical management.
+normal nasopharyngeal epithelial tissue 1.
+normal nasopharyngeal epithelial tissue 10.
+normal nasopharyngeal epithelial tissue 11.
+normal nasopharyngeal epithelial tissue 12.
+normal nasopharyngeal epithelial tissue 13.
+normal nasopharyngeal epithelial tissue 14.
+normal nasopharyngeal epithelial tissue 15.
+normal nasopharyngeal epithelial tissue 16.
+normal nasopharyngeal epithelial tissue 17.
+normal nasopharyngeal epithelial tissue 18.
+normal nasopharyngeal epithelial tissue 19.
+normal nasopharyngeal epithelial tissue 2.
+normal nasopharyngeal epithelial tissue 20.
+normal nasopharyngeal epithelial tissue 21.
+normal nasopharyngeal epithelial tissue 22.
+normal nasopharyngeal epithelial tissue 23.
+normal nasopharyngeal epithelial tissue 24.
+normal nasopharyngeal epithelial tissue 3.
+normal nasopharyngeal epithelial tissue 4.
+normal nasopharyngeal epithelial tissue 5.
+normal nasopharyngeal epithelial tissue 6.
+normal nasopharyngeal epithelial tissue 7.
+normal nasopharyngeal epithelial tissue 8.
+normal nasopharyngeal epithelial tissue 9.
+normal oral epithelial tissues.
+overall tumour histology: epithelial
+PURPOSE: Non-small cell lung cancers (NSCLC) comprise multiple distinct biological groups with different prognoses. For example, patients with epithelial-like (EL) tumors have a better prognosis and exhibit greater sensitivity to inhibitors of the epidermal growth factor receptor (EGFR) pathway than patients with mesenchymal-like (ML) tumors. Here we test the hypothesis that EL NSCLCs can be distinguished from ML NSCLCs on the basis of global DNA methylation patterns.
+RESULTS: We show that patterns of methylation divide NSCLCs into EL and ML subsets as defined by gene expression and that these signatures are similarly correlated in NSCLC cell lines and tumors. We identify multiple DMRs, including ERBB2 and ZEB2, whose methylation status is strongly associated with an epithelial phenotype in NSCLC cell lines, surgically resected tumors, and formalin-fixed biopsies from NSCLC patients who went on to fail front-line chemotherapy.
+The aim of this study was to identify new candidate genes that are differentially methylated in squamous cell carcinoma compared to the DNA samples from cervical intraepithelial neoplasia grade 3 (CIN3) and normal cervical scrapes. The Illumina Infinium Human Methylation 450 K BeadChip method identifies genome-wide DNA methylation changes in CpG islands, CpG shores and shelves.
+The immortalized human mammary epithelial cell line (HMLE) and the derivative cell line HMLE-Twist-ER were kindly provided by the Robert Weinberg laboratory (MIT). The culture of the cells was carried out as described previously (Elenbaas et al., 2001; Mani et al., 2008).
+The presence of an extra whole or part of chromosome 21 in people with Down syndrome (DS) is associated with multiple neurological changes, including pathological aging that often meets the criteria for Alzheimer’s Disease (AD). While the mechanism underlying these changes is unknown, it has been hypothesized that the presence of the amyloid precursor protein (APP) on chromosome 21 may contribute to the  phenotype. Genome-wide DNA methylation abnormalities have been shown in neural tissue of patients with AD, and cells may respond to changes in gene dosage with altered DNA methylation. We therefore examined whole-genome DNA methylation in buccal epithelial cells of adults with DS to determine whether patterns of DNA methylation correlated with DS and/or cognitive impairment. In addition we examined DNA methylation at the APP gene itself, to see whether there were changes in DNA methylation in this population. Using the Illumina 450K Human Methylation Array, we examined more than 485,000 CpG sites distributed across the genome in buccal epithelial cells. We found 297 CpGs to be differentially methylated between the groups, including 26 genes that were represented by more than one CpG. In addition, we found 331 probes that were correlated with cognitive function including 23 genes represented by more than one probe. We found no enrichment on chromosome 21 and targeted analysis of the APP gene revealed weak evidence for epigenetic impacts related to the AD phenotype. Overall, our results indicate that both Trisomy 21 and cognitive impairment are associated with distinct patterns of DNA methylation.
+tissue: normal oral epithelial tissues.
+tissue type: normal nasopharyngeal epithelial.
+We employed Illumina Human Methylation450K Beadchip  to analyze a genome-wide of DNA methylation in a cohort of 48 samples (between 24 nasopharyngeal carcinoma tissues and 24 normal nasopharyngeal epithelial tissues) to identify aberrant methylation genes.
+We measured methylation of 42 OSCC tumors, 2 normal oral epithelial tissues, and 2 normal blood samples with Illumina HumanMethylation450 arrays.
+When NEC cultures reached 80-90% confluence, cells were infected either with HRV-16 (multiplicity of infection=2) or phosphate buffered saline (PBS, Mock) in a final volume of 100µL Bronchial Epithelial Basal Medium (Lonza) for 1hr at 33°C with mild shaking. Infection media was then removed and cells washed twice with warm PBS then 500µL of fresh BEGM was added and cultures returned to 37°C for 48hrs.
